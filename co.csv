@@ -792,7 +792,7 @@ speleothem.co,available,54,72,10,Science,,,
 hazel.co,expiring,50,96,5,Food and Beverage,20/07/2010 18:09,19/07/2025 23:59,"GoDaddy.com, LLC"
 involving.co,available,52,68,9,General,,,
 ribroast.co,available,88,72,9,"Food and Beverage,Hospitality,Retail",,,
-single.co,resell,74,80,6,Sports,25/02/2010 00:58,24/02/2026 23:59,Hello Internet Corp.
+single.co,resell,74,80,6,Sports,25/02/2010 01:58,25/02/2026 00:59,Hello Internet Corp.
 attributes.co,available,44,44,10,General,,,
 substitutable.co,available,74,72,13,"Engineering,Technology",,,
 theft.co,expiring,68,76,5,"Insurance,Law",21/07/2010 20:25,20/07/2025 23:59,"GoDaddy.com, LLC"
@@ -4107,7 +4107,7 @@ routing.co,expiring,68,76,7,"Technology,Telecommunications,Transportation",21/07
 stbruno.co,available,58,68,9,"Humanities,Religion",,,
 wellmaking.co,available,,8,10,,,,
 outofoffice.co,resell,56,76,13,"Business,Media,Technology",23/07/2010 11:53,22/07/2027 23:59,"GoDaddy.com, LLC"
-hundred.co,expiring,88,80,7,Mathematics,21/07/2010 21:59,20/07/2025 23:59,"GoDaddy.com, LLC"
+hundred.co,expiring,88,80,7,Mathematics,21/07/2010 23:59,21/07/2025 01:59,"GoDaddy.com, LLC"
 weatherman.co,resell,60,76,10,"Environment,Media,Science",28/02/2017 02:00,27/02/2026 23:59,InternetX GmbH
 interestrate.co,expiring,62,76,13,"Banking,Business,Finance",21/07/2010 21:59,20/07/2025 23:59,"GoDaddy.com, LLC"
 whim.co,expiring,70,92,4,Arts,31/07/2010 19:03,30/07/2025 23:59,Dynadot Inc
