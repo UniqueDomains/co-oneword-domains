@@ -1,5 +1,5 @@
 Domain,Status,Attractiveness,Demand,Length,Sectors,Created,Expires,Registrar
-okay.co,resell,146,56%,4,"Business,Retail",20/07/2010 18:01,19/07/2026 23:59,Dynadot Inc
+okay.co,resell,146,52%,4,"Business,Retail",20/07/2010 18:01,19/07/2026 23:59,Dynadot Inc
 great.co,resell,140,88%,5,"Business,General,Media,Technology",31/08/2010 18:24,30/08/2025 23:59,"GoDaddy.com, LLC"
 howdy.co,expiring,120,80%,5,Technology,20/07/2010 18:09,19/07/2025 23:59,"GoDaddy.com, LLC"
 most.co,expiring,118,88%,4,"Business,Media,Retail",21/07/2010 21:39,20/07/2025 23:59,"GoDaddy.com, LLC"
@@ -8,7 +8,7 @@ firm.co,available,118,76%,4,"Business,Finance,Law",,,
 middle.co,sold,116,80%,6,"Business,Education,Media",20/07/2010 18:00,19/07/2026 23:59,"NameCheap, Inc."
 fivestar.co,expiring,114,80%,9,"Entertainment,Hospitality,Retail",21/07/2010 21:54,20/07/2025 23:59,"GoDaddy.com, LLC"
 class.co,resell,114,88%,5,"Business,Education,Media",21/07/2010 21:38,20/07/2026 23:59,"NameCheap, Inc."
-flush.co,sold,114,28%,5,"Business,Finance,Media",20/07/2010 18:00,19/07/2026 23:59,Dynadot Inc
+flush.co,sold,114,24%,5,"Business,Finance,Media",20/07/2010 18:00,19/07/2026 23:59,Dynadot Inc
 lightweight.co,resell,113,72%,11,"Automotive,Sports,Technology",16/06/2020 16:20,16/06/2027 16:20,"GoDaddy.com, LLC"
 signal.co,expiring,112,96%,6,"Media,Technology,Telecommunications",21/07/2010 20:14,20/07/2025 23:59,"CSC Corporate Domains, Inc."
 pity.co,expiring,112,76%,4,Healthcare,23/07/2010 13:56,22/07/2025 23:59,Dynadot Inc
@@ -44,7 +44,7 @@ film.co,resell,102,84%,4,"Arts,Entertainment,Media",25/02/2010 00:43,24/02/2026 
 gender.co,expiring,102,76%,6,"Education,Humanities,Media",20/07/2010 18:10,19/07/2025 23:59,"GoDaddy.com, LLC"
 choose.co,expiring,102,76%,6,"Business,Retail,Technology",20/07/2010 18:00,19/07/2025 23:59,Dynadot Inc
 marquee.co,sold,102,80%,7,"Hospitality,Media",20/07/2010 18:01,19/07/2026 23:59,"CSC Corporate Domains, Inc."
-leading.co,resell,102,32%,7,"Business,Media,Technology",20/07/2010 18:00,19/07/2027 23:59,"GoDaddy.com, LLC"
+leading.co,resell,102,28%,7,"Business,Media,Technology",20/07/2010 18:00,19/07/2027 23:59,"GoDaddy.com, LLC"
 ratio.co,expiring,102,88%,5,"Business,Finance,Mathematics",20/07/2010 18:09,19/07/2025 23:59,"GoDaddy.com, LLC"
 each.co,expiring,102,84%,4,"Business,Education,Media",20/07/2010 18:00,19/07/2025 23:59,1API GmbH
 moderate.co,resell,102,72%,8,"Humanities,Politics",19/10/2014 04:53,18/10/2025 23:59,1API GmbH
@@ -101,7 +101,6 @@ scale.co,expiring,96,88%,5,"Business,Education,General,Science",21/07/2010 22:06
 congrats.co,resell,96,80%,8,"Entertainment,Media",18/09/2017 18:00,17/09/2025 23:59,Dynadot Inc
 sub.co,expiring,96,96%,3,"Food and Beverage,Military,Technology",20/07/2010 17:59,19/07/2025 23:59,"GoDaddy.com, LLC"
 deadcenter.co,available,96,72%,11,Engineering,,,
-meaning.co,expiring,96,76%,7,"Education,Humanities,Media",20/07/2010 18:10,19/07/2025 23:59,"GoDaddy.com, LLC"
 awakening.co,resell,95,84%,9,"Entertainment,Humanities,Religion",19/08/2014 18:25,18/08/2025 23:59,Dynadot Inc
 adventure.co,resell,94,88%,9,"Entertainment,Sports,Travel",24/02/2010 22:38,23/02/2026 23:59,Hello Internet Corp.
 coquette.co,available,94,76%,8,"Entertainment,Fashion,Media",,,
@@ -127,7 +126,7 @@ feature.co,expiring,94,76%,7,Media,20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.co
 climb.co,expiring,94,76%,5,"Health and Fitness,Sports,Travel",21/07/2010 21:57,20/07/2025 23:59,"GoDaddy.com, LLC"
 experiment.co,expiring,94,76%,10,"Education,Science,Technology",20/07/2010 18:07,19/07/2025 23:59,"GoDaddy.com, LLC"
 cheer.co,expiring,94,92%,5,"Entertainment,Health and Fitness,Sports",20/07/2010 18:00,19/07/2025 23:59,Hello Internet Corp.
-nimble.co,expired,94,52%,6,"Health and Fitness,Sports,Technology",21/07/2010 20:26,20/07/2025 23:59,"GoDaddy.com, LLC"
+nimble.co,sold,94,52%,6,"Health and Fitness,Sports,Technology",21/07/2010 20:26,20/07/2026 23:59,"GoDaddy.com, LLC"
 unfold.co,sold,94,88%,6,Arts,22/07/2010 17:09,21/07/2026 23:59,Key-Systems GmbH
 fork.co,expiring,94,92%,4,"Construction,Food and Beverage,Retail",20/07/2010 18:00,19/07/2025 23:59,IONOS SE
 cell.co,resell,94,88%,4,"Healthcare,Science,Technology",24/02/2010 23:20,23/02/2026 23:59,Hello Internet Corp.
@@ -137,7 +136,8 @@ request.co,expiring,92,84%,7,"Business,Media,Technology",20/07/2010 18:06,19/07/
 interview.co,expiring,92,92%,9,"Business,Education,Media",21/07/2010 20:18,20/07/2025 23:59,"GoDaddy.com, LLC"
 assist.co,resell,92,92%,6,"Business,Healthcare,Technology",31/08/2010 18:24,30/08/2025 23:59,"GoDaddy.com, LLC"
 incense.co,expiring,92,68%,7,"Religion,Retail",12/07/2020 18:44,12/07/2025 18:44,Porkbun
-agile.co,sold,92,40%,5,"Health and Fitness,Sports,Technology",20/07/2010 18:00,19/07/2026 23:59,Domainbox Limited
+australian.co,resell,92,32%,10,"Geography,Travel",08/11/2015 17:50,07/11/2027 23:59,Dynadot Inc
+agile.co,sold,92,36%,5,"Health and Fitness,Sports,Technology",20/07/2010 18:00,19/07/2026 23:59,Domainbox Limited
 assert.co,expiring,92,76%,6,"Business,Law",22/07/2010 12:19,21/07/2025 23:59,Dynadot Inc
 celibate.co,available,92,68%,8,"Humanities,Religion",,,
 determinate.co,available,92,72%,11,"Engineering,Mathematics,Science",,,
@@ -156,7 +156,7 @@ DaffyDuck.co,expiring,92,24%,10,Entertainment,22/07/2024 21:14,22/07/2025 21:14,
 nutrient.co,sold,92,40%,8,"Food and Beverage,Healthcare",20/07/2010 18:05,19/07/2026 23:59,"GoDaddy.com, LLC"
 naming.co,expiring,92,72%,6,"Business,Media,Technology",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 hide.co,expiring,92,92%,4,"Arts,Entertainment,Media",20/07/2010 18:00,19/07/2025 23:59,1API GmbH
-aromatic.co,expiring,92,80%,8,"Food and Beverage,Health and Fitness",20/07/2010 18:11,19/07/2025 23:59,"GoDaddy.com, LLC"
+aromatic.co,resell,92,44%,8,"Food and Beverage,Health and Fitness",20/07/2010 18:11,19/07/2026 23:59,"GoDaddy.com, LLC"
 cliche.co,expiring,91,84%,6,"Arts,Media",20/07/2010 18:43,19/07/2025 23:59,Sav.com LLC
 righteous.co,expiring,91,76%,9,"Education,Humanities,Religion",20/07/2010 18:11,19/07/2025 23:59,"GoDaddy.com, LLC"
 defrost.co,expiring,91,80%,7,"Automotive,Food and Beverage,Technology",05/08/2021 19:03,05/08/2025 19:03,Dreamscape Networks International Pte Ltd
@@ -168,7 +168,7 @@ cyan.co,resell,90,72%,4,"Fashion,Retail",23/09/2011 18:06,22/09/2025 23:59,"GoDa
 detour.co,expiring,90,76%,6,"Construction,Transportation,Travel",20/07/2010 18:09,19/07/2025 23:59,"GoDaddy.com, LLC"
 dogstail.co,available,90,72%,8,General,,,
 gravy.co,expiring,90,76%,5,"Food and Beverage,Hospitality,Retail",20/07/2010 18:04,19/07/2025 23:59,"GoDaddy.com, LLC"
-additional.co,resell,90,36%,10,"Fashion,Retail,Technology",07/07/2017 20:01,06/07/2026 23:59,"NameCheap, Inc."
+additional.co,resell,90,32%,10,"Fashion,Retail,Technology",07/07/2017 20:01,06/07/2026 23:59,"NameCheap, Inc."
 log.co,expiring,90,88%,3,"Business,Environment,General,Technology",21/07/2010 20:18,20/07/2025 23:59,Tucows Domains Inc.
 burgeon.co,sold,90,76%,7,"Agriculture,Business,Environment",05/07/2019 06:48,05/07/2028 06:48,"GoDaddy.com, LLC"
 revise.co,resell,90,80%,6,"Business,Education,Media",28/09/2017 17:50,27/09/2026 23:59,Dynadot Inc
@@ -186,7 +186,7 @@ county.co,expiring,90,84%,6,"General,Geography,Politics,Real Estate",20/07/2010 
 rotate.co,expiring,90,80%,6,"Engineering,Manufacturing,Technology",20/07/2010 22:57,19/07/2025 23:59,Dynadot Inc
 tape.co,expiring,90,92%,4,"Media,Retail,Technology",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 lotion.co,expiring,90,80%,6,"Fashion,Healthcare,Retail",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
-leash.co,resell,90,28%,5,"General,Health and Fitness,Retail",27/06/2019 17:29,27/06/2026 17:29,"NameCheap, Inc."
+leash.co,resell,90,28%,5,"General,Health and Fitness,Retail",27/06/2019 15:29,27/06/2026 15:29,"NameCheap, Inc."
 shanty.co,resell,90,76%,6,Arts,11/10/2017 14:49,10/10/2025 23:59,"GoDaddy.com, LLC"
 dividend.co,expiring,90,72%,8,"Banking,Business,Finance",20/07/2010 18:08,19/07/2025 23:59,GoDaddy Online Services Cayman Islands Ltd.
 advert.co,resell,90,72%,6,"Business,Media,Technology",24/02/2010 22:38,23/02/2026 23:59,Hello Internet Corp.
@@ -207,13 +207,13 @@ highlight.co,expiring,90,88%,9,"Arts,Media",20/07/2010 18:02,19/07/2025 23:59,He
 remembrance.co,resell,90,80%,11,"Humanities,Media",21/04/2018 17:07,21/04/2026 17:07,InternetX GmbH
 undercut.co,available,90,84%,8,"Business,Fashion,Retail",,,
 potential.co,sold,90,80%,9,"Business,Education,Technology",20/07/2010 18:11,19/07/2026 23:59,"GoDaddy.com, LLC"
-aged.co,resell,90,28%,4,"Healthcare,Media,Real Estate",05/10/2021 17:00,05/10/2025 17:00,Dynadot Inc
+aged.co,resell,90,24%,4,"Healthcare,Media,Real Estate",05/10/2021 17:00,05/10/2025 17:00,Dynadot Inc
 intricate.co,resell,89,76%,9,"Arts,Fashion,Technology",25/01/2018 22:30,25/01/2026 22:30,InternetX GmbH
 pink.co,resell,89,84%,4,"Fashion,Retail",24/02/2010 23:28,23/02/2026 23:59,"GoDaddy.com, LLC"
 expertise.co,expiring,89,80%,9,"Business,Education,Technology",20/07/2010 18:08,19/07/2025 23:59,Dynadot Inc
 suspense.co,expiring,88,80%,8,"Entertainment,Media",20/07/2010 18:06,19/07/2025 23:59,"GoDaddy.com, LLC"
 takeout.co,expiring,88,72%,7,"Food and Beverage,Hospitality,Retail",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
-alluring.co,expired,88,20%,8,"Fashion,Retail",28/07/2020 07:37,28/07/2025 07:37,"GoDaddy.com, LLC"
+alluring.co,resell,88,24%,8,"Fashion,Retail",28/07/2020 07:37,28/07/2026 07:37,"GoDaddy.com, LLC"
 encouraging.co,available,88,76%,11,"Business,Education,Media",,,
 ribroast.co,available,88,72%,9,"Food and Beverage,Hospitality,Retail",,,
 euro.co,sold,88,80%,4,"Business,Finance",22/04/2010 17:03,21/04/2026 23:59,"GoDaddy.com, LLC"
@@ -225,7 +225,7 @@ mammoth.co,resell,88,80%,7,"Entertainment,Media",04/10/2022 17:00,04/10/2025 17:
 veil.co,expiring,88,76%,4,"Fashion,Religion",20/07/2010 18:06,19/07/2025 23:59,"GoDaddy.com, LLC"
 chart.co,expiring,88,80%,5,"Business,Technology",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 are.co,expiring,88,92%,3,Education,20/07/2010 18:00,19/07/2025 23:59,Hello Internet Corp.
-hundred.co,resell,88,32%,7,Mathematics,21/07/2010 23:59,21/07/2026 01:59,"Spaceship, Inc."
+hundred.co,resell,88,32%,7,Mathematics,21/07/2010 21:59,20/07/2026 23:59,"Spaceship, Inc."
 consummate.co,available,88,72%,10,"Arts,Business,Education",,,
 apricot.co,resell,88,80%,7,"Agriculture,Food and Beverage,Retail",04/10/2023 17:00,04/10/2025 17:00,"GoDaddy.com, LLC"
 affluent.co,sold,88,32%,8,"Finance,Retail",21/07/2010 16:03,20/07/2027 23:59,"GoDaddy.com, LLC"
@@ -263,6 +263,7 @@ underestimate.co,available,86,76%,13,"Business,Education,Media",,,
 flatscreen.co,available,86,72%,10,"Media,Retail,Technology",,,
 cosplay.co,resell,86,88%,7,"Entertainment,Fashion",20/07/2010 18:10,19/07/2027 23:59,"GoDaddy.com, LLC"
 pork.co,expiring,86,84%,4,"Agriculture,Food and Beverage,Retail",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
+inspire.co,expiring,86,48%,7,"Arts,Education,Humanities",01/09/2010 13:45,31/08/2025 23:59,"GoDaddy.com, LLC"
 document.co,resell,86,80%,8,"Business,Law,Technology",18/11/2019 06:18,18/11/2025 06:18,"NameCheap, Inc."
 telecast.co,resell,86,80%,8,"Entertainment,Media,Technology",17/03/2014 18:06,16/03/2026 23:59,InternetX GmbH
 breakthrough.co,resell,86,80%,12,"Healthcare,Science,Technology",20/09/2011 02:06,19/09/2025 23:59,"Spaceship, Inc."
@@ -270,7 +271,7 @@ none.co,expiring,86,84%,4,"Arts,Media",20/07/2010 18:01,19/07/2025 23:59,Dynadot
 intent.co,resell,86,60%,6,"Business,Education,Technology",20/07/2010 18:41,19/07/2026 23:59,"GoDaddy.com, LLC"
 mandolin.co,resell,86,84%,8,Arts,25/03/2014 19:02,24/03/2026 23:59,1API GmbH
 parkour.co,resell,86,88%,7,"Health and Fitness,Sports",29/01/2015 18:10,28/01/2026 23:59,InternetX GmbH
-alight.co,resell,86,40%,6,"Transportation,Travel",19/09/2015 15:12,18/09/2025 23:59,1API GmbH
+alight.co,resell,86,44%,6,"Transportation,Travel",19/09/2015 15:12,18/09/2025 23:59,1API GmbH
 educe.co,available,86,84%,5,"Education,Science,Technology",,,
 bottle.co,expiring,86,84%,6,"Environment,Food and Beverage,Retail",20/07/2010 18:01,19/07/2025 23:59,Domainbox Limited
 fist.co,resell,86,88%,4,"Health and Fitness,Medicine,Sports",20/07/2010 18:24,19/07/2026 23:59,Dynadot Inc
@@ -296,7 +297,7 @@ ebook.co,resell,85,84%,6,"Education,Media,Technology",31/08/2010 18:23,30/08/202
 shmoose.co,available,85,72%,7,"Business,Entertainment,Media",,,
 diner.co,expiring,85,76%,5,"Food and Beverage,Hospitality,Travel",20/07/2010 18:01,19/07/2025 23:59,"GoDaddy.com, LLC"
 rowboat.co,resell,85,80%,7,"Retail,Transportation,Travel",19/10/2014 04:53,18/10/2025 23:59,1API GmbH
-agnostic.co,resell,84,40%,8,"Religion,Science",02/10/2017 18:01,01/10/2025 23:59,"Spaceship, Inc."
+agnostic.co,resell,84,36%,8,"Religion,Science",02/10/2017 18:01,01/10/2025 23:59,"Spaceship, Inc."
 wednesday.co,expiring,84,80%,9,"Business,Education,Media",21/07/2010 21:55,20/07/2025 23:59,"GoDaddy.com, LLC"
 regal.co,sold,84,80%,5,"Arts,Fashion,Media",20/07/2010 18:09,19/07/2026 23:59,Key-Systems GmbH
 backdrop.co,available,84,80%,8,"Arts,Entertainment,Media",,,
@@ -321,8 +322,9 @@ iron.co,expiring,84,88%,4,"Construction,General,Manufacturing,Retail",20/07/2010
 ellipse.co,resell,84,68%,7,"Education,Mathematics,Science",18/09/2016 18:19,17/09/2025 23:59,InternetX GmbH
 fascinate.co,expiring,84,76%,9,"Education,Entertainment,Media",21/07/2010 08:57,20/07/2025 23:59,"Spaceship, Inc."
 brocade.co,sold,84,84%,7,"Arts,Fashion,Retail",20/07/2010 18:10,19/07/2026 23:59,"GoDaddy.com, LLC"
+alarm.co,expiring,84,52%,5,Technology,31/08/2010 18:23,30/08/2025 23:59,"GoDaddy.com, LLC"
 sicilian.co,available,84,84%,8,"Arts,Food and Beverage,Travel",,,
-thousand.co,resell,84,24%,8,Mathematics,21/07/2010 23:46,21/07/2026 01:59,"Spaceship, Inc."
+thousand.co,resell,84,20%,8,Mathematics,21/07/2010 21:46,20/07/2026 23:59,"Spaceship, Inc."
 hotter.co,resell,84,80%,6,"Arts,Entertainment,Media",21/07/2010 04:32,20/07/2026 23:59,"GoDaddy.com, LLC"
 sizzle.co,expiring,84,80%,6,"Entertainment,Food and Beverage,Media",20/07/2010 18:01,19/07/2025 23:59,"GoDaddy.com, LLC"
 ibuprofen.co,resell,84,72%,9,"Healthcare,Medicine,Pharmaceuticals",17/09/2015 18:04,16/09/2025 23:59,Cronon GmbH
@@ -356,7 +358,7 @@ waterski.co,available,82,72%,9,"Entertainment,Sports,Travel",,,
 crowning.co,expiring,82,80%,8,"Entertainment,Fashion,Media",17/07/2024 02:14,17/07/2025 02:14,Porkbun
 solid.co,resell,82,76%,5,"Construction,Manufacturing,Technology",10/09/2012 16:28,09/09/2025 23:59,1API GmbH
 forestall.co,available,82,80%,9,"Business,Law,Politics",,,
-arctic.co,expired,82,52%,6,Geography,21/07/2010 21:18,20/07/2025 23:59,"GoDaddy.com, LLC"
+arctic.co,sold,82,60%,6,Geography,21/07/2010 21:18,20/07/2026 23:59,"GoDaddy.com, LLC"
 splice.co,expiring,82,84%,6,"Engineering,Technology,Telecommunications",20/07/2010 18:01,19/07/2025 23:59,"GoDaddy.com, LLC"
 friendrequest.co,available,82,72%,14,Technology,,,
 lesbian.co,resell,82,76%,7,"Media,Politics",24/02/2010 22:59,23/02/2026 23:59,Hello Internet Corp.
@@ -382,7 +384,7 @@ stiletto.co,resell,82,80%,8,"Fashion,Media,Retail",08/11/2015 18:13,07/11/2025 2
 antibacterial.co,expiring,82,68%,13,"Healthcare,Pharmaceuticals,Retail",05/08/2019 20:32,05/08/2025 20:32,"Register.com, Inc."
 physical.co,expiring,82,88%,8,"Health and Fitness,Healthcare,Sports",20/07/2010 18:00,19/07/2025 23:59,Dynadot Inc
 fruit.co,resell,82,88%,5,"Agriculture,Food and Beverage,Health and Fitness",25/02/2010 00:50,24/02/2026 23:59,Hello Internet Corp.
-glittering.co,expiring,82,16%,10,"Arts,Fashion",23/07/2024 23:03,23/07/2025 23:03,Sav.com LLC
+glittering.co,expired,82,16%,10,"Arts,Fashion",23/07/2024 23:03,23/07/2025 23:03,Sav.com LLC
 Olympicflame.co,available,82,72%,13,"Entertainment,Sports",,,
 HolyMotherofGod.co,available,82,72%,18,Religion,,,
 Singaporean.co,available,82,72%,11,"Geography,Travel",,,
@@ -421,7 +423,7 @@ agree.co,expiring,80,88%,5,"Business,Law,Politics",20/07/2010 18:23,19/07/2025 2
 CostaRican.co,available,80,72%,11,"Geography,Travel",,,
 genial.co,resell,80,52%,6,"Hospitality,Retail",12/02/2014 14:07,11/02/2026 23:59,"GoDaddy.com, LLC"
 requisite.co,resell,80,80%,9,"Business,Education,Healthcare",11/03/2020 10:47,11/03/2026 10:47,"NameCheap, Inc."
-two.co,resell,80,56%,3,Mathematics,25/02/2010 02:20,25/02/2026 00:59,Hello Internet Corp.
+two.co,resell,80,60%,3,Mathematics,25/02/2010 01:20,24/02/2026 23:59,Hello Internet Corp.
 provide.co,resell,80,92%,7,"Business,Retail,Technology",19/09/2016 17:50,18/09/2025 23:59,Dynadot Inc
 working.co,resell,80,84%,7,"Business,Construction,Technology",24/02/2010 23:47,23/02/2026 23:59,Hello Internet Corp.
 repartee.co,available,80,76%,8,"Arts,Entertainment,Media",,,
@@ -470,7 +472,7 @@ antiaircraft.co,available,80,16%,12,Military,,,
 soapbox.co,expiring,80,92%,7,"Media,Politics",20/07/2010 19:36,19/07/2025 23:59,"GoDaddy.com, LLC"
 triplebill.co,available,80,72%,11,"Entertainment,Finance,Media",,,
 singular.co,resell,80,80%,8,"Arts,Science",23/11/2015 18:06,22/11/2025 23:59,Dynadot Inc
-flickering.co,expiring,80,8%,10,Entertainment,25/07/2024 11:12,25/07/2025 11:12,Sav.com LLC
+flickering.co,expired,80,4%,10,Entertainment,25/07/2024 11:12,25/07/2025 11:12,Sav.com LLC
 thimble.co,expiring,80,80%,7,"Fashion,Retail",22/07/2010 10:18,21/07/2025 23:59,"GoDaddy.com, LLC"
 ensure.co,resell,80,80%,6,"Business,Insurance,Law",18/09/2014 17:50,17/09/2025 23:59,1API GmbH
 issue.co,resell,80,80%,5,"Business,General,Media,Politics",20/07/2010 18:06,19/07/2026 23:59,Megazone Corp.
@@ -491,18 +493,18 @@ polkadot.co,resell,78,84%,9,"Arts,Fashion,Retail",03/06/2020 17:00,03/06/2026 17
 phantasy.co,resell,78,80%,8,"Arts,Entertainment,Media",27/01/2023 17:00,27/01/2026 17:00,"Sav.com, LLC - 1"
 smous.co,available,78,72%,5,Entertainment,,,
 melting.co,available,78,72%,7,"Environment,Manufacturing,Science",,,
-responsive.co,resell,78,36%,10,"Technology,Telecommunications",20/07/2010 18:06,19/07/2026 23:59,"GoDaddy.com, LLC"
+responsive.co,resell,78,40%,10,"Technology,Telecommunications",20/07/2010 18:06,19/07/2026 23:59,"GoDaddy.com, LLC"
 whitebread.co,available,78,84%,11,"Food and Beverage,Hospitality,Retail",,,
 grandson.co,available,78,80%,8,"Entertainment,Media,Retail",,,
 boombust.co,available,78,72%,9,Finance,,,
 crumple.co,available,78,72%,7,"Arts,Fashion,Retail",,,
 Moldavian.co,available,78,72%,9,"Geography,Humanities,Politics",,,
-foreign.co,expired,78,32%,7,"Science,Technology",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
+foreign.co,expired,78,24%,7,"Science,Technology",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
 abkhazian.co,available,78,8%,9,Geography,,,
 hamstring.co,available,78,72%,9,"Health and Fitness,Medicine,Sports",,,
 sojourn.co,resell,78,84%,7,"Hospitality,Media,Travel",05/10/2020 17:00,05/10/2025 17:00,Zhuimi Inc
 quahaug.co,available,78,72%,7,"Environment,Food and Beverage,Science",,,
-adorable.co,resell,78,32%,8,"Entertainment,Fashion,Retail",24/11/2019 17:00,24/11/2025 17:00,1API GmbH
+adorable.co,resell,78,28%,8,"Entertainment,Fashion,Retail",24/11/2019 17:00,24/11/2025 17:00,1API GmbH
 Angelina.co,resell,78,88%,8,"Entertainment,Fashion,Media",23/10/2019 20:58,23/10/2025 20:58,"GoDaddy.com, LLC"
 dogs.co,resell,78,44%,4,General,25/02/2010 00:06,24/02/2026 23:59,InternetX GmbH
 nonfungible.co,resell,78,88%,11,"Business,Finance,Technology",18/02/2020 05:34,18/02/2026 05:34,"GoDaddy.com, LLC"
@@ -583,7 +585,7 @@ exploding.co,available,76,68%,9,"Entertainment,Media,Science",,,
 coffeesenna.co,available,76,72%,12,Food and Beverage,,,
 paving.co,expiring,76,80%,6,"Construction,Real Estate,Transportation",21/07/2010 22:06,20/07/2025 23:59,"eNom, LLC"
 motioncapture.co,expired,76,76%,14,"Entertainment,Media,Technology",28/05/2024 17:00,28/05/2025 17:00,Above.com Pty Ltd.
-energizing.co,available,76,16%,10,"Food and Beverage,Health and Fitness,Travel",,,
+energizing.co,available,76,12%,10,"Food and Beverage,Health and Fitness,Travel",,,
 jellybaby.co,available,76,72%,10,"Food and Beverage,Retail",,,
 short.co,expiring,76,88%,5,"Business,General,Media,Technology",21/07/2010 20:26,20/07/2025 23:59,"GoDaddy.com, LLC"
 hand.co,resell,76,76%,4,"Fashion,General,Healthcare,Retail",16/09/2010 13:56,15/09/2025 23:59,"GoDaddy.com, LLC"
@@ -593,7 +595,7 @@ belting.co,available,76,68%,7,"Construction,Fashion,Manufacturing",,,
 conform.co,expiring,76,88%,7,"Business,Education,Law",21/07/2010 10:39,20/07/2025 23:59,IONOS SE
 distinctivepaper.co,available,76,72%,17,Technology,,,
 slamming.co,available,76,68%,8,"Entertainment,Media,Sports",,,
-diamond.co,resell,76,52%,7,Fashion,25/02/2010 00:01,24/02/2026 23:59,"GoDaddy.com, LLC"
+diamond.co,resell,76,48%,7,Fashion,25/02/2010 00:01,24/02/2026 23:59,"GoDaddy.com, LLC"
 keep.co,resell,76,80%,4,"Business,Education,Technology",04/10/2023 17:00,04/10/2028 17:00,"Sav.com, LLC - 1"
 justasecond.co,available,76,76%,13,Media,,,
 backspin.co,resell,76,76%,8,"Entertainment,Media,Sports",27/02/2016 21:12,26/02/2026 23:59,"Spaceship, Inc."
@@ -674,11 +676,11 @@ heatup.co,resell,76,76%,7,"Food and Beverage,Technology",21/05/2020 17:01,21/05/
 cheyenne.co,expiring,76,80%,8,"Business,Geography,Travel",20/07/2010 18:03,19/07/2025 23:59,Hello Internet Corp.
 hippy.co,resell,76,72%,5,"Arts,Fashion,Humanities",24/08/2022 22:46,24/08/2025 22:46,Porkbun
 coffeehousing.co,available,76,12%,13,Food and Beverage,,,
-gaping.co,expiring,76,16%,6,Healthcare,24/07/2024 03:44,24/07/2025 03:44,Sav.com LLC
+gaping.co,expired,76,16%,6,Healthcare,24/07/2024 03:44,24/07/2025 03:44,Sav.com LLC
 crossreference.co,resell,76,76%,15,"Business,Education",03/07/2025 07:16,03/07/2026 07:16,Dominet (HK) Limited
 nonnegotiable.co,available,76,72%,13,"Business,Finance,Law",,,
 inquire.co,expiring,76,76%,7,"Business,Education,Law",21/07/2010 06:48,20/07/2025 23:59,InternetX GmbH
-endemic.co,resell,76,76%,7,Healthcare,05/10/2019 19:16,05/10/2025 19:16,GoDaddy Online Services Cayman Islands Ltd.
+endemic.co,resell,76,40%,7,Healthcare,05/10/2019 19:16,05/10/2025 19:16,GoDaddy Online Services Cayman Islands Ltd.
 complementary.co,expiring,76,80%,13,"Arts,Education,Media",04/08/2019 17:00,04/08/2025 17:00,"Register.com, Inc."
 cafeterrace.co,available,76,72%,12,"Food and Beverage,Hospitality,Travel",,,
 nonpartisan.co,available,76,80%,11,"Law,Media,Politics",,,
@@ -708,7 +710,7 @@ perishable.co,resell,75,72%,10,"Food and Beverage,Retail",28/05/2018 17:03,28/05
 carburet.co,available,74,72%,8,"Engineering,Manufacturing,Science",,,
 expression.co,expiring,74,84%,10,"Arts,Humanities,Media",20/07/2010 18:07,19/07/2025 23:59,Dynadot Inc
 bonbonchicken.co,available,74,72%,15,Food and Beverage,,,
-romantic.co,sold,74,24%,8,Humanities,21/07/2010 20:22,20/07/2026 23:59,"GoDaddy.com, LLC"
+romantic.co,sold,74,20%,8,Humanities,21/07/2010 20:22,20/07/2026 23:59,"GoDaddy.com, LLC"
 moist.co,resell,74,84%,5,"Environment,Food and Beverage,Health and Fitness",22/09/2016 18:07,21/09/2025 23:59,Dynadot Inc
 celebrate.co,sold,74,84%,9,"Arts,Entertainment,Travel",21/07/2010 21:28,20/07/2026 23:59,Key-Systems GmbH
 Elizabethan.co,available,74,72%,11,"Arts,Humanities",,,
@@ -723,7 +725,7 @@ apologize.co,resell,74,80%,9,"Business,Law,Media",13/02/2015 04:45,12/02/2026 23
 comeintoeffect.co,available,74,72%,16,General,,,
 algal.co,available,74,16%,5,"Science,Technology",,,
 singles.co,resell,74,76%,7,"Arts,Entertainment,Media",24/02/2010 23:36,23/02/2026 23:59,Hello Internet Corp.
-single.co,resell,74,28%,6,Sports,25/02/2010 01:58,25/02/2026 00:59,Hello Internet Corp.
+single.co,resell,74,28%,6,Sports,25/02/2010 00:58,24/02/2026 23:59,Hello Internet Corp.
 substitutable.co,available,74,72%,13,"Engineering,Technology",,,
 computing.co,resell,74,84%,9,"Business,Education,Technology",20/07/2010 18:00,19/07/2026 23:59,Dynadot Inc
 comeof.co,available,74,72%,7,General,,,
@@ -757,12 +759,13 @@ busybody.co,available,74,76%,8,Business,,,
 sequoia.co,expiring,74,84%,7,"Environment,Media,Travel",20/07/2010 20:24,19/07/2025 23:59,"GoDaddy.com, LLC"
 schoolgirl.co,available,74,68%,10,Education,,,
 beech.co,resell,74,84%,5,"Agriculture,Environment,Science",23/04/2014 05:22,22/04/2026 23:59,1API GmbH
+kooky.co,resell,74,44%,5,Entertainment,08/02/2022 17:00,08/02/2027 17:00,Dynadot Inc
 stovepipe.co,available,74,84%,9,"Construction,Engineering,Manufacturing",,,
 extol.co,available,74,80%,5,"Arts,Media,Religion",,,
 oneandonly.co,expired,74,80%,12,"Entertainment,Media",03/07/2023 17:00,03/07/2025 17:00,"Spaceship, Inc."
 dessertspoonful.co,available,74,4%,15,"Food and Beverage,Hospitality,Retail",,,
 Churchillian.co,available,74,72%,12,"Arts,Humanities,Media",,,
-arthritic.co,available,74,76%,9,"Health and Fitness,Medicine,Science",,,
+arthritic.co,available,74,8%,9,"Health and Fitness,Medicine,Science",,,
 aboveandbeyond.co,resell,74,84%,16,"Business,Media",07/01/2015 19:06,06/01/2026 23:59,Porkbun
 alabamian.co,available,74,72%,9,"Geography,Politics",,,
 shelf.co,resell,74,88%,5,"Construction,Real Estate,Retail",10/03/2021 00:53,10/03/2026 00:53,"GoDaddy.com, LLC"
@@ -958,19 +961,20 @@ dreamer.co,resell,72,88%,7,"Arts,Health and Fitness,Media",05/10/2020 17:00,05/1
 november.co,expiring,72,88%,8,"Arts,Media",21/07/2010 21:52,20/07/2025 23:59,"GoDaddy.com, LLC"
 extralarge.co,available,72,24%,11,Fashion,,,
 trusted.co,expiring,72,88%,7,"Business,Finance,Technology",21/07/2010 20:31,20/07/2025 23:59,"GoDaddy.com, LLC"
-anile.co,available,72,16%,5,Medicine,,,
+anile.co,available,72,12%,5,Medicine,,,
 offprint.co,expiring,72,76%,8,"Education,Media",27/07/2017 09:45,26/07/2025 23:59,1API GmbH
 comeround.co,available,72,76%,10,"Entertainment,Healthcare,Media",,,
 savannah.co,expiring,72,84%,8,"Environment,Geography",21/07/2010 21:36,20/07/2025 23:59,"GoDaddy.com, LLC"
 specialize.co,available,72,68%,10,"Business,Education,Technology",,,
 wages.co,available,72,72%,5,"Business,Finance",,,
 monetise.co,resell,72,88%,8,"Business,Finance,Technology",06/05/2017 19:15,05/05/2026 23:59,GoDaddy Online Services Cayman Islands Ltd.
-passon.co,resell,72,44%,7,"Business,Education,Healthcare",03/12/2024 17:00,03/12/2025 17:00,Dynadot Inc
+passon.co,resell,72,40%,7,"Business,Education,Healthcare",03/12/2024 17:00,03/12/2025 17:00,Dynadot Inc
 explode.co,expiring,72,88%,7,Science,20/07/2010 18:10,19/07/2025 23:59,InternetX GmbH
 granddaddy.co,resell,72,76%,10,"Entertainment,Media,Retail",25/02/2020 16:52,25/02/2026 16:52,"GoDaddy.com, LLC"
 clustering.co,available,72,72%,10,"Business,Science,Technology",,,
 relations.co,resell,72,72%,9,"Business,Media,Politics",04/10/2024 17:00,04/10/2025 17:00,Zhuimi Inc
 python.co,resell,72,88%,6,"Entertainment,Science,Technology",06/10/2019 17:00,06/10/2025 17:00,"GoDaddy.com, LLC"
+anodyne.co,expiring,72,36%,7,Medicine,08/09/2020 20:09,08/09/2025 20:09,"GoDaddy.com, LLC"
 mosque.co,resell,72,88%,6,Religion,27/09/2013 09:36,26/09/2025 23:59,"Spaceship, Inc."
 mammalian.co,available,72,72%,9,"Education,Science",,,
 sweetyoungthing.co,available,72,72%,17,"Entertainment,Media",,,
@@ -992,10 +996,10 @@ unavoidable.co,available,72,76%,11,"Business,Healthcare,Law",,,
 babyshoe.co,available,72,72%,9,"Fashion,Retail",,,
 clipthechurch.co,available,72,72%,15,General,,,
 transportable.co,resell,72,72%,13,"Real Estate,Technology",03/07/2025 03:38,03/07/2026 03:38,Dominet (HK) Limited
-abreast.co,available,72,12%,7,"Business,Technology",,,
+abreast.co,available,72,8%,7,"Business,Technology",,,
 letterofwishes.co,available,72,72%,16,General,,,
 threepenny.co,available,72,72%,10,"Business,Finance,Retail",,,
-due.co,expiring,72,80%,3,"Business,Finance,General,Law",20/07/2010 18:00,19/07/2025 23:59,Hello Internet Corp.
+due.co,sold,72,40%,3,"Business,Finance,General,Law",20/07/2010 18:00,19/07/2026 23:59,Hello Internet Corp.
 informal.co,expiring,72,76%,8,"Business,Education,Media",25/07/2010 04:40,24/07/2025 23:59,"GoDaddy.com, LLC"
 transparent.co,expiring,72,80%,11,"Business,Fashion,Technology",20/07/2010 18:07,19/07/2025 23:59,Dynadot Inc
 getit.co,resell,72,80%,6,"Education,Media,Technology",19/09/2015 18:05,18/09/2025 23:59,"Wild West Domains, Inc."
@@ -1011,7 +1015,6 @@ spreadeagle.co,available,72,76%,12,"Entertainment,Media,Sports",,,
 prosperity.co,expiring,72,80%,10,Business,21/07/2010 21:55,20/07/2025 23:59,"GoDaddy.com, LLC"
 dogwoods.co,available,72,12%,8,General,,,
 gaul.co,available,72,88%,4,Geography,,,
-JudeoChristian.co,available,72,72%,15,"Humanities,Media,Religion",,,
 convalesce.co,expired,71,72%,10,"Healthcare,Medicine,Sports",02/07/2018 15:25,02/07/2025 15:25,"GoDaddy.com, LLC"
 letsomethingride.co,available,71,72%,18,General,,,
 letthebuyerbeware.co,available,71,72%,20,Business,,,
@@ -1022,8 +1025,8 @@ titbit.co,expired,71,80%,6,"Entertainment,Food and Beverage,Media",05/07/2015 08
 lettersofpeace.co,available,71,72%,16,General,,,
 pushpull.co,available,70,84%,9,"Engineering,Technology,Telecommunications",,,
 expectedvalue.co,available,70,72%,14,"Business,Education,Finance",,,
-auroral.co,available,70,80%,7,Science,,,
-axillary.co,available,70,8%,8,"Medicine,Science",,,
+auroral.co,available,70,36%,7,Science,,,
+axillary.co,available,70,4%,8,"Medicine,Science",,,
 endowment.co,available,70,84%,9,"Education,Finance,Healthcare",,,
 makefor.co,available,70,80%,8,"Business,Entertainment,Media",,,
 hygienize.co,available,70,72%,9,"Healthcare,Hospitality,Pharmaceuticals",,,
@@ -1053,7 +1056,7 @@ starattraction.co,available,70,72%,15,"Entertainment,Hospitality,Media",,,
 recreation.co,expiring,70,84%,10,"Entertainment,Health and Fitness,Travel",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 coordinatesystem.co,available,70,72%,17,"Engineering,Mathematics,Technology",,,
 ironing.co,available,70,76%,7,"Fashion,Retail",,,
-automated.co,expiring,70,92%,9,"Manufacturing,Technology",20/07/2010 18:06,19/07/2025 23:59,"GoDaddy.com, LLC"
+automated.co,sold,70,52%,9,"Manufacturing,Technology",20/07/2010 18:06,19/07/2026 23:59,"GoDaddy.com, LLC"
 flaking.co,available,70,68%,7,"Arts,Construction,Manufacturing",,,
 backtosquareone.co,available,70,72%,18,General,,,
 contingencyplan.co,available,70,72%,16,"Business,Finance,Insurance",,,
@@ -1070,7 +1073,7 @@ surpriser.co,available,70,72%,9,"Entertainment,Media,Retail",,,
 idealist.co,resell,70,76%,8,"Arts,Humanities,Politics",13/10/2012 23:06,12/10/2025 23:59,"GoDaddy.com, LLC"
 cisgendered.co,available,70,72%,11,"Healthcare,Media",,,
 VCU.co,resell,70,76%,3,"Education,Healthcare,Technology",29/07/2010 00:22,28/07/2026 23:59,"NameCheap, Inc."
-azimuthal.co,available,70,72%,9,Science,,,
+azimuthal.co,available,70,12%,9,Science,,,
 Salvadorean.co,available,70,72%,11,Humanities,,,
 haveover.co,available,70,8%,9,General,,,
 onschedule.co,available,70,72%,11,"Business,Transportation",,,
@@ -1130,7 +1133,7 @@ sanskrit.co,resell,70,84%,8,"Education,Humanities",09/01/2018 18:17,09/01/2026 1
 lots.co,expiring,70,80%,4,"Business,Education,Media",20/07/2010 18:03,19/07/2025 23:59,"GoDaddy.com, LLC"
 cheesepuff.co,available,70,72%,11,"Food and Beverage,Hospitality,Retail",,,
 brucelee.co,expiring,70,84%,9,"Entertainment,Media,Sports",20/07/2010 18:05,19/07/2025 23:59,"GoDaddy.com, LLC"
-authorised.co,sold,70,72%,10,Education,17/03/2025 17:00,17/03/2026 17:00,Above.com Pty Ltd.
+authorised.co,resell,70,24%,10,Education,17/03/2025 17:00,17/03/2026 17:00,Above.com Pty Ltd.
 hangtough.co,available,70,72%,10,General,,,
 tranquilizing.co,available,70,72%,13,"Healthcare,Medicine,Pharmaceuticals",,,
 freewater.co,expiring,70,80%,10,"Environment,General",20/07/2010 18:11,19/07/2025 23:59,"GoDaddy.com, LLC"
@@ -1156,7 +1159,7 @@ sell.co,resell,70,88%,4,"Business,Finance,Retail",25/02/2010 00:54,24/02/2026 23
 helpdesk.co,resell,70,92%,9,"Business,Technology",24/11/2023 17:00,24/11/2025 17:00,Dynadot Inc
 greatly.co,resell,70,72%,7,"Business,Education,Media",21/09/2015 02:16,20/09/2025 23:59,"NameCheap, Inc."
 healthproduct.co,expired,70,76%,14,"Healthcare,Retail",15/05/2024 17:00,15/05/2025 17:00,Dynadot Inc
-babyfaced.co,available,70,72%,10,"Entertainment,Fashion",,,
+babyfaced.co,available,70,8%,10,"Entertainment,Fashion",,,
 moviefilm.co,expiring,70,68%,10,"Arts,Entertainment,Media",29/07/2024 07:35,29/07/2025 07:35,Sav.com LLC
 leasing.co,resell,70,76%,7,"Automotive,Finance,Real Estate",24/02/2010 23:18,23/02/2026 23:59,Hello Internet Corp.
 nursingbra.co,available,70,68%,11,"Fashion,Healthcare,Retail",,,
@@ -1239,7 +1242,7 @@ semisolid.co,available,70,76%,9,"Food and Beverage,Manufacturing,Pharmaceuticals
 promote.co,expiring,70,80%,7,"Business,Media",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 pulitzer.co,available,70,76%,8,Media,,,
 Labradorian.co,available,70,72%,11,"Geography,Media",,,
-saintly.co,available,70,36%,7,Religion,,,
+saintly.co,available,70,32%,7,Religion,,,
 veggiedog.co,available,70,72%,10,"Food and Beverage,Health and Fitness",,,
 immediatefamily.co,available,70,72%,16,"Healthcare,Humanities,Law",,,
 anaheim.co,resell,70,84%,7,"Entertainment,Hospitality,Travel",27/11/2017 17:03,27/11/2025 17:03,Dynadot Inc
@@ -1247,7 +1250,7 @@ backstreet.co,available,70,76%,11,"Media,Real Estate,Travel",,,
 twopiece.co,expiring,70,68%,9,"Arts,Fashion,Media",26/07/2024 03:55,26/07/2025 03:55,Sav.com LLC
 getoutsideof.co,available,70,4%,14,General,,,
 perfected.co,available,70,76%,9,"Business,Technology",,,
-aug.co,sold,70,76%,3,Science,20/07/2010 18:06,19/07/2026 23:59,Key-Systems GmbH
+aug.co,sold,70,36%,3,Science,20/07/2010 18:06,19/07/2026 23:59,Key-Systems GmbH
 eritrean.co,available,70,80%,8,"Geography,Politics",,,
 supernova.co,resell,70,92%,9,"Media,Science,Technology",20/07/2010 18:08,19/07/2026 23:59,Dynadot Inc
 barnyard.co,resell,70,88%,8,"Agriculture,Environment,Real Estate",16/11/2015 06:15,15/11/2025 23:59,1API GmbH
@@ -1299,6 +1302,7 @@ quoting.co,available,68,76%,7,"Business,Education,Media",,,
 haveitmade.co,available,68,72%,12,General,,,
 philanthropical.co,available,68,72%,15,"Business,Healthcare",,,
 bringoff.co,available,68,72%,9,"Business,Entertainment,Sports",,,
+aural.co,resell,68,48%,5,"Entertainment,Technology",05/10/2017 00:55,04/10/2025 23:59,Dynadot Inc
 inscrutable.co,available,68,76%,11,Humanities,,,
 cashmachine.co,available,68,72%,12,"Banking,Finance,Technology",,,
 AIDSribbon.co,available,68,72%,11,Health and Fitness,,,
@@ -1340,14 +1344,14 @@ pollenate.co,available,68,76%,9,"Agriculture,Environment,Science",,,
 Evelyn.co,expiring,68,92%,6,General,20/07/2010 18:01,19/07/2025 23:59,"Network Solutions, LLC"
 littlebrother.co,expiring,68,72%,14,"Entertainment,Media,Technology",20/07/2010 18:12,19/07/2025 23:59,"GoDaddy.com, LLC"
 graphical.co,resell,68,76%,9,"Arts,Media,Technology",07/04/2021 17:23,07/04/2026 17:23,"GoDaddy.com, LLC"
-rheumatoid.co,sold,68,72%,10,"Health and Fitness,Medicine,Science",02/07/2025 05:33,02/07/2026 05:33,"Spaceship, Inc."
+rheumatoid.co,resell,68,20%,10,"Health and Fitness,Medicine,Science",02/07/2025 05:33,02/07/2026 05:33,"Spaceship, Inc."
 technician.co,expiring,68,84%,10,"Engineering,Healthcare,Technology",20/07/2010 18:01,19/07/2025 23:59,1API GmbH
 Katangese.co,available,68,76%,9,"Geography,Politics",,,
 adjust.co,expiring,68,84%,6,"Business,Technology",20/07/2010 18:10,19/07/2025 23:59,"GoDaddy.com, LLC"
 eachyear.co,available,68,72%,9,"Business,Education,Finance",,,
 fanletter.co,available,68,76%,10,"Entertainment,General,Media",,,
 MickeyMousehat.co,available,68,4%,16,Fashion,,,
-assuasive.co,available,68,72%,9,Business,,,
+assuasive.co,available,68,4%,9,Business,,,
 Cheshirecheese.co,expiring,68,72%,15,Food and Beverage,08/08/2023 10:09,08/08/2025 10:09,"GoDaddy.com, LLC"
 batthebreeze.co,available,68,72%,14,General,,,
 lockbox.co,resell,68,84%,7,"Banking,Finance,Real Estate",07/07/2018 17:00,07/07/2026 17:00,"GoDaddy.com, LLC"
@@ -1467,7 +1471,7 @@ UNAIDS.co,available,68,68%,6,"General,Healthcare,Medicine",,,
 blazer.co,expiring,68,88%,6,"Fashion,Retail",20/07/2010 18:01,19/07/2025 23:59,"GoDaddy.com, LLC"
 scarlet.co,resell,68,88%,7,"Fashion,Health and Fitness,Retail",04/10/2021 17:00,04/10/2026 17:00,Dynadot Inc
 canteen.co,resell,68,84%,7,"Hospitality,Military",24/09/2014 00:40,23/09/2025 23:59,"Spaceship, Inc."
-licensed.co,resell,68,20%,8,"Business,Healthcare,Insurance",13/09/2019 18:51,13/09/2025 18:51,"Spaceship, Inc."
+licensed.co,resell,68,12%,8,"Business,Healthcare,Insurance",13/09/2019 18:51,13/09/2025 18:51,"Spaceship, Inc."
 antidiarrheal.co,available,68,72%,13,"Healthcare,Medicine,Pharmaceuticals",,,
 trekkingpole.co,available,68,72%,13,"Health and Fitness,Sports,Travel",,,
 whoopdedo.co,available,68,76%,11,"Arts,Entertainment,Media",,,
@@ -1486,14 +1490,14 @@ Dutchgold.co,available,68,72%,10,General,,,
 arsenical.co,available,68,76%,9,"Medicine,Science",,,
 dharma.co,expiring,68,80%,6,"Humanities,Religion",20/07/2010 18:02,19/07/2025 23:59,"GoDaddy.com, LLC"
 buffetcar.co,available,68,72%,10,"Food and Beverage,Transportation,Travel",,,
-artificial.co,expiring,68,84%,10,"Manufacturing,Science,Technology",21/07/2010 15:48,20/07/2025 23:59,"GoDaddy.com, LLC"
+artificial.co,expired,68,56%,10,"Manufacturing,Science,Technology",21/07/2010 15:48,20/07/2025 23:59,"GoDaddy.com, LLC"
 fraternise.co,available,68,72%,10,"Business,Education,Military",,,
 breathing.co,resell,68,80%,9,"Healthcare,Medicine,Sports",26/03/2021 21:18,26/03/2026 21:18,Dynadot Inc
 fiftieth.co,available,68,4%,8,Mathematics,,,
 emailaddress.co,expiring,68,80%,14,"Business,Media,Technology",20/07/2010 18:12,19/07/2025 23:59,"GoDaddy.com, LLC"
 celestialobject.co,available,68,72%,16,"Education,Science",,,
 categorise.co,available,68,76%,10,"Business,Education,Technology",,,
-airlike.co,expiring,68,32%,7,Technology,25/07/2024 08:34,25/07/2025 08:34,Sav.com LLC
+airlike.co,expired,68,32%,7,Technology,25/07/2024 08:34,25/07/2025 08:34,Sav.com LLC
 musicalfilm.co,available,68,72%,12,"Arts,Entertainment,Media",,,
 abovethelaw.co,expiring,68,76%,13,Law,22/07/2010 00:25,21/07/2025 23:59,Key-Systems GmbH
 bigtwo.co,available,68,76%,7,General,,,
@@ -1506,7 +1510,7 @@ GYN.co,resell,68,44%,3,Medicine,09/09/2015 18:02,08/09/2026 23:59,Dynadot Inc
 relyupon.co,available,68,72%,9,"Business,Technology",,,
 commonheather.co,available,68,8%,14,"Environment,General,Science",,,
 testdrive.co,resell,68,84%,10,"Automotive,Retail,Technology",01/05/2015 18:06,30/04/2026 23:59,InternetX GmbH
-attentive.co,sold,68,80%,9,Education,22/07/2010 11:26,21/07/2026 23:59,"GoDaddy.com, LLC"
+attentive.co,sold,68,36%,9,Education,22/07/2010 11:26,21/07/2026 23:59,"GoDaddy.com, LLC"
 hoop.co,resell,68,84%,4,"Entertainment,Media,Sports",16/11/2022 17:00,16/11/2025 17:00,"GoDaddy.com, LLC"
 goodpress.co,expired,68,84%,10,Media,10/06/2024 17:31,10/06/2025 17:31,"GoDaddy.com, LLC"
 Venetianred.co,available,68,72%,12,"Arts,Fashion,Media",,,
@@ -1523,7 +1527,7 @@ physiotherapist.co,resell,68,80%,15,"Healthcare,Medicine,Sports",04/11/2019 17:0
 clearthemarket.co,available,68,72%,16,Business,,,
 crafty.co,expiring,68,88%,6,"Arts,Entertainment,Media",20/07/2010 18:06,19/07/2025 23:59,"GoDaddy.com, LLC"
 treasurydepartment.co,available,68,72%,19,"Business,Finance",,,
-sterile.co,resell,68,72%,7,"Health and Fitness,Medicine,Science",08/07/2021 17:00,08/07/2026 17:00,Zhuimi Inc
+sterile.co,resell,68,20%,7,"Health and Fitness,Medicine,Science",08/07/2021 17:00,08/07/2026 17:00,Zhuimi Inc
 ethicalinvestment.co,available,68,72%,18,"Business,Environment,Finance",,,
 frugality.co,available,68,72%,9,"Business,Education,Finance",,,
 Saturnian.co,expiring,68,72%,9,"Arts,Humanities",16/07/2024 00:38,16/07/2025 00:38,"NameCheap, Inc."
@@ -1538,7 +1542,6 @@ essayquestion.co,available,68,72%,14,"Business,Education,Humanities",,,
 MeninBlack.co,available,68,72%,12,Entertainment,,,
 makenobonesabout.co,available,68,72%,19,General,,,
 gokarting.co,available,68,12%,10,Entertainment,,,
-superbloom.co,expiring,68,84%,10,Environment,06/08/2020 19:25,06/08/2025 19:25,"GoDaddy.com, LLC"
 roll.co,resell,67,76%,4,"Media,Technology,Transportation",28/09/2017 17:50,27/09/2025 23:59,"GoDaddy.com, LLC"
 deodorise.co,available,67,72%,9,"Healthcare,Pharmaceuticals,Retail",,,
 spacious.co,sold,67,80%,8,"Hospitality,Real Estate,Travel",14/11/2010 17:25,13/11/2026 23:59,"GoDaddy.com, LLC"
@@ -1756,7 +1759,7 @@ leanoverbackwards.co,available,66,72%,19,General,,,
 dynamism.co,expired,66,72%,8,"Business,Media,Politics",21/06/2024 17:00,21/06/2025 17:00,Dynadot Inc
 breakfastmilk.co,available,66,72%,14,Food and Beverage,,,
 osmosis.co,resell,66,88%,7,"Healthcare,Pharmaceuticals,Science",20/09/2011 15:38,19/09/2025 23:59,"GoDaddy.com, LLC"
-wonky.co,expiring,66,80%,5,Pharmaceuticals,08/08/2024 12:22,08/08/2025 12:22,"NameCheap, Inc."
+wonky.co,sold,66,44%,5,Pharmaceuticals,08/08/2024 12:22,08/08/2026 12:22,"NameCheap, Inc."
 Nicky.co,resell,66,80%,5,Entertainment,18/12/2016 18:02,17/12/2025 23:59,"GoDaddy.com, LLC"
 reciprocate.co,expiring,66,80%,11,"Business,Education,Media",11/07/2021 14:27,11/07/2025 14:27,"GoDaddy.com, LLC"
 heman.co,available,66,80%,6,"Entertainment,Fashion,Media",,,
@@ -1787,7 +1790,7 @@ standard.co,resell,66,80%,8,"Business,Education,Technology",29/09/2011 15:57,28/
 beautifulmusic.co,available,66,76%,15,Arts,,,
 fad.co,resell,66,96%,3,"Fashion,Media,Retail",04/10/2021 19:26,04/10/2026 19:26,Dynadot Inc
 backingtrack.co,available,66,72%,13,"Entertainment,Media",,,
-asiatic.co,available,66,68%,7,Agriculture,,,
+asiatic.co,available,66,16%,7,Agriculture,,,
 prolife.co,expiring,66,80%,8,"Healthcare,Law,Politics",20/07/2010 18:10,19/07/2025 23:59,"GoDaddy.com, LLC"
 squeezable.co,available,66,68%,10,"Food and Beverage,Health and Fitness,Retail",,,
 chairperson.co,available,66,76%,11,General,,,
@@ -1804,7 +1807,7 @@ bringback.co,expired,66,76%,10,"Business,Retail",27/05/2024 17:02,27/05/2025 17:
 Godgiven.co,available,66,68%,9,"General,Religion",,,
 bosskey.co,available,66,76%,8,"Business,Entertainment,Technology",,,
 optics.co,resell,66,72%,6,"Engineering,Science,Technology",22/09/2010 18:25,21/09/2025 23:59,"GoDaddy.com, LLC"
-teenager.co,sold,66,28%,8,"Education,Entertainment,Healthcare",20/07/2010 18:03,19/07/2026 23:59,"GoDaddy.com, LLC"
+teenager.co,sold,66,24%,8,"Education,Entertainment,Healthcare",20/07/2010 18:03,19/07/2026 23:59,"GoDaddy.com, LLC"
 inutero.co,available,66,72%,8,"Healthcare,Medicine,Science",,,
 meaty.co,resell,66,84%,5,"Food and Beverage,Health and Fitness,Media",21/03/2017 18:04,20/03/2026 23:59,InternetX GmbH
 coffeemill.co,available,66,76%,11,Food and Beverage,,,
@@ -1820,7 +1823,7 @@ answersong.co,available,66,72%,11,"Entertainment,Media",,,
 merrily.co,available,66,76%,7,Education,,,
 makelike.co,available,66,76%,9,General,,,
 goldengoal.co,available,66,80%,11,"Entertainment,Media,Sports",,,
-unfearing.co,available,66,72%,9,"Military,Sports",,,
+unfearing.co,available,66,4%,9,"Military,Sports",,,
 pyrex.co,available,66,84%,5,"Food and Beverage,Manufacturing,Retail",,,
 terrestrialplanet.co,available,66,72%,18,"Education,Science",,,
 placate.co,available,66,72%,7,"Humanities,Law",,,
@@ -1983,7 +1986,7 @@ fusebox.co,available,64,80%,8,Technology,,,
 financialaccounting.co,expiring,64,72%,20,Finance,18/07/2017 11:38,17/07/2025 23:59,"GoDaddy.com, LLC"
 therapeutist.co,available,64,76%,12,"Healthcare,Medicine,Pharmaceuticals",,,
 requested.co,available,64,72%,9,"Business,Technology,Telecommunications",,,
-auburn.co,expiring,64,76%,6,Fashion,20/07/2010 18:10,19/07/2025 23:59,"GoDaddy.com, LLC"
+auburn.co,sold,64,20%,6,Fashion,20/07/2010 18:10,19/07/2026 23:59,"GoDaddy.com, LLC"
 sexpositive.co,available,64,80%,12,"Healthcare,Media",,,
 makelandfall.co,available,64,72%,13,General,,,
 catchandkill.co,available,64,72%,14,General,,,
@@ -2026,7 +2029,7 @@ haveafingerin.co,available,64,72%,16,General,,,
 bookfair.co,available,64,80%,9,"Education,Media",,,
 boyish.co,expiring,64,80%,6,"Arts,Fashion,Media",23/07/2024 23:20,23/07/2025 23:20,Sav.com LLC
 distant.co,sold,64,24%,7,Technology,21/07/2010 16:03,20/07/2026 23:59,Dynadot Inc
-fidgety.co,resell,64,20%,7,Health and Fitness,19/03/2024 19:40,19/03/2026 19:40,Porkbun
+fidgety.co,resell,64,16%,7,Health and Fitness,19/03/2024 19:40,19/03/2026 19:40,Porkbun
 actofGod.co,available,64,20%,10,Religion,,,
 establishmentgrowth.co,available,64,72%,20,Business,,,
 mintimperial.co,available,64,72%,13,"Food and Beverage,Retail",,,
@@ -2102,7 +2105,7 @@ keepcounsel.co,available,64,72%,12,"General,Law",,,
 Javanrhino.co,available,64,72%,11,"Environment,Media,Science",,,
 summerresort.co,available,64,68%,13,"Hospitality,Real Estate,Travel",,,
 havedonewith.co,available,64,72%,14,General,,,
-approval.co,resell,64,24%,8,Business,20/07/2010 18:06,19/07/2026 23:59,"NameCheap, Inc."
+approval.co,resell,64,20%,8,Business,20/07/2010 18:06,19/07/2026 23:59,"NameCheap, Inc."
 manycore.co,available,64,28%,8,General,,,
 tictac.co,expiring,64,80%,6,"Entertainment,Food and Beverage,Retail",22/07/2010 15:23,21/07/2025 23:59,"Ascio Technologies, Inc. Danmark - Filial af Ascio technologies, Inc. USA"
 corner.co,expiring,64,92%,6,"Business,Construction,General,Real Estate",20/07/2010 18:00,19/07/2025 23:59,Dynadot Inc
@@ -2352,7 +2355,6 @@ friendliness.co,expiring,64,76%,12,General,20/07/2024 15:34,20/07/2025 15:34,Dyn
 bungycord.co,available,64,72%,10,"Entertainment,Sports,Travel",,,
 socializee.co,available,64,76%,10,"Entertainment,Technology",,,
 ejournalism.co,available,64,4%,12,"General,Media,Technology",,,
-dineout.co,expiring,64,84%,8,"Food and Beverage,Hospitality,Travel",20/07/2010 18:06,19/07/2025 23:59,Porkbun
 cannes.co,resell,63,84%,6,"Entertainment,Geography,Travel",20/07/2010 18:00,19/07/2028 23:59,"GoDaddy.com, LLC"
 highfiber.co,available,63,8%,10,"Food and Beverage,General,Health and Fitness",,,
 jainist.co,available,63,72%,7,"Humanities,Religion",,,
@@ -2488,7 +2490,7 @@ genderstudies.co,resell,62,76%,14,Education,03/07/2025 04:16,03/07/2026 04:16,Do
 luscious.co,resell,62,80%,8,"Arts,Fashion,Food and Beverage",23/01/2015 17:47,22/01/2026 23:59,Dynadot Inc
 actionstar.co,available,62,80%,11,"Entertainment,Media,Sports",,,
 lineup.co,expiring,62,88%,6,"Entertainment,Media,Sports",29/07/2010 20:57,28/07/2025 23:59,"GoDaddy.com, LLC"
-aeronautic.co,available,62,16%,10,Aviation,,,
+aeronautic.co,available,62,12%,10,Aviation,,,
 cadmium.co,resell,62,80%,7,"Manufacturing,Science",11/10/2014 04:18,10/10/2025 23:59,1API GmbH
 furcoat.co,available,62,72%,8,"Fashion,Media,Retail",,,
 duckburger.co,available,62,72%,10,"Food and Beverage,Retail",,,
@@ -2940,7 +2942,6 @@ brewsky.co,expiring,62,72%,7,Food and Beverage,11/07/2018 02:24,11/07/2025 02:24
 horsegirl.co,available,62,76%,10,"Entertainment,Media,Sports",,,
 keepmum.co,available,62,72%,8,"Arts,Humanities,Media",,,
 receptive.co,resell,62,80%,9,"Business,Education,Healthcare",27/05/2021 17:16,27/05/2026 17:16,"GoDaddy.com, LLC"
-formidable.co,resell,62,84%,10,"Business,Education,Media",28/03/2018 02:56,28/03/2026 02:56,Dynadot Inc
 concentre.co,available,61,76%,9,"Engineering,Science,Technology",,,
 freightyard.co,available,61,72%,12,"Construction,Transportation",,,
 partyboat.co,resell,61,84%,10,,26/09/2023 19:18,26/09/2025 19:18,"GoDaddy.com, LLC"
@@ -3026,7 +3027,7 @@ dassierat.co,available,60,72%,10,"Environment,Media,Science",,,
 greatcasino.co,available,60,72%,12,Entertainment,,,
 pooledfund.co,available,60,72%,11,"Banking,Business,Finance",,,
 plumed.co,available,60,72%,6,"Arts,Entertainment,Fashion",,,
-silvery.co,resell,60,76%,7,Manufacturing,25/12/2015 01:04,24/12/2025 23:59,1API GmbH
+silvery.co,resell,60,28%,7,Manufacturing,25/12/2015 01:04,24/12/2025 23:59,1API GmbH
 livealbum.co,available,60,80%,10,"Arts,Entertainment,Media",,,
 greyboxtesting.co,available,60,68%,16,Technology,,,
 populated.co,available,60,72%,9,"Business,Geography,Real Estate",,,
@@ -3354,7 +3355,7 @@ jubilantly.co,available,60,72%,10,Education,,,
 indescribable.co,expiring,60,76%,13,"Entertainment,Media",12/07/2023 21:00,12/07/2025 21:00,"GoDaddy.com, LLC"
 bouncer.co,expiring,60,80%,7,"Entertainment,Hospitality",30/07/2010 19:49,29/07/2025 23:59,"GoDaddy.com, LLC"
 bluedrawers.co,available,60,72%,12,"Fashion,General,Retail",,,
-cxx.co,expired,60,60%,3,Mathematics,14/07/2021 15:34,14/07/2025 15:34,"GoDaddy.com, LLC"
+cxx.co,expired,60,52%,3,Mathematics,14/07/2021 13:34,14/07/2025 13:34,"GoDaddy.com, LLC"
 lipbalm.co,sold,60,76%,8,"Fashion,Health and Fitness,Retail",07/07/2021 11:17,07/07/2026 11:17,"GoDaddy.com, LLC"
 sleepingpad.co,available,60,72%,12,"Retail,Travel",,,
 flavouroftheweek.co,available,60,72%,19,Food and Beverage,,,
@@ -3441,7 +3442,7 @@ Japanime.co,expiring,60,76%,8,Entertainment,24/07/2024 03:54,24/07/2025 03:54,Sa
 proficiently.co,available,60,72%,12,"Business,Education,Technology",,,
 panpipe.co,available,60,76%,7,Arts,,,
 personalwatercraft.co,available,60,76%,20,"Retail,Sports,Travel",,,
-augustan.co,available,60,72%,8,"Politics,Religion",,,
+augustan.co,available,60,4%,8,"Politics,Religion",,,
 drawingroom.co,available,60,76%,12,"Arts,Hospitality,Real Estate",,,
 opacity.co,expiring,60,80%,7,"Arts,Science,Technology",22/07/2013 22:17,21/07/2025 23:59,Dynadot Inc
 navalbase.co,available,60,72%,10,"Military,Real Estate,Transportation",,,
@@ -3677,7 +3678,7 @@ minidress.co,available,58,68%,9,"Entertainment,Fashion,Retail",,,
 sleepwalker.co,available,58,76%,11,"Healthcare,Medicine",,,
 complect.co,available,58,80%,8,"Engineering,Manufacturing,Technology",,,
 bakingware.co,available,58,4%,10,Food and Beverage,,,
-cypher.co,resell,58,56%,6,Mathematics,28/04/2010 23:03,28/04/2026 01:59,"GoDaddy.com, LLC"
+cypher.co,resell,58,56%,6,Mathematics,28/04/2010 21:03,27/04/2026 23:59,"GoDaddy.com, LLC"
 shooer.co,available,58,72%,6,Entertainment,,,
 littledogsyndrome.co,available,58,72%,19,General,,,
 salutary.co,available,58,76%,8,"Education,Healthcare,Medicine",,,
@@ -3699,7 +3700,7 @@ puppyish.co,available,58,72%,8,"Entertainment,Media,Retail",,,
 hotdogbun.co,available,58,72%,10,"Entertainment,Food and Beverage,Retail",,,
 frenchfriedpotato.co,available,58,72%,19,Food and Beverage,,,
 jolson.co,available,58,80%,6,"Arts,Media",,,
-attended.co,available,58,68%,8,Education,,,
+attended.co,available,58,16%,8,Education,,,
 dreampop.co,available,58,76%,9,General,,,
 Avalyn.co,expired,58,80%,6,"Arts,Fashion,General",11/05/2023 20:08,11/05/2025 20:08,Fast Domain Inc.
 sandmotor.co,available,58,72%,10,"Engineering,Environment,Science",,,
@@ -4020,6 +4021,7 @@ deerantlerknife.co,available,58,72%,17,"General,Retail",,,
 ECA.co,expiring,58,80%,3,Finance,20/07/2010 18:00,19/07/2025 23:59,Dynadot Inc
 spongebath.co,available,58,72%,11,"Healthcare,Medicine,Pharmaceuticals",,,
 houseofdetention.co,available,58,4%,18,Law,,,
+aslant.co,expiring,58,12%,6,Retail,26/08/2024 19:45,26/08/2025 19:45,"GoDaddy.com, LLC"
 snorkeller.co,available,58,72%,10,"Entertainment,Sports,Travel",,,
 entwining.co,available,58,72%,9,"Arts,Fashion",,,
 liturgism.co,available,58,72%,9,Religion,,,
@@ -4033,7 +4035,7 @@ colourcharge.co,available,58,72%,13,Technology,,,
 nailbar.co,available,58,76%,8,"Fashion,Health and Fitness,Retail",,,
 settlebed.co,available,58,72%,10,"Hospitality,Real Estate,Travel",,,
 littleslick.co,available,58,72%,12,General,,,
-pentad.co,resell,58,16%,6,Mathematics,02/07/2025 07:23,02/07/2026 07:23,"Spaceship, Inc."
+pentad.co,resell,58,16%,6,Mathematics,02/07/2025 05:23,02/07/2026 05:23,"Spaceship, Inc."
 cheeseeater.co,available,58,72%,12,"Food and Beverage,Media",,,
 Americanrobin.co,available,58,72%,14,"Education,Environment,Media",,,
 coherency.co,resell,58,76%,9,"Humanities,Science",15/12/2015 18:16,14/12/2025 23:59,Dynadot Inc
@@ -4074,7 +4076,7 @@ thicketbird.co,available,58,72%,11,"Agriculture,Environment,Science",,,
 massspec.co,available,58,76%,9,"Pharmaceuticals,Science,Technology",,,
 musicalsaw.co,available,58,72%,11,"Arts,Entertainment",,,
 foglight.co,available,58,80%,9,"Automotive,Technology,Transportation",,,
-anomalous.co,resell,58,60%,9,"Mathematics,Science",15/01/2021 23:46,15/01/2026 23:46,"GoDaddy.com, LLC"
+anomalous.co,resell,58,52%,9,"Mathematics,Science",15/01/2021 23:46,15/01/2026 23:46,"GoDaddy.com, LLC"
 squirtgun.co,expired,58,72%,10,"Entertainment,Retail",03/07/2023 14:03,03/07/2025 14:03,Dynadot Inc
 endocrinegland.co,available,58,72%,15,"Healthcare,Medicine,Science",,,
 JavaSE.co,available,58,76%,6,Technology,,,
@@ -4130,7 +4132,7 @@ interlard.co,available,58,76%,9,"Arts,Humanities",,,
 treelike.co,available,58,16%,8,Agriculture,,,
 Katrina.co,resell,58,80%,7,General,01/02/2019 01:43,01/02/2026 01:43,"GoDaddy.com, LLC"
 hammock.co,expiring,58,68%,7,"Retail,Travel",20/07/2010 18:01,19/07/2025 23:59,"GoDaddy.com, LLC"
-aucourant.co,resell,58,28%,10,"Fashion,Media",01/07/2025 16:45,01/07/2026 16:45,"Spaceship, Inc."
+aucourant.co,resell,58,24%,10,"Fashion,Media",01/07/2025 16:45,01/07/2026 16:45,"Spaceship, Inc."
 MPV.co,resell,58,84%,3,"Automotive,Technology,Transportation",18/09/2011 23:43,17/09/2025 23:59,"GoDaddy.com, LLC"
 kingsnake.co,expiring,58,76%,10,Environment,24/07/2024 20:02,24/07/2025 20:02,CommuniGal Communication Ltd.
 dolorousness.co,available,58,4%,12,General,,,
@@ -4210,7 +4212,7 @@ topaz.co,expiring,58,76%,5,Fashion,20/07/2010 18:01,19/07/2025 23:59,Hello Inter
 reversing.co,available,58,80%,9,"Automotive,Technology,Transportation",,,
 countypalatinate.co,available,58,72%,17,General,,,
 facialhair.co,available,58,72%,11,Fashion,,,
-arab.co,resell,58,48%,4,"Hospitality,Travel",24/02/2010 22:50,23/02/2026 23:59,"Spaceship, Inc."
+arab.co,resell,58,52%,4,"Hospitality,Travel",24/02/2010 22:50,23/02/2026 23:59,"Spaceship, Inc."
 ghostwriter.co,expiring,58,84%,11,"Entertainment,Media",20/07/2010 18:00,19/07/2025 23:59,"Wild West Domains, Inc."
 mallwalking.co,available,58,4%,12,Health and Fitness,,,
 catsalt.co,available,58,72%,8,General,,,
@@ -4341,7 +4343,7 @@ silverband.co,available,58,72%,11,"Arts,Fashion,Media",,,
 miner.co,expiring,58,80%,5,Mining,20/07/2010 18:07,19/07/2025 23:59,"Network Solutions, LLC"
 toughguy.co,available,58,72%,9,"Entertainment,Media,Sports",,,
 beluga.co,expiring,58,84%,6,"Environment,Food and Beverage,Science",22/07/2010 18:32,21/07/2025 23:59,Key-Systems GmbH
-blessing.co,resell,58,40%,8,Religion,08/12/2019 17:00,08/12/2025 17:00,Dynadot Inc
+blessing.co,resell,58,44%,8,Religion,08/12/2019 17:00,08/12/2025 17:00,Dynadot Inc
 almondoil.co,available,58,72%,10,"Food and Beverage,Health and Fitness,Retail",,,
 stoplossorder.co,available,58,72%,15,"Banking,Business,Finance",,,
 posyring.co,available,58,72%,9,"Arts,Fashion,Retail",,,
@@ -4723,7 +4725,7 @@ hectolitre.co,available,56,72%,10,"Education,Science",,,
 agaze.co,resell,56,4%,5,Arts,15/03/2019 22:01,15/03/2027 22:01,"Register.com, Inc."
 greediness.co,available,56,68%,10,"Education,Humanities,Media",,,
 touristy.co,available,56,84%,8,"Entertainment,Hospitality,Travel",,,
-daft.co,sold,56,72%,4,Entertainment,20/07/2010 18:08,19/07/2026 23:59,Key-Systems GmbH
+daft.co,sold,56,32%,4,Entertainment,20/07/2010 18:08,19/07/2026 23:59,Key-Systems GmbH
 parliamentarian.co,expiring,56,72%,15,Politics,25/07/2024 22:22,25/07/2025 22:22,Sav.com LLC
 yesnoquestion.co,available,56,72%,15,"Education,Media,Technology",,,
 utilitypole.co,available,56,76%,12,Utilities,,,
@@ -4912,7 +4914,7 @@ AssembliesofGod.co,available,56,20%,17,Religion,,,
 Chinesery.co,available,56,72%,9,"Arts,Fashion,General",,,
 jimador.co,available,56,12%,7,Food and Beverage,,,
 carageen.co,available,56,72%,8,"Environment,Food and Beverage,Science",,,
-stern.co,expiring,56,84%,5,"Politics,Religion",20/07/2010 18:02,19/07/2025 23:59,"GoDaddy.com, LLC"
+stern.co,sold,56,60%,5,"Politics,Religion",20/07/2010 18:02,19/07/2026 23:59,"GoDaddy.com, LLC"
 parishhouse.co,available,56,72%,12,"Humanities,Real Estate,Religion",,,
 noselike.co,available,56,76%,8,"Healthcare,Medicine,Science",,,
 blackcappedtinamou.co,available,56,72%,20,General,,,
@@ -5021,7 +5023,7 @@ Bengaltiger.co,available,56,80%,12,"Environment,Media",,,
 rickrack.co,available,56,72%,8,"Arts,Fashion",,,
 divisionoflabor.co,expired,56,72%,17,General,06/05/2016 08:24,05/05/2025 23:59,"NameCheap, Inc."
 convergentextension.co,available,56,4%,20,Science,,,
-fiftyfour.co,resell,56,20%,10,Mathematics,08/07/2025 19:00,08/07/2026 19:00,Dynadot Inc
+fiftyfour.co,resell,56,20%,10,Mathematics,08/07/2025 17:00,08/07/2026 17:00,Dynadot Inc
 epiracy.co,available,56,8%,8,Media,,,
 burstintoflower.co,available,56,72%,17,General,,,
 digitalgap.co,available,56,76%,11,"Education,Media,Technology",,,
@@ -5034,7 +5036,7 @@ showcard.co,expiring,56,80%,9,"Entertainment,Media",24/07/2024 05:06,24/07/2025 
 holographicwill.co,available,56,72%,16,"Finance,Law,Technology",,,
 cdr.co,expiring,56,80%,4,"Entertainment,Media,Technology",20/07/2010 18:00,19/07/2025 23:59,"GoDaddy.com, LLC"
 discoverable.co,expiring,56,84%,12,"Business,Technology",30/07/2024 20:33,30/07/2025 20:33,"NameCheap, Inc."
-noncitizen.co,expiring,56,20%,10,Law,08/08/2023 16:38,08/08/2025 16:38,PDR Ltd. d/b/a PublicDomainRegistry.com
+noncitizen.co,sold,56,20%,10,Law,08/08/2023 16:38,08/08/2026 16:38,PDR Ltd. d/b/a PublicDomainRegistry.com
 onsufferance.co,available,56,72%,13,Media,,,
 halfrest.co,available,56,72%,9,"Arts,Education",,,
 peashooter.co,available,56,72%,10,"Entertainment,Media,Sports",,,
@@ -5048,14 +5050,14 @@ groupofLietype.co,available,56,72%,17,"Mathematics,Science,Technology",,,
 cannedlaughter.co,available,56,8%,15,Entertainment,,,
 subinternship.co,available,56,72%,14,"Business,Education,Healthcare",,,
 halfsole.co,available,56,72%,9,"Fashion,Retail",,,
-alary.co,resell,56,36%,5,"Science,Technology",18/03/2025 19:03,18/03/2026 19:03,Porkbun
+alary.co,resell,56,32%,5,"Science,Technology",18/03/2025 19:03,18/03/2026 19:03,Porkbun
 Scotchargus.co,available,56,72%,12,"Arts,Environment,Science",,,
 descendon.co,available,56,8%,10,General,,,
 intruth.co,sold,56,80%,8,"Education,Law",03/07/2025 08:37,03/07/2026 08:37,Dominet (HK) Limited
 lionheartedly.co,available,56,72%,13,"Education,Humanities,Media",,,
 industrialespionage.co,available,56,72%,20,General,,,
 corncake.co,available,56,72%,9,"Agriculture,Food and Beverage,Retail",,,
-aweless.co,available,56,72%,7,Humanities,,,
+aweless.co,available,56,12%,7,Humanities,,,
 flatteroneself.co,available,56,72%,15,General,,,
 carburate.co,available,56,72%,9,"Automotive,Engineering,Technology",,,
 creaminess.co,available,56,72%,10,"Food and Beverage,Hospitality,Retail",,,
@@ -5186,7 +5188,7 @@ hometown.co,expiring,56,76%,8,Geography,21/07/2010 18:17,20/07/2025 23:59,1API G
 deodorizer.co,available,56,72%,10,"Healthcare,Retail,Technology",,,
 Pacificmaple.co,available,56,72%,13,"Agriculture,Construction,Environment",,,
 cornerback.co,available,56,76%,10,"Entertainment,Media,Sports",,,
-fortysix.co,resell,56,16%,9,Mathematics,16/09/2024 19:10,16/09/2025 19:10,Above.com Pty Ltd.
+fortysix.co,resell,56,16%,9,Mathematics,16/09/2024 17:10,16/09/2025 17:10,Above.com Pty Ltd.
 effectuate.co,expiring,56,76%,10,"Business,Law,Politics",09/08/2017 09:09,08/08/2025 23:59,"GoDaddy.com, LLC"
 Spanishreef.co,available,56,72%,12,"Environment,Science,Travel",,,
 calldate.co,available,56,80%,9,"Banking,Business,Finance",,,
@@ -5236,7 +5238,7 @@ thirtysecond.co,available,56,72%,13,"Business,Education,Media",,,
 mysteryconsumer.co,available,56,72%,16,"Business,Media,Retail",,,
 motorinn.co,available,56,76%,9,"Hospitality,Real Estate,Travel",,,
 insectivore.co,available,56,76%,11,"Agriculture,Environment,Science",,,
-xxxiv.co,expired,56,4%,5,Mathematics,09/07/2023 00:28,09/07/2025 00:28,"GoDaddy.com, LLC"
+xxxiv.co,expired,56,4%,5,Mathematics,08/07/2023 22:28,08/07/2025 22:28,"GoDaddy.com, LLC"
 parochialschool.co,available,56,72%,16,"Education,Humanities,Religion",,,
 portmaster.co,available,56,80%,10,"Business,Technology,Transportation",,,
 acidstable.co,available,56,72%,11,General,,,
@@ -5364,7 +5366,6 @@ newclass.co,available,56,76%,9,Education,,,
 genegun.co,available,56,72%,8,Science,,,
 fullpoint.co,available,56,68%,10,"Education,Media,Technology",,,
 dowelpin.co,available,56,72%,9,"Construction,Engineering,Manufacturing",,,
-merchantmarine.co,available,56,76%,15,"Business,Law,Transportation",,,
 executrix.co,available,55,76%,9,"Finance,Law,Real Estate",,,
 psychical.co,available,55,72%,9,"Humanities,Medicine,Science",,,
 highnelly.co,available,55,72%,10,"Entertainment,General,Media",,,
@@ -5397,7 +5398,7 @@ agrestic.co,available,54,8%,8,"Agriculture,Hospitality,Real Estate",,,
 toothed.co,available,54,72%,7,"Environment,Geography,Science",,,
 hoffman.co,expiring,54,80%,7,"Business,Entertainment,Media",20/07/2010 18:10,19/07/2025 23:59,"GoDaddy.com, LLC"
 grayteal.co,available,54,72%,9,"Arts,Fashion,Retail",,,
-advertised.co,available,54,20%,10,"Media,Retail",,,
+advertised.co,available,54,12%,10,"Media,Retail",,,
 mathematically.co,available,54,72%,14,"Education,Mathematics,Science",,,
 softswap.co,available,54,72%,9,Technology,,,
 bleachbypass.co,available,54,8%,13,General,,,
@@ -5507,7 +5508,7 @@ silentlisting.co,available,54,72%,14,"Business,Media",,,
 museums.co,expiring,54,40%,7,General,21/07/2010 22:02,20/07/2025 23:59,IONOS SE
 ABSbrake.co,available,54,72%,9,"Automotive,Transportation",,,
 milkfibre.co,available,54,72%,10,"Food and Beverage,Manufacturing",,,
-achromatic.co,available,54,36%,10,Science,,,
+achromatic.co,available,54,32%,10,Science,,,
 leastsquares.co,available,54,72%,13,"Education,Mathematics",,,
 gynecologic.co,available,54,72%,11,"Healthcare,Medicine,Pharmaceuticals",,,
 surffish.co,available,54,72%,8,"Agriculture,Environment,Food and Beverage",,,
@@ -5550,7 +5551,7 @@ pyridoxine.co,available,54,72%,10,"Healthcare,Medicine,Pharmaceuticals",,,
 shirtdress.co,available,54,72%,10,"Fashion,Manufacturing,Retail",,,
 cartable.co,expired,54,76%,8,"Arts,Entertainment,Media",09/05/2024 13:01,09/05/2025 13:01,Dynadot Inc
 translationalenergy.co,available,54,72%,20,"Energy,Pharmaceuticals,Science",,,
-acoustical.co,resell,54,28%,10,Science,21/12/2016 18:03,20/12/2025 23:59,InternetX GmbH
+acoustical.co,sold,54,24%,10,Science,21/12/2016 18:03,20/12/2025 23:59,InternetX GmbH
 brunette.co,expiring,54,80%,8,"Arts,Fashion,Media",20/07/2010 18:11,19/07/2025 23:59,"GoDaddy.com, LLC"
 goodwishes.co,available,54,20%,11,General,,,
 waxiness.co,available,54,72%,8,"Fashion,Healthcare,Retail",,,
@@ -5560,7 +5561,7 @@ powersource.co,expiring,54,80%,12,"Energy,Technology,Utilities",01/08/2024 03:09
 understrapper.co,available,54,72%,13,"Business,Media",,,
 Canadaonion.co,available,54,72%,12,"Agriculture,Food and Beverage",,,
 duodenum.co,available,54,72%,8,"Healthcare,Medicine,Science",,,
-plumpfor.co,available,54,72%,9,Politics,,,
+plumpfor.co,available,54,4%,9,Politics,,,
 lazyinitialization.co,available,54,4%,19,General,,,
 systematicname.co,available,54,72%,15,"Education,Pharmaceuticals,Science",,,
 proprietor.co,sold,54,80%,10,Business,28/11/2020 05:49,28/11/2025 05:49,"NameCheap, Inc."
@@ -5590,7 +5591,7 @@ LittleRiverAcademy.co,available,54,76%,20,Geography,,,
 tweed.co,expiring,54,84%,5,"Fashion,Retail",24/07/2010 23:16,23/07/2025 23:59,"GoDaddy.com, LLC"
 champions.co,expiring,54,52%,9,"General,Media,Sports",20/07/2010 18:01,19/07/2025 23:59,InternetX GmbH
 daithpiercing.co,available,54,72%,14,"Fashion,Health and Fitness",,,
-creaky.co,available,54,72%,6,"Health and Fitness,Medicine",,,
+creaky.co,available,54,20%,6,"Health and Fitness,Medicine",,,
 southeastern.co,available,54,80%,13,"Education,Geography,Media",,,
 galactosis.co,available,54,72%,10,"Healthcare,Medicine,Science",,,
 Widsith.co,available,54,72%,7,General,,,
@@ -5871,7 +5872,7 @@ goalkick.co,available,54,76%,9,"Entertainment,Media,Sports",,,
 properties.co,resell,54,76%,10,Real Estate,24/02/2010 22:44,23/02/2026 23:59,Hello Internet Corp.
 teddyboys.co,available,54,72%,10,"Arts,Fashion",,,
 herdsgrass.co,available,54,72%,11,Agriculture,,,
-operose.co,resell,54,76%,7,Business,16/09/2021 22:19,16/09/2025 22:19,Key-Systems GmbH
+operose.co,resell,54,32%,7,Business,16/09/2021 22:19,16/09/2025 22:19,Key-Systems GmbH
 dragqueenese.co,available,54,4%,13,Entertainment,,,
 fishingline.co,available,54,68%,12,Retail,,,
 alphabetbrick.co,available,54,72%,14,"Education,Retail",,,
@@ -5915,7 +5916,7 @@ factorialprime.co,available,54,72%,15,"Mathematics,Science,Technology",,,
 gammairon.co,available,54,72%,10,"Engineering,Manufacturing,Science",,,
 fastened.co,available,54,72%,8,"Fashion,Manufacturing,Retail",,,
 airbuilt.co,available,54,72%,9,"Construction,General,Technology",,,
-scratchy.co,available,54,32%,8,Fashion,,,
+scratchy.co,available,54,28%,8,Fashion,,,
 stakeswinner.co,available,54,72%,12,"Entertainment,Media,Sports",,,
 repacking.co,available,54,72%,9,"Manufacturing,Retail",,,
 secondteam.co,available,54,72%,11,"Entertainment,Media,Sports",,,
@@ -6180,7 +6181,7 @@ artilleryfungus.co,available,52,72%,16,"General,Science",,,
 semiotical.co,available,52,72%,10,"Education,Humanities,Media",,,
 holewort.co,available,52,72%,8,Science,,,
 providentially.co,available,52,72%,14,"Humanities,Media,Religion",,,
-armillary.co,available,52,80%,9,"Education,Science",,,
+armillary.co,available,52,28%,9,"Education,Science",,,
 moodsetter.co,available,52,72%,10,"Entertainment,Media",,,
 stimulatory.co,available,52,72%,11,"Healthcare,Pharmaceuticals,Science",,,
 halffree.co,available,52,72%,9,General,,,
@@ -6326,7 +6327,7 @@ tbilisi.co,available,52,84%,7,Geography,,,
 NYS.co,expiring,52,80%,3,General,20/07/2010 18:22,19/07/2025 23:59,"GoDaddy.com, LLC"
 strongheartedly.co,available,52,72%,15,"Education,Humanities,Media",,,
 moonlike.co,expiring,52,76%,8,"Arts,Entertainment,Fashion",24/07/2024 05:03,24/07/2025 05:03,Sav.com LLC
-avirulent.co,available,52,72%,9,Healthcare,,,
+avirulent.co,available,52,8%,9,Healthcare,,,
 barge.co,resell,52,84%,5,"Construction,Engineering,Transportation",26/10/2014 17:32,25/10/2025 23:59,1API GmbH
 codepink.co,expiring,52,76%,9,"Healthcare,Media",24/07/2024 07:57,24/07/2025 07:57,Sav.com LLC
 costmark.co,available,52,72%,9,"Business,Retail",,,
@@ -6436,7 +6437,7 @@ balllike.co,available,52,72%,8,"Arts,Health and Fitness,Sports",,,
 sociocultural.co,available,52,72%,13,"Education,Humanities,Media",,,
 metrictime.co,expiring,52,72%,11,General,19/07/2024 15:14,19/07/2025 15:14,Tucows Domains Inc.
 UNCURK.co,available,52,72%,6,General,,,
-autosomal.co,available,52,72%,9,Science,,,
+autosomal.co,available,52,8%,9,Science,,,
 barriertoentry.co,available,52,8%,16,Business,,,
 overeager.co,available,52,72%,9,"Business,Education,Media",,,
 prettily.co,available,52,76%,8,"Arts,Fashion,Media",,,
@@ -6536,7 +6537,7 @@ IndoChinese.co,available,52,72%,12,"Geography,Politics",,,
 reverentially.co,available,52,72%,13,"Arts,Humanities,Religion",,,
 Cayey.co,available,52,72%,5,"Business,Geography,Travel",,,
 recapping.co,available,52,72%,9,"Business,Media,Technology",,,
-attempted.co,available,52,80%,9,Law,,,
+attempted.co,available,52,24%,9,Law,,,
 HolyOffice.co,available,52,8%,11,Religion,,,
 drainagedivide.co,available,52,72%,15,"Environment,Geography,Science",,,
 truncated.co,available,52,72%,9,"Mathematics,Science,Technology",,,
@@ -6577,7 +6578,7 @@ functionvalue.co,available,52,72%,14,"Mathematics,Science,Technology",,,
 clutter.co,expiring,52,76%,7,"Media,Real Estate",20/07/2010 18:23,19/07/2025 23:59,"GoDaddy.com, LLC"
 hymnologically.co,available,52,4%,14,Religion,,,
 generalsofthearmy.co,available,52,4%,20,"General,Military,Politics",,,
-awninged.co,available,52,72%,8,Retail,,,
+awninged.co,available,52,4%,8,Retail,,,
 counterargumentative.co,available,52,4%,20,"Business,General,Law",,,
 drinkworthy.co,available,52,8%,11,General,,,
 mer.co,resell,52,80%,3,Media,19/09/2012 18:29,18/09/2026 23:59,"GoDaddy.com, LLC"
@@ -6685,7 +6686,7 @@ bloodpressurecuff.co,available,52,8%,19,"General,Healthcare,Medicine",,,
 lakenyasa.co,available,52,72%,10,Geography,,,
 graydogwood.co,available,52,72%,12,General,,,
 counterair.co,available,52,72%,10,"Aviation,General,Military",,,
-autotomic.co,available,52,72%,9,Science,,,
+autotomic.co,available,52,4%,9,Science,,,
 dionysiac.co,available,52,72%,9,"Arts,Entertainment,Humanities",,,
 childrenofIshmael.co,available,52,4%,19,"General,Religion",,,
 arborous.co,available,52,4%,8,Agriculture,,,
@@ -6693,7 +6694,7 @@ strauss.co,expiring,52,92%,7,Arts,20/07/2010 23:16,19/07/2025 23:59,"GoDaddy.com
 streaked.co,available,52,72%,8,"Arts,Fashion,Media",,,
 freespoken.co,available,52,72%,11,General,,,
 remotely.co,sold,52,76%,8,"Business,Technology,Telecommunications",26/12/2013 18:02,25/12/2025 23:59,"NameCheap, Inc."
-armorclad.co,available,52,72%,10,"Fashion,Military",,,
+armorclad.co,available,52,12%,10,"Fashion,Military",,,
 waterrate.co,available,52,72%,10,"Finance,Real Estate,Utilities",,,
 holecarding.co,available,52,72%,12,Entertainment,,,
 greenongreen.co,available,52,72%,14,General,,,
@@ -6791,7 +6792,7 @@ bulletnose.co,available,50,72%,11,General,,,
 BigSpring.co,available,50,76%,10,Geography,,,
 hides.co,available,50,28%,5,General,,,
 assimilating.co,available,50,8%,12,General,,,
-ascetical.co,available,50,72%,9,Religion,,,
+ascetical.co,available,50,4%,9,Religion,,,
 congressional.co,expiring,50,76%,13,"Business,Law,Politics",23/07/2023 17:11,23/07/2025 17:11,"NameCheap, Inc."
 midtable.co,available,50,72%,8,General,,,
 herbivoral.co,available,50,4%,10,General,,,
@@ -6930,7 +6931,7 @@ justiciability.co,available,50,4%,14,Law,,,
 Hittitology.co,available,50,8%,11,Humanities,,,
 acidobacterial.co,available,50,4%,14,Science,,,
 draco.co,resell,50,84%,5,"Arts,Entertainment,Media",15/12/2018 18:41,15/12/2025 18:41,GoDaddy Online Services Cayman Islands Ltd.
-awlshaped.co,available,50,72%,10,Fashion,,,
+awlshaped.co,available,50,4%,10,Fashion,,,
 Atlantium.co,available,50,72%,9,General,,,
 Kings.co,resell,50,80%,5,General,09/09/2010 15:11,08/09/2025 23:59,"GoDaddy.com, LLC"
 MississippiCounty.co,available,50,8%,18,Geography,,,
@@ -7007,7 +7008,7 @@ KansasCity.co,expiring,50,80%,11,General,21/07/2010 21:35,20/07/2025 23:59,"GoDa
 foolabout.co,available,50,72%,10,General,,,
 longago.co,available,50,72%,8,"Humanities,Media",,,
 Engelbert.co,expiring,50,80%,9,"Arts,Entertainment,Media",23/07/2024 03:34,23/07/2025 03:34,Sav.com LLC
-formless.co,resell,50,40%,8,Science,14/10/2014 10:49,13/10/2025 23:59,"NameCheap, Inc."
+formless.co,resell,50,32%,8,Science,14/10/2014 10:49,13/10/2025 23:59,"NameCheap, Inc."
 musicstands.co,available,50,20%,12,General,,,
 Maltesedog.co,available,50,12%,11,General,,,
 faulttolerant.co,available,50,76%,14,"Engineering,Technology",,,
@@ -7080,7 +7081,7 @@ lessons.co,expiring,48,44%,7,"Education,General",21/07/2010 21:47,20/07/2025 23:
 canapes.co,available,48,28%,7,Food and Beverage,,,
 Hooverindex.co,available,48,72%,12,Finance,,,
 rico.co,resell,48,88%,4,"Business,Law,Politics",20/07/2010 18:02,19/07/2026 23:59,"GoDaddy.com, LLC"
-berrylike.co,available,48,72%,9,Food and Beverage,,,
+berrylike.co,available,48,8%,9,Food and Beverage,,,
 FrenchIndia.co,available,48,72%,12,Geography,,,
 minimally.co,available,48,80%,9,"Business,Medicine,Technology",,,
 inuse.co,resell,48,24%,6,General,19/05/2025 05:23,19/05/2026 05:23,Above.com Pty Ltd.
@@ -7133,7 +7134,7 @@ velocities.co,available,48,16%,10,Science,,,
 strenuously.co,available,48,72%,11,"Health and Fitness,Medicine,Sports",,,
 Kitchawong.co,available,48,72%,10,General,,,
 Schneiderverse.co,available,48,72%,14,Entertainment,,,
-autarkic.co,sold,48,72%,8,Politics,05/07/2019 12:29,05/07/2026 12:29,IONOS SE
+autarkic.co,sold,48,8%,8,Politics,05/07/2019 12:29,05/07/2026 12:29,IONOS SE
 executively.co,available,48,12%,11,"Business,General,Technology",,,
 FortMacleod.co,available,48,72%,12,General,,,
 Caldicot.co,available,48,72%,8,General,,,
@@ -7262,7 +7263,7 @@ singleissue.co,available,48,72%,12,"Law,Media,Politics",,,
 Kirkhaugh.co,available,48,72%,9,General,,,
 Kirovohrad.co,available,48,72%,10,General,,,
 scattershot.co,expiring,48,80%,11,"Entertainment,Media,Politics",18/07/2024 06:57,18/07/2025 06:57,Porkbun
-wishful.co,resell,48,80%,7,Sports,05/09/2010 12:05,04/09/2025 23:59,"Spaceship, Inc."
+wishful.co,expiring,48,28%,7,Sports,05/09/2010 12:05,04/09/2025 23:59,"Spaceship, Inc."
 mainlines.co,available,48,12%,10,"Telecommunications,Transportation",,,
 KirkbyIreleth.co,available,48,72%,14,General,,,
 Kirkstead.co,available,48,72%,9,General,,,
@@ -7291,7 +7292,7 @@ ideologic.co,available,48,76%,9,"Media,Politics",,,
 picaresquely.co,available,48,72%,12,"Arts,Entertainment,Media",,,
 Kitzmiller.co,available,48,80%,10,General,,,
 bedrid.co,available,48,72%,6,Healthcare,,,
-autacoidal.co,available,48,72%,10,Medicine,,,
+autacoidal.co,available,48,4%,10,Medicine,,,
 bulbourethral.co,available,48,4%,13,Medicine,,,
 Stainmore.co,available,48,72%,9,"General,Geography",,,
 solemnly.co,available,48,72%,8,"Arts,Education,Media",,,
@@ -7307,7 +7308,7 @@ makeprovisionfor.co,available,48,4%,18,General,,,
 flattopped.co,available,48,72%,11,General,,,
 articulomaxillary.co,available,48,4%,17,"General,Healthcare,Medicine",,,
 Fremington.co,available,48,72%,10,General,,,
-attachable.co,available,48,76%,10,Manufacturing,,,
+attachable.co,available,48,16%,10,Manufacturing,,,
 Francolino.co,available,48,76%,10,General,,,
 backtobacktoback.co,available,48,72%,20,General,,,
 halfread.co,available,48,72%,9,General,,,
@@ -7336,7 +7337,7 @@ puritanic.co,available,48,72%,9,"Education,Humanities,Religion",,,
 roper.co,expiring,48,80%,5,"Construction,Manufacturing,Sports",25/07/2010 18:01,24/07/2025 23:59,"NameCheap, Inc."
 Framingham.co,available,48,80%,10,General,,,
 backpackable.co,available,48,8%,12,"Fashion,General,Travel",,,
-autologous.co,expired,48,72%,10,Healthcare,27/06/2022 19:21,27/06/2025 19:21,Sav.com LLC
+autologous.co,expired,48,16%,10,Healthcare,27/06/2022 19:21,27/06/2025 19:21,Sav.com LLC
 makevintage.co,available,48,4%,12,General,,,
 conclusions.co,available,47,24%,11,"Arts,General,Humanities",,,
 counteractingly.co,available,46,4%,15,"Healthcare,Pharmaceuticals,Science",,,
@@ -7569,7 +7570,7 @@ drugs.co,resell,44,88%,5,General,25/02/2010 00:08,24/02/2026 23:59,InternetX Gmb
 Gotlandic.co,available,44,72%,9,General,,,
 peeped.co,available,44,16%,6,General,,,
 desktopaccessory.co,available,44,4%,17,General,,,
-associable.co,available,44,72%,10,Real Estate,,,
+associable.co,available,44,4%,10,Real Estate,,,
 behaviouralists.co,available,44,4%,15,"Education,Humanities,Science",,,
 beadlike.co,available,44,72%,8,Fashion,,,
 JewishPassover.co,available,44,12%,15,Religion,,,
@@ -7594,7 +7595,7 @@ liaisons.co,expired,44,24%,8,"Business,General",29/06/2014 07:03,28/06/2025 23:5
 ChineseCanadian.co,available,44,72%,16,General,,,
 warily.co,available,44,72%,6,"Humanities,Media",,,
 corregidor.co,available,44,72%,10,"Geography,Military",,,
-backmost.co,available,44,72%,8,Sports,,,
+backmost.co,available,44,4%,8,Sports,,,
 alphanumerically.co,available,44,72%,16,"Business,Education,Technology",,,
 duplicated.co,available,44,16%,10,General,,,
 fullstops.co,available,44,12%,10,General,,,
@@ -7659,7 +7660,7 @@ bigmo.co,available,44,76%,6,General,,,
 Grassendale.co,available,44,72%,11,General,,,
 justificatory.co,available,44,4%,13,General,,,
 alltold.co,available,44,76%,8,"Business,Media,Technology",,,
-lopsided.co,available,44,76%,8,Mining,,,
+lopsided.co,available,44,16%,8,Mining,,,
 snappers.co,available,44,32%,8,Food and Beverage,,,
 boxmattress.co,available,44,72%,12,"General,Hospitality,Real Estate",,,
 Ellaville.co,available,44,72%,9,General,,,
@@ -7671,14 +7672,14 @@ imperatives.co,available,44,16%,11,General,,,
 boxmoney.co,available,44,72%,9,"Business,Finance,General",,,
 BlackCurrent.co,expiring,44,24%,13,General,22/07/2024 19:36,22/07/2025 19:36,Sav.com LLC
 berrybearingalder.co,available,44,72%,19,"Agriculture,Environment,Food and Beverage",,,
-assistive.co,resell,44,80%,9,Pharmaceuticals,12/04/2017 19:15,11/04/2026 23:59,GoDaddy Online Services Cayman Islands Ltd.
+assistive.co,resell,44,24%,9,Pharmaceuticals,12/04/2017 19:15,11/04/2026 23:59,GoDaddy Online Services Cayman Islands Ltd.
 Elmesthorpe.co,available,44,72%,11,General,,,
 jetturbine.co,available,44,72%,11,"Aviation,Engineering,Technology",,,
 anothers.co,expired,44,68%,8,"Education,Humanities,Media",30/06/2024 04:24,30/06/2025 04:24,"GoDaddy.com, LLC"
 lapses.co,available,44,8%,6,General,,,
 jokebooks.co,available,44,12%,10,Entertainment,,,
 manofsin.co,available,44,72%,10,General,,,
-assurgent.co,available,44,76%,9,Agriculture,,,
+assurgent.co,available,44,24%,9,Agriculture,,,
 admiratively.co,available,44,72%,12,Humanities,,,
 DuchessofSussex.co,available,44,12%,17,Media,,,
 aboutfaced.co,available,44,8%,11,General,,,
@@ -7704,7 +7705,7 @@ Elsenham.co,available,44,72%,8,General,,,
 motions.co,expiring,44,48%,7,General,28/07/2010 17:27,27/07/2025 23:59,"GoDaddy.com, LLC"
 givesomeoneaturn.co,available,44,72%,19,General,,,
 lammastide.co,available,44,72%,10,Religion,,,
-asphaltic.co,available,44,72%,9,Geography,,,
+asphaltic.co,available,44,8%,9,Geography,,,
 faceon.co,expiring,44,72%,7,General,16/07/2024 07:53,16/07/2025 07:53,Dynadot Inc
 Chinesecrescent.co,available,44,72%,16,General,,,
 dieters.co,available,44,20%,7,"Food and Beverage,Health and Fitness",,,
@@ -7719,7 +7720,7 @@ Canadianstudies.co,available,44,12%,16,Education,,,
 documentstyle.co,available,44,4%,14,Technology,,,
 slashingly.co,available,44,72%,10,Entertainment,,,
 electricallypowered.co,available,44,4%,20,"Energy,Engineering,Technology",,,
-pretended.co,available,44,72%,9,Food and Beverage,,,
+pretended.co,available,44,4%,9,Food and Beverage,,,
 sparkingly.co,available,44,72%,10,Entertainment,,,
 bankslip.co,available,44,72%,9,"Banking,Finance",,,
 therewith.co,available,44,76%,9,"Arts,Education,Media",,,
@@ -8010,7 +8011,6 @@ bottomlessly.co,available,40,72%,12,General,,,
 buckeyes.co,available,40,32%,8,General,,,
 goldpurple.co,available,40,72%,11,General,,,
 bowlinggreens.co,available,40,8%,14,Sports,,,
-miniskirts.co,resell,40,16%,10,Fashion,14/02/2017 14:28,13/02/2026 23:59,"GoDaddy.com, LLC"
 highphase.co,available,39,12%,10,"General,Science,Technology",,,
 highbailiff.co,available,39,4%,12,"General,Law,Politics",,,
 concertinabook.co,available,39,8%,15,"Arts,Education,Entertainment",,,
