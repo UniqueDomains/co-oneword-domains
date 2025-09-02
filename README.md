@@ -48,7 +48,7 @@ If you want to search & filters the complete database of [.CO one word domains](
 | Abdinasir.co       | available | 46       | 72%    | 9      |                  |                  |                  |
 | Abdollah.co        | available | 46       | 72%    | 8      |                  |                  |                  |
 | abdomen.co         | resell    | 66       | 76%    | 7      | Spaceship, Inc.  | 30/09/2013 00:39 | 29/09/2025 23:59 |
-| abdominal.co       | resell    | 82       | 2%     | 9      | GoDaddy.com, LLC | 18/12/2011 18:00 | 17/12/2025 23:59 |
+| abdominal.co       | resell    | 82       | 1%     | 9      | GoDaddy.com, LLC | 18/12/2011 18:00 | 17/12/2025 23:59 |
 | abdominalcavity.co | available | 54       | 72%    | 16     |                  |                  |                  |
 | abdominalwall.co   | available | 54       | 72%    | 14     |                  |                  |                  |
 
