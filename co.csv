@@ -5,6 +5,7 @@ id,Domain,Status,Attractiveness,Demand,Length,Registrar,Created,Expires
 28e4dba2-3007-450e-a934-966bd15633e1,aaronburr.co,available,54,72,10,,,
 77dff738-947e-4e5a-b422-ef38ed30508b,abactinal.co,available,50,1,9,,,
 b4bf5cd7-1171-49ee-8cac-01a3f49de1eb,abalone.co,resell,60,84,7,"GoDaddy.com, LLC",06/12/2020 18:38,06/12/2025 18:38
+2536fee0-2fa5-46e1-beef-94fc9f1a7cf3,abandoned.co,resell,58,10,9,"NameCheap, Inc.",01/09/2019 18:13,01/09/2026 23:59
 657e680e-90df-4048-bf0a-32c28a9570ed,abashed.co,available,60,2,7,,,
 733548dd-f61f-4335-8230-657aac910197,abasic.co,available,54,2,6,,,
 da71f893-a07b-40a2-939c-c336d902cc1d,abatable.co,available,54,1,8,,,
@@ -26,7 +27,6 @@ f019a5b2-b7ca-4047-9271-fd773b5c9748,ABCtransporter.co,available,43,72,15,,,
 fb4f2754-2161-4a70-86b4-098321407e6a,Abdinasir.co,available,46,72,9,,,
 93043a06-a1cc-478f-8287-a7521e6f49a5,Abdollah.co,available,46,72,8,,,
 7bfcb74c-8a80-49c9-ab4c-53d7d005b458,abdomen.co,resell,66,76,7,"Spaceship, Inc.",30/09/2013 00:39,29/09/2025 23:59
-d455031d-7423-4157-b514-d770827bd6cc,abdominal.co,resell,82,1,9,"GoDaddy.com, LLC",18/12/2011 19:00,18/12/2025 00:59
 44c10495-694a-49e8-8e84-cb535dfe7511,abdominalcavity.co,available,54,72,16,,,
 53357184-8400-4f94-b47d-01ff20d7c64e,abdominalwall.co,available,54,72,14,,,
 bff15969-99fd-4adc-94c1-3330e0257296,abdominous.co,available,56,1,10,,,
@@ -164,6 +164,7 @@ d06ed3cf-b6d4-435b-bc0d-ab4c990a5744,abranchial.co,available,50,1,10,,,
 dca15451-7415-47fd-b66c-30a929c9715c,abrasive.co,resell,76,6,8,"Spaceship, Inc.",11/06/2016 01:25,10/06/2026 23:59
 263ea27d-2d64-4fd2-9c23-b3bc375c9ed3,abreast.co,available,72,3,7,,,
 ac7bc88a-02cf-46e8-88fe-00fe996ba49f,abroach.co,available,82,1,7,,,
+748487c7-01cc-418b-ac3e-5e6ea0084ca1,abroad.co,resell,92,16,6,Dynadot Inc,18/09/2015 17:50,17/09/2026 23:59
 69acde93-bc3d-4596-9a02-57aacb4742b2,abroller.co,available,60,72,9,,,
 05432b92-7057-4638-b936-756d8e58cb82,abrollerwheel.co,available,60,72,15,,,
 066ea498-7e13-4a14-8b81-a99462074c6f,ABSbrake.co,available,54,72,9,,,
@@ -259,7 +260,7 @@ cb949a2b-6767-47da-9ad3-05f226e5f330,abstrusely.co,available,40,72,10,,,
 4fcfa8e7-c7d6-4709-9e69-f3e1a6b34812,abusive.co,available,52,3,7,,,
 880eb21c-16ad-47d8-9f03-1fbcf88f5d2c,abysmal.co,available,52,4,7,,,
 897e8f6c-1c49-42ec-aa9d-e290ea1b36b7,Abyssinianwell.co,available,56,72,15,,,
-826089c4-af2e-4e2f-b0db-ba2d9973949e,academic.co,resell,96,24,8,"Spaceship, Inc.",21/07/2010 22:09,21/07/2026 01:59
+826089c4-af2e-4e2f-b0db-ba2d9973949e,academic.co,resell,96,24,8,"Spaceship, Inc.",21/07/2010 20:09,20/07/2026 23:59
 cf1d16dd-eb2c-46a5-8635-b591c40d7d38,academicadvantage.co,available,44,72,18,,,
 3f658d26-2083-40f1-a72d-17f57a2ed14e,academicart.co,available,62,72,12,,,
 4259ff74-428d-4841-b7c9-75ecf2f98038,academicdegree.co,available,44,72,15,,,
@@ -282,7 +283,7 @@ a840e9fe-e365-4012-8b9a-d3999ab7906b,AcademyofSciences.co,available,62,72,19,,,
 c421e23b-b070-4084-b5b7-14c3accaf273,acapnial.co,available,46,1,8,,,
 0cd2fa8d-99b6-4228-b60f-997a84dcc903,acapnic.co,available,50,1,7,,,
 5bce4c06-5298-4521-b528-8fe427e10155,acapnotic.co,available,50,1,9,,,
-46c87d0d-9380-4f8b-b465-4c48a82d44fc,acappella.co,resell,66,6,10,Dynadot Inc,17/05/2020 19:00,17/05/2027 19:00
+46c87d0d-9380-4f8b-b465-4c48a82d44fc,acappella.co,resell,66,6,10,Dynadot Inc,17/05/2020 17:00,17/05/2027 23:59
 63b1e59c-25df-4069-b411-adfaa532085a,acapul.co,resell,54,72,8,Dynadot Inc,31/08/2010 18:24,30/08/2025 23:59
 22d133c6-ed80-47bc-8ede-51920e22d952,acarpelous.co,available,46,1,10,,,
 fa935616-3aa2-4c0a-9893-cd19d82e1100,acarpous.co,available,46,1,8,,,
@@ -304,7 +305,7 @@ b076185d-6b6f-4c48-a59a-5bfc4096c184,accentgrave.co,available,54,16,12,,,
 43357a34-d233-40cc-ab77-07690e14e2c4,accentuation.co,available,54,72,12,,,
 2b4e1615-bc09-4f52-901b-544c7f416a66,acceptability.co,available,54,72,13,,,
 11d1efc8-4538-45a2-8180-8550ccaf71bd,acceptabill.co,available,36,72,13,,,
-1281c493-6b8b-4d77-8490-1c810ad9e8dd,acceptable.co,resell,78,8,10,Dynadot Inc,08/11/2019 21:30,08/11/2025 21:30
+1281c493-6b8b-4d77-8490-1c810ad9e8dd,acceptable.co,resell,78,8,10,Dynadot Inc,08/11/2019 20:30,08/11/2026 23:59
 681e2a33-118f-44f3-be3a-2f75d3fba2a2,acceptably.co,available,48,72,10,,,
 c5d578b6-95b2-4ea6-b615-2dc1ef0de7f8,acceptance.co,resell,70,84,10,InternetX GmbH,04/02/2016 18:00,03/02/2026 23:59
 1873ab76-6b5e-41b5-b2c4-10ad3e8505bb,acceptances.co,available,36,16,11,,,
@@ -323,12 +324,12 @@ aa716226-1088-4ad7-a009-cf7bbb86ce71,acceptservice.co,available,56,72,14,,,
 afb9a08c-17a2-41c1-93d5-8bb3556d6ae9,accesscharge.co,available,36,8,13,,,
 d5a164c6-38f8-4a11-9521-0624cdd420f4,accesscode.co,available,64,72,11,,,
 e7732d1d-66ca-49cd-861d-38d486240349,accesses.co,available,36,12,8,,,
-4e57ef39-416d-4c30-9707-3e0b596ca373,accessible.co,resell,78,22,10,"GoDaddy.com, LLC",20/07/2010 20:11,20/07/2029 01:59
+4e57ef39-416d-4c30-9707-3e0b596ca373,accessible.co,resell,78,22,10,"GoDaddy.com, LLC",20/07/2010 18:11,19/07/2029 23:59
 d2ab8bbe-49d8-4d52-a42e-10af3c68fb55,accessing.co,available,36,72,9,,,
 93aafefd-fc97-4530-8f4f-7e0d09a12d5b,accessions.co,available,36,8,10,,,
 1455e822-fe17-4168-858a-43abec81c836,accessorise.co,available,60,76,11,,,
 2209b8f0-51e0-42a6-be5a-14f9927315ea,accessorize.co,resell,58,80,11,"GoDaddy.com, LLC",22/11/2023 17:00,22/11/2025 17:00
-b9e89d6a-7e59-49d5-83a6-15134c8e7a37,accessory.co,resell,84,12,9,Dynadot Inc,21/07/2010 23:46,21/07/2026 01:59
+b9e89d6a-7e59-49d5-83a6-15134c8e7a37,accessory.co,resell,84,12,9,Dynadot Inc,21/07/2010 21:46,20/07/2026 23:59
 9f1b145b-1a4e-4bbb-9f6c-51959db63bce,accessoryfruit.co,available,56,72,15,,,
 158d3e5b-0ddb-4671-8cd5-ab7fd2dcb2e5,accesstimes.co,available,36,8,12,,,
 06dd223c-74e5-438a-8f74-4bc6cf5cea36,accidentals.co,available,36,0,11,,,
@@ -460,7 +461,7 @@ b3d8265a-7be2-4084-b66b-24ae75143e10,accusing.co,available,62,1,8,,,
 58a2a5b7-26dc-43be-bb40-dc9dae6a1ec0,accustom.co,available,76,76,8,,,
 e429f5bf-af98-4e00-b2c4-01964f21eddb,accustomed.co,available,72,4,10,,,
 59976d22-4a99-4b9b-9722-43e9ac3e8aad,accustomedly.co,available,54,72,12,,,
-cc2da910-2443-48ec-8df6-ee4e61b8e873,ace.co,resell,88,34,3,Dynadot Inc,14/11/2019 18:00,14/11/2025 18:00
+cc2da910-2443-48ec-8df6-ee4e61b8e873,ace.co,resell,88,32,3,"Spaceship, Inc.",14/11/2019 17:00,14/11/2026 23:59
 433a8e37-22eb-41f9-98ff-37ae01689d47,acebutolol.co,available,54,72,10,,,
 57aa0f03-330e-46d2-bb28-1fd86d30e715,ACEinhibitor.co,available,62,72,13,,,
 ef88ea27-8955-4d0d-bc6d-bd7889a6fa5e,acellular.co,available,50,1,9,,,
@@ -484,6 +485,7 @@ a928a7b6-41a4-4128-b8c6-347c1997c18d,achaean.co,available,68,2,7,,,
 37000a70-66c7-4045-a994-ce70546be6e3,achenial.co,available,46,1,8,,,
 621807c6-e1da-44b7-abd1-8b0fc8f91580,acheronian.co,available,46,1,10,,,
 2862b1a8-b3c8-4062-9cd5-f33ed12d118e,acherontic.co,available,44,2,10,,,
+ac15da86-cff8-40ba-b614-96b54bf43a47,achievable.co,resell,74,7,10,Porkbun,20/03/2020 03:42,20/03/2026 23:59
 a69cd3a6-37f9-4f87-b707-6137c876328c,achieved.co,resell,66,80,8,"GoDaddy.com, LLC",04/02/2020 10:17,04/02/2026 10:17
 f7d8514e-e3f9-4bfd-ab4c-72f8658f05e3,achievementquotient.co,available,58,72,20,,,
 bc952b13-23d6-47ad-aa06-65ca2b8d040c,achievements.co,resell,52,44,12,"Spaceship, Inc.",19/05/2019 18:54,19/05/2026 18:54
@@ -1228,7 +1230,7 @@ fc0c47ff-d226-4975-9fbf-f6aaecefcde0,alabaman.co,available,76,76,8,,,
 55e2dc03-028c-4117-99e8-5bbfba19307b,alacarte.co,resell,58,12,10,Sav.com LLC,30/01/2022 17:00,30/01/2026 17:00
 43cda879-7f5d-4c49-a5cb-7eaf4ea0454c,aladdin.co,resell,76,22,7,Epik LLC,20/07/2010 18:01,19/07/2026 23:59
 45e444b0-9911-4dbb-942a-e483d8615fff,alaminute.co,available,60,72,11,,,
-130e3aa0-6fe0-4474-87a8-a2e81ebb66be,alamode.co,resell,96,12,9,Sav.com LLC,06/06/2020 00:39,06/06/2026 00:39
+130e3aa0-6fe0-4474-87a8-a2e81ebb66be,alamode.co,resell,96,12,9,Sav.com LLC,05/06/2020 22:39,05/06/2026 23:59
 dedb2140-e53b-4a4c-8cbc-b9034469f40c,alanine.co,available,60,72,7,,,
 b6d9cb38-644e-49af-8671-94721bb66d2b,alanpaton.co,available,60,72,10,,,
 bf964bfb-e7b3-4691-899b-e00d504d00c8,alarmbell.co,available,62,72,10,,,
@@ -9437,7 +9439,7 @@ c95f89cc-233c-4761-a37c-40dfb818a1a5,clearancehole.co,available,64,72,14,,,
 456f1be8-648c-478a-bdc2-27c828410884,clearancespace.co,available,58,72,15,,,
 fda2efd1-03d9-416c-b093-009f937dd421,clearancetime.co,available,58,8,14,,,
 e0360863-9c59-4f7f-8acb-c03d238e0d5f,clearcutting.co,available,52,8,12,,,
-4e977cb8-8b1e-4a23-8331-edb25b6349a9,cleared.co,resell,74,11,7,"GoDaddy.com, LLC",27/02/2013 05:07,27/02/2026 00:59
+4e977cb8-8b1e-4a23-8331-edb25b6349a9,cleared.co,resell,74,11,7,"GoDaddy.com, LLC",27/02/2013 04:07,26/02/2026 23:59
 9eca7dd7-fed8-45bb-abe9-9ea44411af11,cleareyed.co,available,58,72,10,,,
 c00555d0-7884-42dd-ba61-ec244967078a,clearfilter.co,available,42,8,12,,,
 6ed64e48-b114-45c5-960c-f36595d4c093,clearheadedness.co,available,64,72,16,,,
@@ -9602,7 +9604,7 @@ c16252f0-0527-432d-8062-f1c4b880eafd,closethebooks.co,available,66,72,15,,,
 e95b97ce-5e3c-4630-8a92-cc108ed177c1,closetiled.co,available,54,72,11,,,
 64941a3a-ef3b-4bb2-ab87-a45d0f4362e8,closetlucubration.co,available,36,4,18,,,
 161acbe7-ef9d-4dbb-af36-3cb1db618fe3,closetmeditation.co,available,36,4,17,,,
-d37418e6-fc6b-4472-82ea-6ee55484c4b3,closeto.co,resell,58,6,8,Dominet (HK) Limited,03/07/2025 09:34,03/07/2026 09:34
+d37418e6-fc6b-4472-82ea-6ee55484c4b3,closeto.co,resell,58,6,8,Dominet (HK) Limited,03/07/2025 07:34,03/07/2026 23:59
 4007f170-1dd9-4883-b479-230babaed662,closetofdecency.co,available,54,4,17,,,
 8a24b6c0-c7a3-47a1-a700-b51f83dcdc91,closetofease.co,available,54,4,14,,,
 bb425c83-81d7-42c5-8d99-55f57be039b8,closetoftheheart.co,available,54,72,19,,,
@@ -9997,5 +9999,3 @@ f685260e-59ee-4234-ae0e-8d27b3a0ab0c,Coltishall.co,available,46,72,10,,,
 dcd3dff3-69af-4527-b83c-2f1bd098dd75,columbia.co,resell,66,84,8,"eNom, LLC",31/08/2010 18:25,30/08/2025 23:59
 4de534b5-4eda-44c9-90a8-0e0a8a5bf335,Columbianexchange.co,available,58,72,18,,,
 c6936ac2-1dd4-440b-a061-a7519d8ab0ea,ColumbiaWenatchi.co,available,46,72,17,,,
-92f4d738-626c-45de-88d9-86c98d1176e3,columbo.co,available,52,72,7,,,
-cb690781-2401-4232-9eec-431268cf32ea,columninch.co,available,54,72,11,,,
