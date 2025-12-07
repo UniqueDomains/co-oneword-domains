@@ -30,11 +30,11 @@ fb4f2754-2161-4a70-86b4-098321407e6a,Abdinasir.co,available,46,72,9,,,
 44c10495-694a-49e8-8e84-cb535dfe7511,abdominalcavity.co,available,54,72,16,,,
 53357184-8400-4f94-b47d-01ff20d7c64e,abdominalwall.co,available,54,72,14,,,
 bff15969-99fd-4adc-94c1-3330e0257296,abdominous.co,available,56,1,10,,,
-ba30338c-bc83-4f10-b988-0b2680891f2d,abducens.co,available,54,1,8,,,
-eceb3426-7ce3-4955-a9d6-d7f7bcad079f,abducent.co,available,68,1,8,,,
-39547dc3-c87c-4fb9-82e7-c5167e3ba835,abducting.co,available,50,1,9,,,
+ba30338c-bc83-4f10-b988-0b2680891f2d,abducens.co,premium,54,1,8,,,
+eceb3426-7ce3-4955-a9d6-d7f7bcad079f,abducent.co,premium,68,1,8,,,
+39547dc3-c87c-4fb9-82e7-c5167e3ba835,abducting.co,premium,50,1,9,,,
 4860ebc6-8562-4acd-a0e6-0b5099513bba,Abdul.co,resell,58,80,5,"Spaceship, Inc.",19/09/2012 18:01,18/09/2025 23:59
-b83cef5d-b511-4ac6-9b31-89dad0450231,Abdullatif.co,available,46,80,10,,,
+b83cef5d-b511-4ac6-9b31-89dad0450231,Abdullatif.co,premium,46,80,10,,,
 468bd604-6a5b-4631-bfef-dbbb0059f009,aberdeen.co,resell,64,84,8,GoDaddy Online Services Cayman Islands Ltd.,05/02/2018 18:56,05/02/2026 18:56
 8f157152-a2c1-42f6-8fe8-37f7dc992cc1,Aberdeenshire.co,available,60,72,13,,,
 a4d4cc1c-a4d4-464b-aa2a-76370ef55c79,aberdonian.co,available,68,1,10,,,
@@ -950,7 +950,7 @@ d1218f15-c7c2-45c6-b6be-ee831df111af,afairbit.co,available,54,72,10,,,
 a837a083-ef07-4f0f-ad46-80257b0ccdea,afebrile.co,available,64,1,8,,,
 4639b6de-fcb8-46ba-af15-080b46f0d704,affability.co,available,62,72,10,,,
 ceab9a5c-4ac6-4971-aa78-86d48146f1e4,affably.co,available,58,72,7,,,
-d19d165e-70c1-4737-a780-aade6f5a698c,affect.co,resell,97,10,6,"Spaceship, Inc.",20/07/2010 18:09,19/07/2026 23:59
+d19d165e-70c1-4737-a780-aade6f5a698c,affect.co,resell,97,9,6,"Spaceship, Inc.",20/07/2010 18:09,19/07/2026 23:59
 ae5a1140-7832-4e21-89ff-983a7af4d91f,affected.co,available,72,2,8,,,
 83f53127-72d7-4517-aeba-159f2842e290,affecting.co,available,62,1,9,,,
 9e9bf201-cd66-47ea-822c-c11121d522a3,affectionately.co,available,56,72,14,,,
@@ -3057,7 +3057,7 @@ ef70bd7e-eef3-495b-90d1-c703a5390b92,associativeplural.co,available,50,72,18,,,
 1278c18b-2b04-4ca0-b4d4-1f9aa4606449,assuaging.co,available,58,72,9,,,
 0bf245d9-0ac4-4c9f-af14-bb476323c1e7,assuasive.co,available,68,1,9,,,
 15120a34-3b72-43c8-a755-fa81f78981ad,assuch.co,available,58,72,7,,,
-4851b48a-1429-4f16-958a-4dce4e6b8f2e,assume.co,resell,76,8,6,"Spaceship, Inc.",06/10/2016 18:01,05/10/2025 23:59
+4851b48a-1429-4f16-958a-4dce4e6b8f2e,assume.co,resell,76,4,6,"Spaceship, Inc.",06/10/2016 18:01,05/10/2026 23:59
 5c502a43-4e61-47e2-ad09-8a004214c781,assumed.co,available,48,3,7,,,
 7b622b0c-81a2-421c-83f9-2d0a5d7b346d,assumedly.co,available,52,72,9,,,
 d818ae9f-0fb3-402c-ad17-55d43a23b1bc,assumedname.co,available,54,72,12,,,
@@ -4243,6 +4243,7 @@ b2a81926-d2b2-4692-9664-8935b19a127a,bareback.co,available,96,6,8,,,
 2bbbc76d-7bf7-4a78-8c9a-37a6895eeaa9,barehanded.co,available,50,1,10,,,
 cd0f84c4-2183-413b-8e0a-d23b6ea2d46c,bareheaded.co,available,54,1,10,,,
 b3a725f5-9094-402c-85f8-a389cc8dd0cb,barelegged.co,available,50,1,10,,,
+fe4d5658-1eac-406c-91d0-b02a36e478ab,barely.co,resell,56,13,6,"GoDaddy.com, LLC",12/02/2015 19:25,11/02/2026 23:59
 055c6bc8-7704-4402-8823-fa9a00373f66,baretrust.co,available,54,72,10,,,
 6b1a40b4-4f7b-4b7b-9501-b474a28dac46,barexamination.co,available,58,76,15,,,
 d3614560-09c8-419a-931b-3e6515a347d8,bargain.co,resell,98,72,7,Hello Internet Corp.,24/02/2010 23:04,23/02/2026 23:59
@@ -5541,7 +5542,7 @@ ffef3b6a-4ed5-4d86-aba4-5cef43d7b5e7,blower.co,resell,56,80,6,"GoDaddy.com, LLC"
 f2b929a2-819e-4552-8ca7-d8f988d8a067,blowmedown.co,available,68,72,12,,,
 97e6cb9d-3772-41ee-bea4-a4762c558906,blownup.co,available,40,12,8,,,
 354b7e3e-6ba8-4ba5-8a0a-022ce78134a2,blowoff.co,available,56,72,8,,,
-cd1b3882-47e7-4dba-b79b-b2eae5ee82f4,blowout.co,resell,80,13,7,Dynadot Inc,23/07/2021 09:10,23/07/2027 09:10
+cd1b3882-47e7-4dba-b79b-b2eae5ee82f4,blowout.co,resell,80,5,7,Dynadot Inc,23/07/2021 09:10,23/07/2027 23:59
 570e27bd-fc78-4bd4-b2cf-acaeea1c8799,blowoutsale.co,available,62,72,12,,,
 3a49bf13-dfff-447b-989c-cf150e5d7942,blowover.co,available,54,72,9,,,
 94ea61cc-4988-46ac-9cfc-814cd866e442,blowsnake.co,available,56,72,10,,,
@@ -5960,7 +5961,7 @@ a34132d1-9208-4b24-a4ff-94f8d5bddf11,borax.co,resell,82,84,5,1API GmbH,20/06/201
 f0f39b10-9456-490e-8a83-0bd8462d78df,bordelaise.co,available,76,72,10,,,
 b9c55b4c-eea5-4688-b062-0ea64d0507e8,borderguard.co,available,54,72,12,,,
 b6fc8f98-8ea2-4dd6-a29c-5c0b9957f622,borderon.co,available,66,68,9,,,
-dd4a9820-c508-427c-a9a4-010ad56862d1,bore.co,resell,82,13,4,"GoDaddy.com, LLC",20/07/2010 23:26,19/07/2026 23:59
+dd4a9820-c508-427c-a9a4-010ad56862d1,bore.co,resell,82,8,4,"GoDaddy.com, LLC",20/07/2010 23:26,19/07/2026 23:59
 84c33d6b-47d2-44b0-bacd-67643e1ea8a7,borewater.co,available,54,72,10,,,
 04204471-f1f6-43e7-bc2a-9f7beb26a981,borganism.co,available,54,72,9,,,
 ae009a00-b00c-4139-a486-3d5e44c131f2,Borisbounce.co,available,34,4,12,,,
@@ -7129,7 +7130,6 @@ d828dc26-a3df-401e-bd34-beec56012bd2,busy.co,resell,108,21,4,"GoDaddy.com, LLC",
 9c6d2215-61bf-4d70-95a5-5756ce90d669,busyasabeaver.co,available,38,72,16,,,
 200da1b6-904f-4bbf-bccc-df5110f5b368,busyasabee.co,available,52,72,13,,,
 0ee05b5d-79f2-47a9-b9e8-d9fe71aa4afa,busybody.co,available,74,76,8,,,
-bdfd18dd-722c-4e81-aed2-f43bc367d8da,but.co,resell,70,16,3,"Spaceship, Inc.",21/07/2010 21:53,20/07/2026 23:59
 8c85d621-213e-4ee1-8fe8-dc28b386911e,butandben.co,available,60,72,11,,,
 862b3215-57c9-4801-9d7e-c8b50732d70f,Butaritari.co,available,48,72,10,,,
 1685140d-8bc3-45d5-b8bf-e864484d5f19,butcherblock.co,available,56,76,13,,,
@@ -7819,7 +7819,7 @@ a70dc6d9-12ee-4a09-a22d-9a012f3db1e3,cards.co,resell,70,92,5,"Soluciones Corpora
 5e877f5f-6a7e-45c9-b209-78fc3cb4dc01,cardsharp.co,available,52,76,9,,,
 4ae90142-955f-49a9-8850-f7684f08e63c,cardtable.co,available,62,76,10,,,
 0e4e5a58-fb72-4a6f-bbc1-e690cea25f5c,cardtrick.co,available,64,76,10,,,
-4dca31d3-f5ff-4579-a15f-e706cca5c1d2,care.co,resell,80,35,4,Hello Internet Corp.,24/02/2010 23:16,23/02/2026 23:59
+4dca31d3-f5ff-4579-a15f-e706cca5c1d2,care.co,resell,80,32,4,Hello Internet Corp.,24/02/2010 23:16,23/02/2026 23:59
 3caed122-1d9e-418d-bcfd-d902cee4caf7,cared.co,resell,46,28,5,"GoDaddy.com, LLC",01/07/2013 09:29,30/06/2026 23:59
 7f974fd9-4041-4f4c-82a8-03da75f9a977,careener.co,available,56,72,8,,,
 57585c01-f478-457a-86a1-8b12fd67d2fe,careening.co,available,56,72,9,,,
@@ -8335,7 +8335,9 @@ e44ec4b4-4406-4670-b7a5-0f2c3185c90a,cerebrally.co,available,54,72,10,,,
 0a74392d-9c25-4848-b406-725de34d052e,cerebrate.co,available,56,76,9,,,
 81959d8a-e02e-4f3b-a5d5-578b80419559,ceremonial.co,available,76,68,10,,,
 37b646de-6461-466f-b001-adc1bfe54085,ceremony.co,resell,68,76,8,Dynadot Inc,18/09/2016 18:05,17/09/2025 23:59
+1617a5d2-eb98-4ae4-8a11-fb12aaac2718,certain.co,available,80,7,7,,,
 2ac94674-b8f1-44e0-8c11-45843d18b5a4,certainity.co,available,62,72,10,,,
+678a2083-268f-4cb0-a916-a47f649207c8,certainly.co,available,66,5,9,,,
 124d722c-769a-46b3-bd7f-640b7174e073,certainty.co,resell,70,80,9,"GoDaddy.com, LLC",14/05/2021 17:01,14/05/2026 17:01
 c7d9924b-e0bc-4089-9237-bf5e10205002,certifiedaccountant.co,available,60,72,20,,,
 f04854be-df33-4a29-9a57-9eb54ee56a27,certifying.co,available,54,72,10,,,
@@ -8361,6 +8363,7 @@ e4d3173e-b88f-4ea0-ab87-8c850e4dece7,chainoftitle.co,available,56,72,14,,,
 7c023522-8d76-47c2-98c0-9afafc15c246,chainpickerel.co,available,54,72,14,,,
 ed8f631f-8540-44b5-a72a-f1a5c7d58e25,chainrule.co,available,38,76,10,,,
 f5771266-9572-45fb-8351-0556c365e5cb,chainstore.co,available,66,72,11,,,
+ce8103e3-8248-416e-b212-a4638245b255,chair.co,available,66,14,5,,,
 698e1e42-7327-418b-b8b2-4d0ffeb5f053,chairlifts.co,available,38,16,10,,,
 278485cd-9d16-4847-9d38-1bc53769c36c,chairness.co,available,56,72,9,,,
 264d868a-aeff-49dc-99e2-d20991dd0380,chairperson.co,available,66,76,11,,,
@@ -8793,7 +8796,7 @@ ab09f2fe-5210-429a-b523-9d11124457fb,chiffres.co,resell,34,20,8,Dominet (HK) Lim
 3814a7d2-c646-48a1-bca5-e99030bb20a1,Chikako.co,available,56,72,7,,,
 b8bb9008-fee6-415e-b0cd-5c3c61c2513f,chikaragami.co,available,52,4,12,,,
 b705ca05-7e35-4b8e-826a-6f5857a49470,chikaramizu.co,available,52,4,12,,,
-f1b3d4aa-6ea1-4830-aa58-3dbce501d444,child.co,resell,92,21,5,Hello Internet Corp.,24/02/2010 23:24,23/02/2026 23:59
+f1b3d4aa-6ea1-4830-aa58-3dbce501d444,child.co,resell,92,15,5,Hello Internet Corp.,24/02/2010 23:24,23/02/2026 23:59
 0692c274-2db7-4b91-8e69-3d080d61890c,childbearing.co,available,60,72,12,,,
 c71b1e70-2346-4eb5-9080-0527242a0b4c,childcaring.co,available,68,72,11,,,
 af1ec5b9-f3ca-47d3-bcf4-831d99008a0e,childcarrier.co,available,62,72,13,,,
@@ -8835,7 +8838,7 @@ cc432ddc-8fe6-4438-92ae-1d2e616fb188,chilidogs.co,available,44,16,10,,,
 a6302f73-0f06-4c73-9acb-30a7287fa788,chilivinegar.co,available,44,8,13,,,
 6b21da32-eaf0-4af5-976c-43741921a19a,Chilkatweaving.co,available,60,4,15,,,
 6bd2eeaf-64cb-4425-9de7-6592b90f6675,Chilkoot.co,available,66,72,8,,,
-9d1028f2-6bf0-4c81-8b5c-2755fc6bb0a4,chill.co,resell,72,31,5,"eNom, LLC",31/08/2010 18:24,30/08/2026 23:59
+9d1028f2-6bf0-4c81-8b5c-2755fc6bb0a4,chill.co,resell,72,28,5,"eNom, LLC",31/08/2010 18:24,30/08/2026 23:59
 2b8f670a-c15b-4079-9dfe-58bd4de2a71d,chillers.co,resell,38,32,8,"GoDaddy.com, LLC",05/05/2020 23:27,05/05/2026 23:27
 b8761972-93e5-4067-8c91-6a5a41c26e07,chillicrab.co,available,66,8,11,,,
 ada52dc0-9e52-468b-9ba9-547d287c0ca4,chilliness.co,available,54,72,10,,,
@@ -9095,6 +9098,7 @@ f4577f37-97c1-403d-8386-7c73eb2f3c0c,Chinesism.co,available,54,72,9,,,
 4c842a5d-8bcd-40fd-be6b-6cd6307a3c1a,chinrest.co,available,40,12,9,,,
 474e6520-7966-4454-8ab7-4878068b31ce,chinupbar.co,available,66,72,11,,,
 ed13d230-f518-48e9-8079-ac79b4bf785f,chinwhelk.co,available,58,72,10,,,
+0a4d240c-d4d9-4b0b-8673-ddd5cbb3eae2,chip.co,premium,76,25,4,,,
 4f49a7c0-bb5e-43eb-a6c6-c40e77fdfbd4,chipat.co,available,60,72,7,,,
 f509702c-d5b8-402f-9eb6-849329fab0f3,chipaway.co,available,56,76,9,,,
 bc2917e2-46e2-46d3-bd73-8e0dd4bf12da,chipchart.co,available,60,72,10,,,
@@ -9995,7 +9999,3 @@ d5045ad0-a7b8-4b80-a4fd-21faaa100dad,colourize.co,available,54,72,9,,,
 7ace8989-ef58-47c3-a78e-01bbd1674779,ColourpointPersian.co,available,58,72,19,,,
 85fed047-0fe3-4114-b17d-6ceaadf716cd,colourproof.co,available,40,72,12,,,
 a2d64f3c-901a-4804-b993-17d5f95ff354,colourproud.co,available,54,72,12,,,
-e1ee6390-a8af-4838-ae5c-27f6483fb2ca,coloursergeants.co,available,40,4,16,,,
-33fa91b0-f746-44cb-8c3d-00938815f00a,coloursymbolism.co,available,40,72,16,,,
-ba69b55d-9f91-4667-abc3-e3088c0c029c,colourtelevision.co,available,58,72,17,,,
-a184bb67-a8b4-4133-98eb-6390438f6f77,colourtriangle.co,available,54,72,15,,,
