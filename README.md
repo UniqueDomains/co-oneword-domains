@@ -49,8 +49,8 @@ If you want to search & filters the complete database of [.CO one word domains](
 | Abdinasir.co       | available | 46       | 72%    | 9      |                  |                  |                  |
 | Abdollah.co        | available | 46       | 72%    | 8      |                  |                  |                  |
 | abdomen.co         | resell    | 66       | 76%    | 7      | Spaceship, Inc.  | 30/09/2013 00:39 | 29/09/2025 23:59 |
+| abdominal.co       | resell    | 82       | 1%     | 9      | GoDaddy.com, LLC | 18/12/2011 18:00 | 17/12/2026 23:59 |
 | abdominalcavity.co | available | 54       | 72%    | 16     |                  |                  |                  |
-| abdominalwall.co   | available | 54       | 72%    | 14     |                  |                  |                  |
 
 <p align="center">
     <a href="https://github.com/UniqueDomains/co-oneword-domains/stargazers"><b>⭐ Give a Star</b></a> • 
@@ -88,9 +88,9 @@ If you want to search & filters the complete database of [.CO one word domains](
 
 | Name     | Total Number | Extract                                                             | Full Database                                                                                                                              |
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Expired  | 30,756       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
-| Expiring | 63,843       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,573    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| Expired  | 30,719       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
+| Expiring | 64,044       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
+| All      | 5,599,086    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
