@@ -27,7 +27,7 @@ If you want to search & filters the complete database of [.CO one word domains](
 | aaronburr.co       | available | 54       | 72%    | 10     |                  |                  |                  |
 | abactinal.co       | available | 50       | 1%     | 9      |                  |                  |                  |
 | abalone.co         | resell    | 60       | 84%    | 7      | GoDaddy.com, LLC | 06/12/2020 18:38 | 06/12/2025 18:38 |
-| abandoned.co       | resell    | 58       | 7%     | 9      | NameCheap, Inc.  | 01/09/2019 18:13 | 01/09/2026 23:59 |
+| abandoned.co       | resell    | 58       | 7%     | 9      | NameCheap, Inc.  | 02/09/2019 02:13 | 02/09/2026 07:59 |
 | abashed.co         | available | 60       | 2%     | 7      |                  |                  |                  |
 | abasic.co          | available | 54       | 2%     | 6      |                  |                  |                  |
 | abatable.co        | available | 54       | 1%     | 8      |                  |                  |                  |
@@ -49,7 +49,7 @@ If you want to search & filters the complete database of [.CO one word domains](
 | Abdinasir.co       | available | 46       | 72%    | 9      |                  |                  |                  |
 | Abdollah.co        | available | 46       | 72%    | 8      |                  |                  |                  |
 | abdomen.co         | resell    | 66       | 76%    | 7      | Spaceship, Inc.  | 30/09/2013 00:39 | 29/09/2025 23:59 |
-| abdominal.co       | resell    | 82       | 1%     | 9      | GoDaddy.com, LLC | 18/12/2011 18:00 | 17/12/2026 23:59 |
+| abdominal.co       | resell    | 82       | 1%     | 9      | GoDaddy.com, LLC | 19/12/2011 02:00 | 18/12/2026 07:59 |
 | abdominalcavity.co | available | 54       | 72%    | 16     |                  |                  |                  |
 
 <p align="center">
@@ -90,7 +90,7 @@ If you want to search & filters the complete database of [.CO one word domains](
 | -------- | ------------ | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
 | Expired  | 30,896       | [Github](https://github.com/UniqueDomains/expired-oneword-domains)  | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expired-oneword-domains&utm_content=table.link)  |
 | Expiring | 64,845       | [Github](https://github.com/UniqueDomains/expiring-oneword-domains) | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=expiring-oneword-domains&utm_content=table.link) |
-| All      | 5,598,711    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
+| All      | 5,598,419    | [Github](https://github.com/UniqueDomains/oneword-domains)          | [Full Database](https://unique.domains/?utm_source=github&utm_medium=dataset&utm_campaign=oneword-domains&utm_content=table.link)          |
 ## By TLD
 
 | Name           | Total Number | Extract                                                                  | Full Database                                                                                                                                   |
