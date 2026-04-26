@@ -1,22 +1,22 @@
-# Available .CO One-Word Domains (49,956)
+# Available .CO One-Word Domains (50,469)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
-  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-10%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-49%2C956%20domains-6f42c1">
+  <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C469%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
 Daily-updated public extract of available and resale .co one-word domains from Unique Domains.
 
-> **Important:** this repository is a **public 10,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **49,956 domains** on the canonical page below.
+> **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
+> The full live catalog for this exact search currently contains **50,469 domains** on the canonical page below.
 
-**Public extract:** 10,000 rows · **Live catalog:** 49,956 domains
+**Public extract:** 1,000 rows · **Live catalog:** 50,469 domains
 
-**Last updated:** 2026-04-14  
+**Last updated:** 2026-04-26  
 **Canonical page:** `https://unique.domains/domains/tld/co`  
 **Best for:** founders, investors, studios
 
@@ -43,8 +43,8 @@ This repository is the public extract for Unique Domains' .CO one-word domain ca
 
 ### Files
 
-- `co.csv` — public CSV extract (10,000 rows)
-- `co.json` — public JSON extract (10,000 rows)
+- `co.csv` — public CSV extract (1,000 rows)
+- `co.json` — public JSON extract (1,000 rows)
 - `DATA_DICTIONARY.md` — field definitions for the exported files
 - `METHODOLOGY.md` — scope, refresh policy, and caveats
 - `CHANGELOG.md` — latest snapshot metadata
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar        |
-| ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| getoutthevote.co | available | $17.99     | $48.99        | 74             | 80     | 16     | name.com         |
-| relive.co        | resell    | $11,494.25 | $48.99        | 68             | 92     | 6      | Dynadot Inc      |
-| basu.co          | premium   | $130       | $33.80        | 56             | 72     | 6      | namecheap        |
-| armedforces.co   | available | $17.99     | $48.99        | 50             | 80     | 12     | name.com         |
-| thyme.co         | resell    | $51,750    | $48.99        | 64             | 92     | 5      | Dynadot Inc      |
-| junction.co      | premium   | $94,745.79 | —             | 64             | 17     | 8      | name.com         |
-| railtransport.co | available | $17.99     | $48.99        | —              | 76     | 14     | name.com         |
-| polestar.co      | resell    | $17,250    | $48.99        | 64             | 92     | 9      | Dynadot Inc      |
-| blonde.co        | premium   | $3,552.32  | —             | 78             | 15     | 6      | GoDaddy.com, LLC |
-| abilitytopay.co  | available | $17.99     | $48.99        | —              | 76     | 14     | name.com         |
-| spacecraft.co    | resell    | $41,398.85 | $48.99        | 64             | 92     | 10     | GoDaddy.com, LLC |
-| abiding.co       | premium   | $227.50    | $33.80        | 106            | 7      | 7      | namecheap        |
-| abjudication.co  | available | $36.98     | —             | 64             | 72     | 12     | namecheap        |
-| sonata.co        | resell    | $56,221.20 | $48.99        | 62             | 92     | 6      | GoDaddy.com, LLC |
-| referable.co     | premium   | $2,300     | $48.99        | 44             | 5      | 9      | GoDaddy.com, LLC |
-| termdeposit.co   | available | $17.99     | $48.99        | 60             | 72     | 12     | name.com         |
-| puffin.co        | resell    | $57,488.50 | $48.99        | 62             | 92     | 6      | GoDaddy.com, LLC |
-| ambulatory.co    | premium   | $227.50    | $33.80        | 74             | 2      | 10     | namecheap        |
-| ablebodyist.co   | available | $36.98     | —             | 60             | 72     | 12     | namecheap        |
-| marcel.co        | resell    | $7,814.25  | $48.99        | 54             | 92     | 6      | Dynadot Inc      |
+| domain             | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar              |
+| ------------------ | --------- | ---------- | ------------- | -------------- | ------ | ------ | ---------------------- |
+| gomental.co        | available | $17.99     | —             | 68             | 13     | 9      | name.com               |
+| ego.co             | resell    | $11,498.85 | $36.40        | 68             | 33     | 3      | GoDaddy.com, LLC       |
+| basu.co            | premium   | $130       | $33.80        | 56             | 72     | 6      | namecheap              |
+| whatitis.co        | available | $17.99     | —             | 38             | 9      | 10     | name.com               |
+| eternity.co        | resell    | —          | —             | 60             | 96     | 8      | GoDaddy.com, LLC       |
+| jobs.co            | premium   | $5,250     | $5,250        | 79             | 42     | 4      | namecheap              |
+| makeitmakesense.co | available | $17.99     | —             | 50             | 7      | 18     | name.com               |
+| barton.co          | resell    | —          | —             | 58             | 92     | 6      | GoDaddy.com, LLC       |
+| Tools.co           | premium   | $3,500     | $3,500        | 56             | 40     | 5      | namecheap              |
+| behindbars.co      | available | $17.99     | —             | 60             | 6      | 11     | name.com               |
+| IsleofMan.co       | resell    | —          | —             | 62             | 91     | 11     | Network Solutions, LLC |
+| events.co          | premium   | $1,400     | $1,400        | 68             | 37     | 6      | namecheap              |
+| StGeorges.co       | available | $39.98     | —             | 54             | 6      | 10     | namecheap              |
+| wafer.co           | resell    | —          | —             | 82             | 88     | 5      | 1API GmbH              |
+| junction.co        | premium   | $94,745.79 | —             | 64             | 17     | 8      | name.com               |
+| speedofsound.co    | available | $17.99     | —             | 68             | 5      | 14     | name.com               |
+| uplifting.co       | resell    | —          | —             | 74             | 88     | 9      | Spaceship, Inc.        |
+| blonde.co          | premium   | $3,552.32  | —             | 78             | 15     | 6      | GoDaddy.com, LLC       |
+| ricepaper.co       | available | $17.99     | —             | 77             | 4      | 10     | name.com               |
+| ESB.co             | resell    | —          | —             | 70             | 88     | 3      | Domainbox Limited      |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract           | Unique Domains                                   |
-| ------------------------ | ------------------------------------------------ |
-| 10,000-row public sample | 49,956 live domains                              |
-| Static CSV / JSON        | live search and daily refresh                    |
-| Basic exported fields    | deeper price, demand, risk, and workflow context |
-| No persistence           | Radar, saved search, and alerts                  |
-| No founder workflow      | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                                   |
+| ----------------------- | ------------------------------------------------ |
+| 1,000-row public sample | 50,469 live domains                              |
+| Static CSV / JSON       | live search and daily refresh                    |
+| Basic exported fields   | deeper price, demand, risk, and workflow context |
+| No persistence          | Radar, saved search, and alerts                  |
+| No founder workflow     | Project, shortlist, and next-step workflow       |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -143,7 +143,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-04-14. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-04-26. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
