@@ -222,6 +222,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 6a5ffccf-26ef-4dba-a2fe-7851067b9e86,toburn.co,available,17.99,,50,1,7,name.com,,
 6a9fbb93-41d2-4017-bf6d-a99e5854d369,vacuum.co,resell,,,72,18,6,"GoDaddy.com, LLC",21/07/2010 21:58,20/07/2026 23:59
 6acc2216-8d4c-4ee8-84be-9ae0960dd13d,bebothered.co,available,17.99,,63,1,11,name.com,,
+6c75238f-7fe5-43a3-aff5-a85bf756b8f7,slide.co,resell,,,72,29,5,"GoDaddy.com, LLC",09/09/2010 15:11,08/09/2026 23:59
 6d5343cb-cc26-4706-ae4c-456a5dad1722,turnedoff.co,available,17.99,,42,1,10,name.com,,
 6d698374-9867-4e77-827f-4efa790e0e28,offenses.co,premium,116,116,40,2,8,namesilo,,
 6d9f882c-56b2-46e7-a421-514351c52178,IamHIVpositive.co,available,39.98,,44,1,17,namecheap,,
@@ -633,7 +634,7 @@ fe2e475a-1a17-4486-9f78-2475a7016b3a,goodie.co,resell,,,88,76,6,1API GmbH,22/06/
 3180dda6-cc3f-4994-b305-da6435591281,mousehood.co,premium,,,,72,9,,,
 f99b77e1-0295-4657-94bf-b494b96a7355,hindend.co,premium,,,38,1,8,,,
 f358187c-54fc-43ec-acc3-a0c02e92a96f,turnapage.co,premium,,,,72,11,,,
-f8dbad03-ad1d-417e-8d26-ad645b52a601,savings.co,resell,,,74,20,7,Hello Internet Corp.,25/02/2010 00:52,24/02/2027 23:59
+f8dbad03-ad1d-417e-8d26-ad645b52a601,savings.co,resell,,,74,19,7,Hello Internet Corp.,25/02/2010 00:52,24/02/2027 23:59
 77a7e364-978e-42b3-a564-cc0e28662e0d,courthouse.co,premium,,,60,72,10,,,
 bcb6bcd7-0ef1-4c8a-9d88-3b8a8a8c6166,fullskirt.co,premium,,,60,72,10,,,
 1be3b614-8073-4ac3-b102-e4f097afa23b,washitape.co,premium,,,,72,10,,,
@@ -998,4 +999,3 @@ a28245b0-991e-4957-9f15-606c8eb02341,redslaw.co,premium,,,,72,8,,,
 586e6435-3d32-4a5f-9b0d-d7c93da3b17e,sexman.co,premium,,,,72,7,,,
 792a783d-3c83-4a1c-9a29-cb11706313df,urchin.co,resell,,,62,80,6,Zhuimi Inc,04/10/2024 17:00,04/10/2025 17:00
 11b9bd1a-6335-4e3a-bde1-cdef0846fe6c,toughbeans.co,premium,,,,12,11,,,
-7524e0fd-ccc2-4335-92fa-bf5934b56b7b,Archimedesscrew.co,premium,,,66,72,16,,,
