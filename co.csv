@@ -22,6 +22,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 086f9892-71ae-436b-8b79-e0f7e27da6d4,relics.co,resell,,,52,7,6,Porkbun,06/09/2019 17:02,06/09/2026 23:59
 0893927c-60c2-41e3-9c0b-10aa7ae68c34,plaques.co,premium,640,640,42,5,7,namesilo,,
 089940e1-8294-4ec9-91ee-51059fbda039,alcoholpoisoning.co,available,17.99,,48,1,17,name.com,,
+08cc0360-282a-45fc-8f66-3a8b26c1a177,nowornever.co,resell,,,68,11,12,Dynadot Inc,22/04/2026 12:36,22/04/2027 23:59
 0a379d04-a8af-483f-981b-b6ae3873c7fb,Ichooseviolence.co,available,39.98,,44,1,17,namecheap,,
 0aeac8b9-e6a4-4b66-b624-a10b9dc8af11,flipflops.co,resell,,,52,5,10,Dynadot Inc,04/10/2020 17:01,04/10/2026 23:59
 0bce1bf0-c506-4bfb-a2ea-f4bf90c6a439,survived.co,premium,116,116,54,5,8,namesilo,,
@@ -366,7 +367,7 @@ adb03a8c-ff1e-4b02-bf92-96fe6164d379,letsgo.co,resell,,,57,31,7,"GoDaddy.com, LL
 ade1302e-b0d0-4950-b932-73c3c079bde0,Cheddarcheese.co,available,39.98,,66,2,14,namecheap,,
 ae16c535-d68b-4e16-a755-a7d979c6106a,prettywell.co,resell,,,60,2,11,Dynadot Inc,02/07/2025 17:00,02/07/2026 23:59
 ae7a0349-fb4e-4190-97c2-893a91cbf346,segregation.co,premium,140,140,62,2,11,namecheap,,
-aecfe47b-54a3-437d-9e47-0cfd628e9b2e,biggame.co,premium,3539.29,,78,9,8,"Sav.com, LLC - 1",21/09/2024 17:00,21/09/2026 23:59
+aecfe47b-54a3-437d-9e47-0cfd628e9b2e,biggame.co,premium,3539.29,,78,11,8,"Sav.com, LLC - 1",21/09/2024 17:00,21/09/2026 23:59
 af727151-6919-488c-b319-75932acbeacb,ladiesandgentlemen.co,available,17.99,,70,3,20,name.com,,
 b058a17c-b422-4499-939b-22d6d2bf1988,structurally.co,premium,140,140,48,3,12,namecheap,,
 b069b2f5-03c6-4a43-902e-db3490522c41,inthelongrun.co,available,17.99,,60,2,15,name.com,,
@@ -722,7 +723,7 @@ bda61d1c-fbb3-4f52-b19a-16d17fe9d8c8,minimum.co,resell,,,84,19,7,"GoDaddy.com, L
 1fa5181c-c4f7-43f7-a6ef-63657906a18e,caughtstealing.co,premium,,,58,72,15,,,
 005579d2-b625-49ea-b813-81b8f32fc68a,outran.co,premium,,,,72,6,,,
 cc2da910-2443-48ec-8df6-ee4e61b8e873,ace.co,resell,,,88,56,3,"Spaceship, Inc.",14/11/2019 17:00,14/11/2026 23:59
-c8b552f6-67dd-42c2-b5df-1d98a4acf2ba,thoseones.co,premium,,,,0,10,,,
+c8b552f6-67dd-42c2-b5df-1d98a4acf2ba,thoseones.co,premium,,,,1,10,,,
 5895600d-de00-4c81-8de5-68d10198d073,greenpeach.co,premium,,,48,76,11,,,
 78ca8cff-6059-41cb-9365-12bfa6914693,unswayed.co,premium,,,52,72,8,,,
 d8786121-2a62-4717-8f58-039a38aac28c,malechild.co,premium,,,60,72,10,,,
@@ -767,7 +768,7 @@ b33b0a99-a76e-4599-ad2f-255c07176afe,RichCounty.co,premium,,,,8,11,,,
 6a7c86b4-f368-47f0-a3b5-4c9b149e44a2,ironshrub.co,premium,,,36,72,10,,,
 b3145d0a-2b77-4e70-be40-55d569623a2c,carports.co,resell,,,40,32,8,Dynadot Inc,13/08/2016 18:01,12/08/2026 23:59
 e016a3b9-cd64-4c91-910a-3778a993693b,oneanothers.co,premium,,,44,72,12,,,
-83f922b2-b12d-49a8-a177-951c3f7eec67,dogtoothgrass.co,premium,,,90,0,14,,,
+83f922b2-b12d-49a8-a177-951c3f7eec67,dogtoothgrass.co,premium,,,90,1,14,,,
 fd521599-3d74-484f-8095-95444d905a6d,radiobeacon.co,premium,,,54,76,12,,,
 939ff279-eef6-4e93-b826-43da54549aac,heartiest.co,premium,,,40,4,9,,,
 3b7d2978-32be-4344-aab8-ec90b5c3b747,washingpowder.co,premium,,,,72,14,,,
@@ -998,4 +999,3 @@ e9232013-dc3b-4c5e-8858-c8979db279c5,multiqueen.co,premium,,,,72,10,,,
 c424cdec-1696-4ac6-9fd3-60743521618a,irrationality.co,premium,,,54,72,13,,,
 a28245b0-991e-4957-9f15-606c8eb02341,redslaw.co,premium,,,,72,8,,,
 2a45023a-d97a-4136-9962-63119a3a6ab3,prepubescent.co,premium,,,70,72,12,,,
-32c5cbe6-9011-4a91-9f2d-2cd407b21af4,alphabeticity.co,premium,,,58,4,13,,,
