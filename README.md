@@ -1,10 +1,10 @@
-# Available .CO One-Word Domains (50,617)
+# Available .CO One-Word Domains (50,611)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C617%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C611%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,12 +12,12 @@
 Daily-updated public extract of available and resale .co one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **50,617 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **50,611 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 50,617 domains · **Median ask:** $16,494.36 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 50,611 domains · **Median ask:** $3,149.23 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
-**Canonical page:** `https://unique.domains/domains/tld/co`  
+**Last updated:** 2026-07-07
+**Canonical page:** `https://unique.domains/domains/tld/co`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for Unique Domains' .CO one-word domain ca
 
 ### Files
 
-- `co.csv` — public CSV extract (1,000 rows)
-- `co.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `co.csv`, public CSV extract (1,000 rows)
+- `co.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain         | status  | ask_price | renewal_price | attractiveness | demand | length | registrar              |
-| -------------- | ------- | --------- | ------------- | -------------- | ------ | ------ | ---------------------- |
-| croptop.co     | premium | —         | —             | 80             | 4      | 8      | —                      |
-| sundeck.co     | premium | $17.99    | —             | 80             | 5      | 8      | name.com               |
-| rolemodel.co   | premium | $700      | $700          | 85             | 6      | 10     | namecheap              |
-| chickensoup.co | premium | $591.07   | —             | 84             | 4      | 12     | Spaceship, Inc.        |
-| tips.co        | resell  | —         | —             | 80             | 26     | 4      | GoDaddy.com, LLC       |
-| thick.co       | resell  | —         | —             | 80             | 10     | 5      | GoDaddy.com, LLC       |
-| geton.co       | resell  | —         | —             | 82             | 10     | 6      | GoDaddy.com, LLC       |
-| getup.co       | resell  | —         | —             | 82             | 15     | 6      | Network Solutions, LLC |
-| around.co      | resell  | —         | —             | 84             | 22     | 6      | Porkbun                |
-| Apples.co      | resell  | —         | —             | 90             | 16     | 6      | GoDaddy.com, LLC       |
-| surebet.co     | resell  | —         | —             | 82             | 7      | 8      | Dynadot Inc            |
-| chaitea.co     | resell  | —         | —             | 86             | 3      | 8      | Dynadot Inc            |
-| bedframe.co    | resell  | —         | —             | 80             | 3      | 9      | Spaceship, Inc.        |
-| getlucky.co    | resell  | —         | —             | 84             | 10     | 9      | Dynadot Inc            |
-| cuddleup.co    | resell  | —         | —             | 89             | 4      | 9      | Dynadot Inc            |
-| bonvoyage.co   | resell  | —         | —             | 88             | 16     | 10     | Dynadot Inc            |
-| shoparound.co  | resell  | —         | —             | 80             | 3      | 11     | Network Solutions, LLC |
-| affirmation.co | resell  | —         | —             | 82             | 10     | 11     | Dynadot Inc            |
-| getmarried.co  | resell  | —         | —             | 88             | 5      | 11     | Spaceship, Inc.        |
-| MickeyMouse.co | resell  | —         | —             | 86             | 11     | 12     | Sav.com, LLC - 1       |
+| domain      | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar            |
+| ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
+| dogsick.co  | available | $17.99     | —             | high           | low    | 7      | name.com             |
+| ego.co      | resell    | $11,498.85 | $36.40        | medium         | low    | 3      | GoDaddy.com, LLC     |
+| cents.co    | premium   | $3,500     | $3,500        | medium         | low    | 5      | namecheap            |
+| gopast.co   | available | $17.99     | —             | high           | low    | 7      | name.com             |
+| ace.co      | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.      |
+| facts.co    | premium   | $3,450     | $3,450        | high           | low    | 5      | namesilo             |
+| gosing.co   | available | $11.99     | $33.99        | high           | low    | 7      | namesilo             |
+| azo.co      | resell    | —          | —             | medium         | low    | 3      | GoDaddy.com, LLC     |
+| basu.co     | premium   | $130       | $33.80        | medium         | high   | 6      | namecheap            |
+| abbatial.co | available | $36.98     | —             | medium         | low    | 8      | namecheap            |
+| BBQ.co      | resell    | —          | —             | high           | high   | 3      | Hello Internet Corp. |
+| bangles.co  | premium   | $350       | $350          | medium         | low    | 7      | namecheap            |
+| carefor.co  | available | $11.99     | $33.99        | high           | low    | 8      | namesilo             |
+| BVI.co      | resell    | —          | —             | medium         | high   | 3      | 1API GmbH            |
+| boarded.co  | premium   | $302.50    | $302.50       | medium         | low    | 7      | namesilo             |
+| closein.co  | available | $11.99     | $33.99        | high           | low    | 8      | namesilo             |
+| EMV.co      | resell    | —          | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
+| closely.co  | premium   | $640       | $640          | medium         | low    | 7      | namesilo             |
+| sitabout.co | available | $11.99     | $33.99        | medium         | low    | 9      | namesilo             |
+| ESB.co      | resell    | —          | —             | high           | high   | 3      | Domainbox Limited    |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 50,617 live domains                        |
+| 1,000-row public sample | 50,611 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This set is centered on .co domains, with many names leaning short, dictionary-based, and brandable. Examples such as sundeck.co, rolemodel.co, tips.co, and around.co show the range: literal words, broad concepts, action-oriented terms, and flexible brand names. For founders, the main question is whether a name is memorable, easy to say, and credible enough to build on. For investors, the key test is whether the ask leaves room versus comparable quality and likely buyer demand. With a median ask of 16,489, discipline matters. Strong .co names can feel modern and concise, but weaker matches may struggle if the word is awkward, overly narrow, or carries avoidable trademark risk.
+This is a list of one-word .CO domains, spanning everyday words, short nouns, and simple verbs such as "okay," "bingo," "come," and "cut." With 50,611 domains in this set and a median asking price near $3,149, pricing varies widely by word recognition, length, and search demand. These domains suit founders searching for a memorable, ownable name and investors comparing pricing patterns across a large one-word .CO pool.
 
-- Prioritize clear, memorable words over clever but unclear terms
-- Use ask price to separate premium names from speculative pricing
-- Check plural, brand, and product-word trademark exposure carefully
-- Favor .co names that sound natural when spoken aloud
+- 50,611 one-word .CO domains in this selection
+- Median asking price near $3,149 per domain
+- Everyday words like okay.co, bingo.co, and room.co
+- Updated daily to reflect current asking prices
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
