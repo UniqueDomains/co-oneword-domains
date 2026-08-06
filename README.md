@@ -1,10 +1,10 @@
-# Available .CO One-Word Domains (50,611)
+# Available .CO One-Word Domains (50,649)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C611%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-50%2C649%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .co one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **50,611 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **50,649 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 50,611 domains · **Median ask:** $3,149.23 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 50,649 domains · **Median ask:** $2,611.93 · **High-demand under $2,500:** 74
 
-**Last updated:** 2026-07-07
+**Last updated:** 2026-08-06
 **Canonical page:** `https://unique.domains/domains/tld/co`
 **Best for:** founders, investors, studios
 
@@ -66,22 +66,22 @@ print(df.head())
 | ----------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | -------------------- |
 | dogsick.co  | available | $17.99     | —             | high           | low    | 7      | name.com             |
 | ego.co      | resell    | $11,498.85 | $36.40        | medium         | low    | 3      | GoDaddy.com, LLC     |
-| cents.co    | premium   | $3,500     | $3,500        | medium         | low    | 5      | namecheap            |
+| acrid.co    | premium   | $1,107     | $1,107        | low            | low    | 5      | namesilo             |
 | gopast.co   | available | $17.99     | —             | high           | low    | 7      | name.com             |
 | ace.co      | resell    | —          | —             | high           | medium | 3      | Spaceship, Inc.      |
-| facts.co    | premium   | $3,450     | $3,450        | high           | low    | 5      | namesilo             |
+| cents.co    | premium   | $3,500     | $3,500        | medium         | low    | 5      | namecheap            |
 | gosing.co   | available | $11.99     | $33.99        | high           | low    | 7      | namesilo             |
 | azo.co      | resell    | —          | —             | medium         | low    | 3      | GoDaddy.com, LLC     |
-| basu.co     | premium   | $130       | $33.80        | medium         | high   | 6      | namecheap            |
-| abbatial.co | available | $36.98     | —             | medium         | low    | 8      | namecheap            |
-| BBQ.co      | resell    | —          | —             | high           | high   | 3      | Hello Internet Corp. |
-| bangles.co  | premium   | $350       | $350          | medium         | low    | 7      | namecheap            |
+| facts.co    | premium   | $3,450     | $3,450        | high           | low    | 5      | namesilo             |
 | carefor.co  | available | $11.99     | $33.99        | high           | low    | 8      | namesilo             |
-| BVI.co      | resell    | —          | —             | medium         | high   | 3      | 1API GmbH            |
-| boarded.co  | premium   | $302.50    | $302.50       | medium         | low    | 7      | namesilo             |
+| BBQ.co      | resell    | —          | —             | high           | high   | 3      | Hello Internet Corp. |
+| basu.co     | premium   | $130       | $33.80        | medium         | high   | 6      | namecheap            |
 | closein.co  | available | $11.99     | $33.99        | high           | low    | 8      | namesilo             |
+| BVI.co      | resell    | —          | —             | medium         | high   | 3      | 1API GmbH            |
+| abysmal.co  | premium   | $302.50    | $302.50       | low            | low    | 7      | namesilo             |
+| metedout.co | available | $3.99      | $38.99        | low            | low    | 9      | namesilo             |
 | EMV.co      | resell    | —          | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
-| closely.co  | premium   | $640       | $640          | medium         | low    | 7      | namesilo             |
+| acerbic.co  | premium   | $302.50    | $302.50       | low            | low    | 7      | namesilo             |
 | sitabout.co | available | $11.99     | $33.99        | medium         | low    | 9      | namesilo             |
 | ESB.co      | resell    | —          | —             | high           | high   | 3      | Domainbox Limited    |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 50,611 live domains                        |
+| 1,000-row public sample | 50,649 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 74 high-demand names under $2,500          |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-07-07. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
