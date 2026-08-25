@@ -45,7 +45,7 @@ a5ec68ca-ec35-4442-abe9-471652ccb8f4,complexconjugate.co,available,,,medium,high
 44b22135-c5ea-43bd-a876-ae1c4123f898,underserved.co,available,,,medium,high,11,,,
 dddc70d7-c03f-43bc-83c2-86ca11cdfcd8,redmeat.co,resell,,,medium,low,8,Above.com Pty Ltd.,13/08/2025 18:04,13/08/2026 23:59
 70185fed-ee40-407a-846d-01334c93934c,sulfurbottom.co,available,,,medium,high,13,,,
-297fc805-61cb-4d98-8676-1637a2152cae,segmented.co,resell,,,medium,high,9,"GoDaddy.com, LLC",23/10/2013 08:14,22/10/2025 23:59
+297fc805-61cb-4d98-8676-1637a2152cae,segmented.co,resell,,,low,low,9,"GoDaddy.com, LLC",23/10/2013 08:14,22/10/2026 23:59
 6e28df90-d756-4f6a-8b0d-7fc8c2e880e0,textures.co,resell,,,low,low,8,"GoDaddy.com, LLC",02/02/2015 15:33,01/02/2027 23:59
 935b5867-4a4e-4a4b-bebe-b0cda7dff8a1,midthorax.co,available,,,medium,low,9,,,
 e9ed409c-dea0-4a8a-a92e-3e7489bbb6d9,legoset.co,available,,,high,high,8,,,
@@ -372,7 +372,7 @@ e479369e-c338-49e6-8f66-872d722c7f44,undynamic.co,premium,116,116,low,low,9,name
 9efda75f-84dd-4726-a8c1-722f4f9125b2,fixedwave.co,available,,,medium,high,10,,,
 0473f42c-9613-4675-be08-c8637fb64ba4,dispositions.co,available,,,low,low,12,,,
 20d47882-15f9-4e84-ba2b-dd1717d4857a,embossed.co,premium,116,116,medium,low,8,namesilo,,
-0f676fa5-81ca-4bf4-9628-5d7c9f7b1489,middlemost.co,available,,,medium,high,10,,,
+0f676fa5-81ca-4bf4-9628-5d7c9f7b1489,middlemost.co,available,19.49,38.99,low,low,10,namesilo,,
 8e3cd531-2cca-4fe6-8740-6cd1529c6a24,doveeyed.co,available,,,medium,high,9,,,
 1cc15adc-6b26-4d9a-b150-4c71e9313b7b,revitalisation.co,available,,,medium,low,14,,,
 fdda1151-a0a4-4ca2-a56e-ab418fa840c6,doginthehunt.co,available,,,medium,high,15,,,
@@ -415,7 +415,7 @@ e3807b53-d356-4348-986b-0ffc8fcbfdbe,redhead.co,available,,,medium,high,7,,,
 bcab28dd-91fd-434c-8688-32bf8c87f9d3,sweetpotato.co,available,,,medium,high,12,,,
 e596dc0f-81cd-4868-8299-94aed841a831,concertise.co,available,,,medium,high,10,,,
 87f4cd06-3673-4921-8d36-9a15c3c71d52,utterly.co,premium,302.5,302.5,medium,low,7,namesilo,,
-8f988872-b3bb-4c7a-bd50-015b834d4ea6,runacross.co,available,,,medium,high,10,,,
+8f988872-b3bb-4c7a-bd50-015b834d4ea6,runacross.co,available,19.98,45.48,low,low,10,namecheap,,
 61a6d332-c17c-4db7-be83-86bd4f021da5,USB.co,resell,,,medium,high,3,InternetX GmbH,24/02/2010 22:36,23/02/2026 23:59
 543233ec-598f-4183-ac47-1cc7b96e52ee,carapace.co,resell,,,medium,high,8,1API GmbH,10/08/2015 14:10,09/08/2025 23:59
 ec5798ba-7916-48b2-9be6-df055f6e1051,idyllically.co,available,,,medium,high,11,,,
@@ -481,7 +481,7 @@ a28245b0-991e-4957-9f15-606c8eb02341,redslaw.co,available,,,medium,high,8,,,
 7524e0fd-ccc2-4335-92fa-bf5934b56b7b,Archimedesscrew.co,available,,,medium,high,16,,,
 4bac7216-f922-4071-b590-c2416d2a3dc3,prayerfully.co,available,,,medium,high,11,,,
 465b5ed0-d694-4723-ac77-2e8f3b04c3ab,scenequeen.co,available,,,medium,high,11,,,
-dc9cc99f-d91a-492e-a223-da74ae4940cd,lunisolar.co,available,,,medium,high,9,,,
+dc9cc99f-d91a-492e-a223-da74ae4940cd,lunisolar.co,premium,116,116,low,low,9,namesilo,,
 f318a57d-bde5-461f-bf5c-4f7a866b544c,abbatial.co,premium,116,116,low,low,8,namesilo,,
 a34842a5-db07-492e-8edc-811f4ddd0dd8,keepSaintMonday.co,available,,,low,low,17,,,
 aa7793db-6421-48fb-b4c6-29e1e8a6a9ba,entranceexam.co,available,,,medium,high,13,,,
