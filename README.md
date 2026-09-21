@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .co one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 58,608 domains · **Median ask:** $966.15 · **High-demand under $2,500:** 71
 
-**Last updated:** 2026-09-20
+**Last updated:** 2026-09-21
 **Canonical page:** `https://unique.domains/domains/tld/co`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | cents.co   | premium   | $3,250     | $3,250        | low            | low    | 5      | namecheap            |
 | dogsick.co | available | $19.49     | $38.99        | medium         | low    | 7      | namesilo             |
 | azo.co     | resell    | —          | —             | medium         | low    | 3      | GoDaddy.com, LLC     |
-| facts.co   | premium   | $3,450     | $3,450        | medium         | low    | 5      | namesilo             |
+| facts.co   | premium   | $3,250     | $3,250        | medium         | low    | 5      | namecheap            |
 | gopast.co  | available | $19.49     | $38.99        | medium         | low    | 7      | namesilo             |
 | bbq.co     | resell    | —          | —             | high           | high   | 3      | Hello Internet Corp. |
 | basu.co    | premium   | $130       | $33.80        | medium         | high   | 6      | namecheap            |
@@ -83,7 +83,7 @@ print(df.head())
 | emv.co     | resell    | —          | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
 | abysmal.co | premium   | $302.50    | $302.50       | low            | low    | 7      | namesilo             |
 | closein.co | available | $11.99     | $33.99        | high           | low    | 8      | namesilo             |
-| esb.co     | resell    | —          | —             | high           | high   | 3      | Domainbox Limited    |
+| esb.co     | resell    | —          | —             | high           | high   | 3      | Dynadot Inc          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-09-21. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
