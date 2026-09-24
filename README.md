@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .co one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 59,633 domains · **Median ask:** $896.56 · **High-demand under $2,500:** 75
 
-**Last updated:** 2026-09-23
+**Last updated:** 2026-09-24
 **Canonical page:** `https://unique.domains/domains/tld/co`
 **Best for:** founders, investors, studios
 
@@ -72,7 +72,7 @@ print(df.head())
 | cents.co    | premium   | $3,250     | $3,250        | low            | low    | 5      | namecheap            |
 | dogsick.co  | available | $19.49     | $38.99        | medium         | low    | 7      | namesilo             |
 | azo.co      | resell    | —          | —             | medium         | low    | 3      | GoDaddy.com, LLC     |
-| facts.co    | premium   | $3,250     | $3,250        | medium         | low    | 5      | namecheap            |
+| facts.co    | premium   | $3,450     | $3,450        | medium         | low    | 5      | namesilo             |
 | gopast.co   | available | $19.49     | $38.99        | medium         | low    | 7      | namesilo             |
 | bbq.co      | resell    | —          | —             | high           | high   | 3      | Hello Internet Corp. |
 | basu.co     | premium   | $116       | $116          | low            | low    | 6      | namesilo             |
@@ -81,7 +81,7 @@ print(df.head())
 | haired.co   | premium   | $640       | $640          | low            | low    | 6      | namesilo             |
 | backdown.co | available | $19.98     | $45.48        | low            | low    | 8      | namecheap            |
 | emv.co      | resell    | —          | —             | medium         | high   | 3      | GoDaddy.com, LLC     |
-| abysmal.co  | premium   | $302.50    | $302.50       | low            | low    | 7      | namesilo             |
+| holloa.co   | premium   | $640       | $640          | medium         | low    | 6      | namesilo             |
 | carefor.co  | available | $11.99     | $33.99        | high           | low    | 8      | namesilo             |
 | esb.co      | resell    | —          | —             | high           | high   | 3      | Dynadot Inc          |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-09-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
