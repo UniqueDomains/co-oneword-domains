@@ -1,10 +1,10 @@
-# Available .CO One-Word Domains (29,836)
+# Available .CO One-Word Domains (30,465)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-29%2C836%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-30%2C465%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .co one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **29,836 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **30,465 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 29,836 domains · **Median ask:** $1,323.64 · **High-demand under $2,500:** 363
+**Public extract:** 1,000 rows · **Live catalog:** 30,465 domains · **Median ask:** $1,285.07 · **High-demand under $2,500:** 359
 
-**Last updated:** 2026-09-30
+**Last updated:** 2026-10-01
 **Canonical page:** `https://unique.domains/domains/tld/co`
 **Best for:** founders, investors, studios
 
@@ -72,16 +72,16 @@ print(df.head())
 | apia.co          | premium   | $5,175     | $5,175        | high           | low    | 4      | namesilo               |
 | dulcie.co        | available | $19.49     | $38.99        | high           | high   | 6      | namesilo               |
 | qualification.co | resell    | $3,436.20  | $48.99        | high           | low    | 13     | Porkbun                |
-| land.co          | premium   | $5,175     | $5,175        | high           | low    | 4      | namesilo               |
-| taipeh.co        | available | $19.49     | $38.99        | high           | low    | 6      | namesilo               |
+| fars.co          | premium   | $5,175     | $5,175        | high           | low    | 4      | spaceship              |
+| taipeh.co        | available | $19.49     | $38.99        | medium         | low    | 6      | namesilo               |
 | bel.co           | resell    | —          | —             | high           | low    | 3      | Hello Internet Corp.   |
-| ragi.co          | premium   | $6,500     | $6,500        | medium         | low    | 4      | namecheap              |
+| ince.co          | premium   | $3,750     | —             | high           | low    | 4      | unstoppable            |
 | amorpha.co       | available | $19.49     | $38.99        | high           | low    | 7      | namesilo               |
 | cdp.co           | resell    | —          | —             | high           | low    | 3      | —                      |
-| test.co          | premium   | $3,881.25  | $3,881.25     | high           | high   | 4      | spaceship              |
-| ballpen.co       | available | $19.49     | $38.99        | high           | low    | 7      | namesilo               |
+| land.co          | premium   | $5,175     | $5,175        | high           | low    | 4      | namesilo               |
+| ballpen.co       | available | $19.49     | $38.99        | medium         | low    | 7      | namesilo               |
 | ein.co           | resell    | —          | —             | high           | low    | 3      | Network Solutions, LLC |
-| acmes.co         | premium   | $3,450     | $3,450        | high           | low    | 5      | namesilo               |
+| ragi.co          | premium   | $6,500     | $6,500        | medium         | low    | 4      | namecheap              |
 | gromyko.co       | available | $19.49     | $38.99        | high           | low    | 7      | namesilo               |
 | est.co           | resell    | —          | —             | high           | low    | 3      | Dynadot Inc            |
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 29,836 live domains                        |
+| 1,000-row public sample | 30,465 live domains                        |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 363 high-demand names under $2,500         |
+| Basic exported fields   | 359 high-demand names under $2,500         |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-09-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-10-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
