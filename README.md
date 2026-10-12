@@ -1,10 +1,10 @@
-# Available .CO One-Word Domains (35,773)
+# Available .CO One-Word Domains (36,080)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-35%2C773%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-36%2C080%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 Daily-updated public extract of available and resale .co one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **35,773 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **36,080 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 35,773 domains · **Median ask:** $1,106.59 · **High-demand under $2,500:** 401
+**Public extract:** 1,000 rows · **Live catalog:** 36,080 domains · **Median ask:** $1,095.29 · **High-demand under $2,500:** 393
 
-**.CO market:** 40,990 names available · Median registration $15.53 · Median renewal $35.10 · 563 sales in the last 12 months · Median sale $665 (USD sales, last 12 months)
+**.CO market:** 40,977 names available · Median registration $15.53 · Median renewal $35.10 · 566 sales in the last 12 months · Median sale $670 (USD sales, last 12 months)
 
 **Last updated:** 2026-10-12
 **Canonical page:** `https://unique.domains/tld/co`
@@ -76,16 +76,16 @@ print(df.head())
 | qualification.co | resell    | $3,436.20  | $48.99        | high           | low    | 13     | Porkbun     |
 | ivf.co           | premium   | $5,175     | $5,175        | high           | low    | 3      | spaceship   |
 | chowan.co        | available | $19.49     | $38.99        | high           | low    | 6      | namesilo    |
-| bla.co           | resell    | —          | —             | high           | low    | 3      | —           |
+| ber.co           | resell    | —          | —             | high           | low    | 3      | —           |
 | pkk.co           | premium   | $5,000     | —             | high           | low    | 3      | unstoppable |
 | dulcie.co        | available | $15.53     | $31.05        | high           | low    | 6      | spaceship   |
-| cdp.co           | resell    | —          | —             | high           | low    | 3      | —           |
+| bla.co           | resell    | —          | —             | high           | low    | 3      | —           |
 | tim.co           | premium   | $6,900     | $6,900        | high           | medium | 3      | namesilo    |
 | jinnah.co        | available | $30        | $30           | high           | low    | 6      | cloudflare  |
-| cpb.co           | resell    | —          | —             | medium         | low    | 3      | —           |
+| cdp.co           | resell    | —          | —             | high           | low    | 3      | —           |
 | apia.co          | premium   | $5,175     | $5,175        | high           | low    | 4      | namesilo    |
 | unaids.co        | available | $15.53     | $31.05        | high           | high   | 6      | spaceship   |
-| ean.co           | resell    | —          | —             | high           | low    | 3      | —           |
+| cpb.co           | resell    | —          | —             | high           | low    | 3      | —           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 35,773 live domains                                  |
+| 1,000-row public sample | 36,080 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 401 high-demand names under $2,500                   |
+| Basic exported fields   | 393 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
