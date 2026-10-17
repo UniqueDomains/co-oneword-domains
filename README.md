@@ -1,10 +1,10 @@
-# Available .CO One-Word Domains (37,423)
+# Available .CO One-Word Domains (37,747)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C423%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-37%2C747%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,13 +12,13 @@
 Daily-updated public extract of available and resale .co one-word domains from Unique Domains.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **37,423 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **37,747 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 37,423 domains · **Median ask:** $1,043.22 · **High-demand under $2,500:** 475
+**Public extract:** 1,000 rows · **Live catalog:** 37,747 domains · **Median ask:** $1,033.44 · **High-demand under $2,500:** 480
 
-**.CO market:** 41,218 names available · Median registration $15.76 · Median renewal $35.10 · 569 sales in the last 12 months · Median sale $676 (USD sales, last 12 months)
+**.CO market:** 41,193 names available · Median registration $15.76 · Median renewal $35.10 · 570 sales in the last 12 months · Median sale $676 (USD sales, last 12 months)
 
-**Last updated:** 2026-10-16
+**Last updated:** 2026-10-17
 **Canonical page:** `https://unique.domains/tld/co`
 **Best for:** founders, investors, studios
 
@@ -66,25 +66,25 @@ print(df.head())
 
 | domain           | status    | ask_price  | renewal_price | attractiveness | demand | length | registrar   |
 | ---------------- | --------- | ---------- | ------------- | -------------- | ------ | ------ | ----------- |
-| tzara.co         | available | $12.50     | —             | high           | low    | 5      | unstoppable |
+| douay.co         | available | $12.50     | —             | medium         | low    | 5      | unstoppable |
 | obi.co           | resell    | $29,771.20 | $48.99        | high           | high   | 3      | Dynadot Inc |
 | cnr.co           | premium   | $500       | —             | high           | low    | 3      | unstoppable |
-| aigina.co        | available | $19.49     | $38.99        | medium         | low    | 6      | namesilo    |
+| tzara.co         | available | $12.50     | —             | high           | low    | 5      | unstoppable |
 | event.co         | resell    | $286,350   | $48.99        | high           | medium | 5      | Dynadot Inc |
 | faw.co           | premium   | $5,175     | $5,175        | high           | low    | 3      | spaceship   |
-| alhaji.co        | available | $30        | $30           | high           | low    | 6      | cloudflare  |
+| aigina.co        | available | $19.49     | $38.99        | medium         | low    | 6      | namesilo    |
 | qualification.co | resell    | $3,436.20  | $48.99        | high           | low    | 13     | Porkbun     |
 | hmi.co           | premium   | $517.50    | $517.50       | high           | low    | 3      | spaceship   |
-| anguis.co        | available | $19.49     | $38.99        | high           | low    | 6      | namesilo    |
+| alhaji.co        | available | $30        | $30           | high           | low    | 6      | cloudflare  |
 | awf.co           | resell    | —          | —             | high           | low    | 3      | —           |
 | ivf.co           | premium   | $5,175     | $5,175        | high           | low    | 3      | spaceship   |
-| chowan.co        | available | $19.49     | $38.99        | high           | low    | 6      | namesilo    |
+| anguis.co        | available | $19.49     | $38.99        | high           | low    | 6      | namesilo    |
 | ber.co           | resell    | —          | —             | high           | low    | 3      | —           |
 | pkk.co           | premium   | $5,000     | —             | high           | low    | 3      | unstoppable |
-| jinnah.co        | available | $30        | $30           | high           | low    | 6      | cloudflare  |
+| chowan.co        | available | $19.49     | $38.99        | high           | low    | 6      | namesilo    |
 | bla.co           | resell    | —          | —             | high           | low    | 3      | —           |
 | tim.co           | premium   | $6,900     | $6,900        | high           | medium | 3      | namesilo    |
-| unaids.co        | available | $15.53     | $31.05        | high           | high   | 6      | spaceship   |
+| jinnah.co        | available | $30        | $30           | high           | low    | 6      | cloudflare  |
 | cdp.co           | resell    | —          | —             | high           | low    | 3      | —           |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -95,9 +95,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | 37,423 live domains                                  |
+| 1,000-row public sample | 37,747 live domains                                  |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | 475 high-demand names under $2,500                   |
+| Basic exported fields   | 480 high-demand names under $2,500                   |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -146,7 +146,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available .CO One-Word Domains*. Version 2026-10-16. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available .CO One-Word Domains*. Version 2026-10-17. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
