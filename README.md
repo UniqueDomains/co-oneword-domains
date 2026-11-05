@@ -16,7 +16,7 @@ Daily-updated public extract of available and resale .co one-word domains from U
 
 **Public extract:** 1,000 rows · **Live catalog:** 23,059 domains · **Median ask:** $811.63 · **High-demand under $2,500:** 2,599
 
-**.CO market:** 40,286 names available · Median registration $15.76 · Median renewal $35.10 · 557 sales in the last 12 months · Median sale $711 (USD sales, last 12 months)
+**.CO market:** 40,284 names available · Median registration $15.76 · Median renewal $35.10 · 557 sales in the last 12 months · Median sale $711 (USD sales, last 12 months)
 
 **Last updated:** 2026-11-05
 **Canonical page:** `https://unique.domains/tld/co`
