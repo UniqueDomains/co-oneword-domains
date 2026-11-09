@@ -1,6 +1,6 @@
 # Available .CO One-Word Domains
 
-14,968 one-word .co names are free to register today, from $8.99 the first year at GoDaddy. Renewal there $42.99, five times the first year. 554 .co sales in the last 12 months, median $710.
+14,957 one-word .co names are free to register today, from $8.99 the first year at GoDaddy. Renewal there $42.99, five times the first year. 553 .co sales in the last 12 months, median $711.
 
 Live page: [unique.domains/tld/co](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_co_oneword_domains&utm_content=top_tld_page)
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 22,860 names in the live list today.
+- The files hold 1,000 rows of the 22,845 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 
