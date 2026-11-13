@@ -151,6 +151,7 @@ f8f5db6c-f2d6-4990-ba96-bd180e46a9f0,ecoartist.co,available,15.53,31.05,high,low
 13787661-2928-41fd-8b2d-c62089bb2c55,domaine.co,resell,,,high,low,7,,,
 4c4ce41a-b4aa-4206-8bd4-5972b42c0eff,walkout.co,premium,258.75,258.75,high,low,7,spaceship,,
 27363db4-44b4-4b64-b182-785efe225bb4,fsh.co,resell,,,high,low,3,,,
+e1cc460a-6080-4dda-8b16-85ff997c8e0c,applier.co,premium,517.5,517.5,high,low,7,spaceship,,
 4a8eed89-65e8-435d-8c18-2a0e29d504aa,horses.co,resell,,,high,low,6,InternetX GmbH,25/02/2010 01:19,24/02/2027 23:59
 6c40640c-4688-4911-9401-904c59591b28,humongous.co,premium,103.5,103.5,high,low,9,spaceship,,
 cbfa84a7-ae72-4496-8546-f7b6fc6c541c,stv.co,resell,,,high,low,3,,,
@@ -254,7 +255,7 @@ ee98df75-d9e6-4581-9dc1-b85cce03f722,goldless.co,available,15.5,31.2,high,high,8
 9127a712-471c-477c-9a19-7e433a854c61,swarm.co,resell,,,high,low,5,,,
 b949734f-a63a-40ff-8841-e0117fd2c9af,idolater.co,premium,,,high,high,8,,,
 bd41932d-7de3-460c-9f50-3b4428bf30a2,oop.co,resell,,,high,low,3,"GoDaddy.com, LLC",20/07/2010 18:06,19/07/2026 23:59
-fdafaf6f-680f-4c49-82d0-459ad6b5d0a9,test.co,premium,4125,4125,high,high,4,dynadot,,
+fdafaf6f-680f-4c49-82d0-459ad6b5d0a9,test.co,premium,4094.03,4094.03,high,high,4,porkbun,,
 1e6cae99-ee6b-4290-a012-73718b6a9103,reindeer.co,resell,,,high,low,8,"GoDaddy.com, LLC",12/05/2022 17:00,12/05/2027 23:59
 22c2d124-462a-4649-9d0c-24dce8f6f892,crashing.co,premium,100,,high,low,8,unstoppable,,
 38f6232d-0dfd-4c3a-8a45-04850bc4e7af,housefather.co,premium,100,,high,low,11,unstoppable,,
@@ -300,7 +301,7 @@ e1287e90-0619-468e-9935-da92bbda85bc,agitator.co,premium,650,650,high,low,8,name
 27a385f5-c48d-4ce7-874a-003105dc116e,voa.co,resell,,,high,low,3,,,
 c1a3c493-95bf-4d00-bc47-f836e8547c5a,postgrad.co,resell,,,high,low,8,,,
 0899b8c4-418a-4e14-b645-89accc9c4da4,foreign.co,premium,517.5,517.5,high,low,7,spaceship,,
-89861e89-f2b2-4a02-b8d8-70fd7d31ed40,powdered.co,premium,546.14,546.14,high,low,8,porkbun,,
+89861e89-f2b2-4a02-b8d8-70fd7d31ed40,powdered.co,premium,500,546.14,high,low,8,unstoppable,,
 3a2ffeed-5895-4845-b975-201e6e8eba42,prokaryota.co,available,,,high,low,10,,,
 c4eda881-d62f-441d-b244-8431a94f6c01,bimini.co,resell,,,high,low,6,,,
 ab54ab91-78ca-4933-9b67-dca7aec7aa0c,evacuate.co,resell,,,high,low,8,,,
@@ -344,7 +345,7 @@ eb37e6af-7d61-422d-9337-771ddbfa8f72,revolutions.co,premium,116,116,high,low,11,
 8813fbd0-6a7b-4e64-8c54-5c45f1d0572d,octaves.co,available,,,high,low,7,,,
 6a003eb5-4e69-4f59-851f-9d1a82fb3ecc,fumbling.co,premium,130,130,high,low,8,namecheap,,
 446fb965-99cc-4772-a531-c8b78287e7e5,charlatan.co,resell,,,high,low,9,,,
-7ec0b7ad-1be2-480a-8328-8843df72c207,godsent.co,available,19.49,38.99,high,low,7,namesilo,,
+7ec0b7ad-1be2-480a-8328-8843df72c207,godsent.co,available,30,30,high,low,7,cloudflare,,
 96c60a1d-4a98-4feb-b28d-a6522a8daad3,confuzzled.co,available,19.49,38.99,high,high,10,namesilo,,
 ca1a6fec-02e2-4be9-b020-61d959994117,imam.co,resell,,,high,low,4,,,
 b31bc967-280e-4d9e-91f2-6cd632d90b14,adoring.co,premium,302.5,302.5,high,low,7,namesilo,,
@@ -378,7 +379,6 @@ c3c9fa62-a963-4b68-a2a0-0f6f583c8490,greengrocer.co,premium,100,103.5,high,low,1
 9a82fa35-3543-47a2-9f53-b0463605cbdd,pedalboat.co,available,,,high,medium,9,,,
 b7a48eea-851c-4a8b-a95f-dc462e10ada4,ruched.co,premium,517.5,517.5,high,high,6,spaceship,,
 693337df-904d-4412-b285-d2694c8d5790,acerbic.co,premium,250,302.5,high,low,7,unstoppable,,
-af4c6d2a-6151-43b6-a0cf-6cfa3fed1266,implement.co,resell,,,high,low,9,"Spaceship, Inc.",19/09/2011 01:33,18/09/2027 23:59
 f6f5b72b-fed4-4759-9980-8ee6236efa61,nonet.co,premium,1300,1300,high,low,5,namecheap,,
 f09dbe06-0944-494b-a1b5-672f98f76a18,trackless.co,resell,,,high,low,9,Dynadot Inc,21/04/2021 17:00,21/04/2027 23:59
 414673f0-0f80-4740-ae5d-3b45430666d7,uart.co,premium,103.5,103.5,high,medium,4,spaceship,,
@@ -615,7 +615,7 @@ f61a6513-5a61-40bd-9aba-72e78688a6c1,fishery.co,premium,640,640,high,low,7,names
 1a194b77-61a4-4ed8-93aa-6702ca5b3bda,epigraphy.co,premium,116,116,high,low,9,namesilo,,
 a1e8913e-e973-4f3d-a57f-2906497661a4,iru.co,resell,,,high,low,3,,,
 cfe0577b-ce80-4055-985e-d49122ceca3f,surrendered.co,premium,116,116,high,low,11,namesilo,,
-1cfc78fa-9533-459f-a591-e7e00175a906,capillary.co,premium,130,130,high,low,9,namecheap,,
+1cfc78fa-9533-459f-a591-e7e00175a906,capillary.co,premium,100,130,high,low,9,unstoppable,,
 dddb4dbb-f392-4a29-98af-a57dbc9b48d9,plastid.co,premium,302.5,302.5,high,low,7,namesilo,,
 5fbb5d15-33a5-4db4-ac22-e7dc34a198bb,ragi.co,premium,6500,6500,high,low,4,namecheap,,
 f7923049-4c37-4d17-b8f8-4f01a40ebb04,gearings.co,available,,,high,low,8,,,
@@ -675,7 +675,6 @@ e4ae676e-f0da-411e-b99e-96313ff179d9,augmentor.co,premium,,,high,low,9,,,
 79a96c5b-5e9a-46ae-888d-a070a3c80aa6,cheek.co,resell,,,high,low,5,"GoDaddy.com, LLC",25/08/2017 01:18,24/08/2027 23:59
 fa6eb292-a56c-42ff-9085-773328ca1693,irishman.co,available,19.49,38.99,high,low,8,namesilo,,
 01328017-74b8-46ec-ba5e-7ea47a99b4ff,bikeathon.co,available,12.5,,high,low,9,unstoppable,,
-d630750e-5e42-4592-aade-331122e49e46,corps.co,resell,,,high,low,5,"GoDaddy.com, LLC",20/07/2010 18:00,19/07/2027 23:59
 90cf1669-1e0e-41a8-8c48-cbb27520b9de,hottie.co,resell,,,high,medium,6,"GoDaddy.com, LLC",21/07/2010 21:34,20/07/2027 23:59
 851a5cf9-a994-4dbd-aaf9-10b5b6b0a1d6,earthworm.co,resell,,,high,low,9,"Network Solutions, LLC",16/04/2017 18:10,15/04/2027 23:59
 9fa6b96c-45ee-49a3-a421-73dea773c568,agrarian.co,premium,130,130,high,low,8,namecheap,,
@@ -741,7 +740,6 @@ ea43044b-0919-4656-81bf-b6dd92402847,littluns.co,available,,,high,low,8,,,
 45133866-8765-4630-a68f-96661b056c0c,fulgurant.co,premium,103.5,103.5,high,low,9,spaceship,,
 e180a991-c2be-45a6-b962-7af99bc42b61,albumin.co,premium,302.5,302.5,high,low,7,namesilo,,
 9d7f3f3c-f27f-4f21-b905-6082a3a6ab63,selfexistence.co,available,19.49,38.99,high,high,14,namesilo,,
-2d9947bc-1389-4f21-8e62-74c4cc4c9d49,boxers.co,resell,,,high,low,6,"GoDaddy.com, LLC",02/02/2015 08:16,01/02/2027 23:59
 1ac4a0c6-de55-4cd4-8f4b-1ae32ce4439e,ecd.co,resell,,,high,low,3,,,
 45c2650b-e1e7-42a1-a85a-2985dd93411d,pinfish.co,premium,250,,high,high,7,unstoppable,,
 a5854d55-543a-4031-bc8d-1bb2d7caf883,abirritated.co,available,17.99,48.99,high,low,11,name.com,,
@@ -808,7 +806,7 @@ fdf55dbd-2c17-436e-96f1-c3f344aa92f4,milc.co,resell,,,high,low,4,,,
 eea22570-f1c4-40b5-a7f6-766ebeff6717,devolution.co,resell,,,high,low,10,,,
 cf190bb3-75b8-4ce6-ae6d-ec2358883a31,multicolor.co,premium,640,640,high,low,10,namesilo,,
 4c65b9ba-77a3-4df9-9d75-351d5c7ac242,qed.co,resell,,,high,medium,3,"GoDaddy.com, LLC",22/09/2013 18:08,21/09/2027 23:59
-c90473d7-6794-483c-a7d9-c183f1ee3d43,camisole.co,premium,116,116,high,low,8,namesilo,,
+c90473d7-6794-483c-a7d9-c183f1ee3d43,camisole.co,premium,103.5,103.5,high,low,8,spaceship,,
 592b0223-8b05-4308-826c-dd5ae83f7ffa,erratic.co,premium,275,275,high,low,7,dynadot,,
 86278a06-a1d5-4756-b54f-b9313cd05e5b,fardingbag.co,available,15.5,31.2,high,high,10,dynadot,,
 d2ee4196-97ef-42ca-a9ba-7d8cddac7066,attitudinise.co,premium,116,116,high,high,12,namesilo,,
@@ -999,3 +997,5 @@ d3a962f2-8e05-4f35-b128-16502124909d,restrained.co,premium,116,116,high,low,10,n
 3a7589a8-b6ee-45ad-9a83-8302de728db0,colourfastness.co,available,,,high,low,14,,,
 7c098651-5f0e-4f14-855c-4607df3cd50b,ascending.co,resell,,,high,low,9,"GoDaddy.com, LLC",02/01/2017 18:22,01/01/2027 23:59
 575ee040-28c9-439a-a19d-49ad1db674c1,remotivate.co,premium,103.5,103.5,high,low,10,spaceship,,
+27921671-886b-4adf-a478-cf5c8d39f34f,speakerphone.co,premium,100,,high,low,12,unstoppable,,
+e4928d38-88a8-482e-92c3-b525731360c4,wickerwork.co,premium,116,116,high,low,10,namesilo,,
