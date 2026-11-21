@@ -1,10 +1,12 @@
 # Available .CO One-Word Domains
 
-1,000 real .co one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
+**Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_co_oneword_domains&utm_content=top_home).
 
-Each word exists once on each ending. Unique.domains tracks [82,043 names on .co](https://unique.domains/tld/co); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+1,000 real .co one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-14,962 one-word .co names are free to register today, from $5.98 the first year at Namecheap. Renewal there $45.48, eight times the first year. 581 .co sales in the last 12 months, median $799.
+Each word exists once on each ending. Unique.domains tracks [82,100 names on .co](https://unique.domains/tld/co); this file is an extract of the ones you can still register or buy, in the list's own neutral order, not a ranking.
+
+15,038 one-word .co names are free to register today, from $5.98 the first year at Namecheap. Renewal there $45.48, eight times the first year. 581 .co sales in the last 12 months, median $799.
 
 Live page: [unique.domains/tld/co](https://unique.domains/tld/co?utm_source=github&utm_medium=referral&utm_campaign=repo_co_oneword_domains&utm_content=top_tld_page)
 
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the 21,948 names in the live list today.
+- The files hold 1,000 rows of the 22,010 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 
